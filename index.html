@@ -8,9 +8,15 @@
       font-family: 'Cutive Mono', monospace;
       cursor: default;
       margin: 10%;
+      background-image: url('paper.jpg');
     }
     h1 {  
       font-size: 82pt;
+      transition: font-size 1s;
+    }
+    h1.unfocused {
+      font-size: 18pt;
+      transition: font-size 1s;
     }
     h2:hover {
       font-size: 40pt;
@@ -23,7 +29,6 @@
       color: hsl(316, 23%, 0%);
       color: rgb(0, 0, 0);
       margin: 0;
-      /*padding: 10px 0;*/
       cursor: pointer;
     }
     div.section {
@@ -32,9 +37,9 @@
   </style>
 </head>
 <body>
-  <h1>Caitlin Stall-Paquet</h1>
+  <h1 id="mainTitle">Caitlin Stall-Paquet</h1>
   <div class="section" id="writing">
-    <h2>Writing</h2>
+    <h2 onclick="changePage('writing')">Writing</h2>
   </div>
   <div class="section" id="translation">
     <h2>Translation</h2>
@@ -43,4 +48,20 @@
     <h2>Contact</h2>
   </div>
 </body>
+<script type="text/javascript">
+  var data;
+  fetch("portfolio-data.json")
+    .then(function(response) {
+      return response.json();
+    })
+    .then(function(json) {
+      data = json;
+    });
+
+  function changePage(destination) {
+    var mainTitle = document.getElementById("mainTitle");
+    mainTitle.classList.add("unfocused");
+
+  }
+</script>
 </html>
