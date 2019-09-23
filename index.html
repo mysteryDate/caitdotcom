@@ -7,24 +7,30 @@
     body {
       font-family: 'Cutive Mono', monospace;
       cursor: default;
-      margin: 10%;
       background-image: url('paper.jpg');
+      margin: 10%;
+    }
+    .page {
+      border: 1px solid magenta;
+    }
+    .page.focused {
+      width: 100%;
+      transition: width 1s;
+    }
+    .page.unfocused {
+      width: 10%;
+      transition: width 1s;
     }
     h1 {  
-      font-size: 82pt;
-      transition: font-size 1s;
-    }
-    h1.unfocused {
-      font-size: 18pt;
-      transition: font-size 1s;
+      font-size: 6.5vw;
     }
     h2:hover {
-      font-size: 40pt;
+      font-size: 4.5vw;
       color: hsl(316, 23%, 72%);
       transition: font-size 1s, color 1s;
     }
     h2 {
-      font-size: 30pt;
+      font-size: 3.5vw;
       transition: font-size 1s, color 1s;
       color: hsl(316, 23%, 0%);
       color: rgb(0, 0, 0);
@@ -37,15 +43,17 @@
   </style>
 </head>
 <body>
-  <h1 id="mainTitle">Caitlin Stall-Paquet</h1>
-  <div class="section" id="writing">
-    <h2 onclick="changePage('writing')">Writing</h2>
-  </div>
-  <div class="section" id="translation">
-    <h2>Translation</h2>
-  </div>
-  <div class="section" id="contact">
-    <h2>Contact</h2>
+  <div class="page focused" id="title">
+    <h1 id="mainTitle">Caitlin Stall-Paquet</h1>
+    <div class="section" id="writing">
+      <h2 onclick="changePage('writing')">Writing</h2>
+    </div>
+    <div class="section" id="translation">
+      <h2>Translation</h2>
+    </div>
+    <div class="section" id="contact">
+      <h2>Contact</h2>
+    </div>
   </div>
 </body>
 <script type="text/javascript">
@@ -59,9 +67,9 @@
     });
 
   function changePage(destination) {
-    var mainTitle = document.getElementById("mainTitle");
-    mainTitle.classList.add("unfocused");
-
+    var titlePage = document.getElementById("title");
+    titlePage.classList.add("unfocused");
+    titlePage.classList.remove("focused");
   }
 </script>
 </html>
