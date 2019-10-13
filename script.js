@@ -21,11 +21,13 @@ function init(data) {
     sections[s.id] = s;
   });
   data.forEach((entry) => {
-    var htmlEntry = default_entry.cloneNode();
+    var htmlEntry = default_entry.cloneNode(true);
     htmlEntry.id = "";
-    var p = document.createElement("p");
-    p.innerText = entry.title;
-    console.log(entry.category);
-    sections[entry.category].appendChild(p);
+    htmlEntry.style.display = "";
+    for (var x in entry) {
+      if (htmlEntry.children[x])
+        htmlEntry.children[x].innerText = entry[x];
+    }
+    sections[entry.category].appendChild(htmlEntry);
   });
 }
