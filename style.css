@@ -1,0 +1,36 @@
+body {
+  font-family: 'Cutive Mono', monospace;
+  cursor: default;
+  background-image: url('paper.jpg');
+  margin: 10%;
+}
+.page {
+  border: 1px solid magenta;
+}
+.page.focused {
+  width: 100%;
+  transition: width 1s;
+}
+.page.unfocused {
+  width: 10%;
+  transition: width 1s;
+}
+h1 {  
+  font-size: 6.5vw;
+}
+h2:hover {
+  font-size: 4.5vw;
+  color: hsl(316, 23%, 72%);
+  transition: font-size 1s, color 1s;
+}
+h2 {
+  font-size: 3.5vw;
+  transition: font-size 1s, color 1s;
+  color: hsl(316, 23%, 0%);
+  color: rgb(0, 0, 0);
+  margin: 0;
+  cursor: pointer;
+}
+div.section {
+  padding: 10px 0;
+}
