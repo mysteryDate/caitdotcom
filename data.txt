@@ -1,0 +1,28 @@
+title,url,date,publication,category,type
+Can Competition Be Good For Your Love Life?,https://www.ellecanada.com/life-and-love/can-competition-be-good-for-your-love-life/,TODO,ELLE Canada,writing,website
+New York's New Wave,TODO,TODO,enRoute,writing,pdf
+Our Favourite Hotel Stays of 2018,TODO,TODO,enRoute,writing,pdf
+French-Canadian Musician Hubert Lenoir Plays by His Own Rules,https://enroute.aircanada.com/en/article/french-canadian-musician-hubert-lenoir-plays-by-his-own-rules,2019-08-09,enRoute,writing,website
+"Meet the Breizhgel, Brittany's Answer to Bagels",https://www.ellecanada.com/life-and-love/can-competition-be-good-for-your-love-life/,2019-03-01,enRoute,writing,website
+Interview with Chef Marcus Samuelsson,https://enroute.aircanada.com/en/article/chef-marcus-samuelsson-on-the-lack-of-diversity-in-the-restaurant-industry,2019-04-01,enRoute,writing,website
+Where the Wild Things Are,TODO,2018-10-01,enRoute,writing,pdf
+A Food Blogger Opens Her Bag,TODO,2018-11-01,enRoute,writing,pdf
+A Performance Artist Opens Her Bag,TODO,2018-01-01,enRoute,writing,pdf
+Sole Mates,TODO,2018-12-01,enRoute,writing,pdf
+The Bells That Still Can Ring,https://hazlitt.net/feature/bells-still-can-ring,2018-09-26,Hazlitt,writing,website
+Tour de Babel,https://maisonneuve.org/article/2017/01/5/tour-de-babel/,2017-01-05,Maisonneuve Magazine,writing,website
+This Montréal Jewish Bakery Doesn't Want to Be Called Modern,https://www.vice.com/en_us/article/9agzb7/this-montreal-jewish-bakery-doesnt-want-to-be-called-modern,2015-09-30,Vice,writing,website
+"Step Inside The Temple of Grease, Where Breakfast Dreams Come True",https://www.vice.com/en_us/article/z4g3e9/step-inside-the-temple-of-grease-where-breakfast-dreams-come-true,2016-01-24,Vice,writing,website
+Maritime Quebec by Way of Craft Beer,https://www.pastemagazine.com/articles/2015/09/maritime-quebec-by-way-of-craft-beer.html,2015-09-18,Paste Magazine,writing,website
+Take Five: Montréal's Brewpubs,https://www.pastemagazine.com/articles/2016/01/take-five-montreals-brewpubs.html,2016-01-18,Paste Magazine,writing,website
+Carnival by Rawi Hage,https://www.pastemagazine.com/articles/2012/12/carnival-by-rawi-hage.html,2012-12-11,Paste Magazine,writing,website
+Plants turn a new leaf at the Montréal Vegan Festival,https://cultmtl.com/2017/11/montreal-vegan-festival/,2017-11-06,Cult Montréal,writing,website
+Adamo’s is doing wonders for the pizza-slice game,https://cultmtl.com/2016/03/adamos-pizza-montreal/,2016-03-26,Cult Montréal,writing,website
+See how 6 Canadians took our cuisine abroad,https://cultmtl.com/2014/04/canadian-cuisine-abroad/,2014-04-09,Cult Montréal,writing,website
+Why Get Married When None Of Your Friends Are Doing It?,http://www.shedoesthecity.com/why-get-married-when-none-of-your-friends-are-doing-it,2015-10-13,She Does The City,writing,website
+Día de los Muertos,http://potluckmag.com/april-2016/2016/4/13/da-de-los-muertos,2016-04-13,PotLuck Magazine,fiction,website
+Death in the Midden,http://carte-blanche.org/articles/death-in-the-midden-chalifour/,2013-04-01,carte blanche,translation,website
+Preaching to the Fish,http://ambos.ca/fish/,2011-01-01,Ambos,translation,website
+The Multicoloured Album,http://ambos.ca/album/,2014-01-01,Ambos,translation,website
+Nina,http://ambos.ca/nina/,2012-01-01,Ambos,translation,website
+Spaces,http://ambos.ca/spaces/,2012-01-01,Ambos,translation,website
