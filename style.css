@@ -2,7 +2,6 @@ body {
   font-family: 'Cutive Mono', monospace;
   cursor: default;
   background-image: url('paper.jpg');
-  margin: 10%;
 }
 .page {
   border: 1px solid magenta;
@@ -16,15 +15,20 @@ body {
   transition: width 1s;
 }
 h1 {  
-  font-size: 6.5vw;
+  font-size: 75px;
+  font-family: helvetica neue;
+  font-weight: 200;
+  margin-left: 100px;
 }
 h2:hover {
-  font-size: 4.5vw;
+  font-size: 45px;
   color: hsl(316, 23%, 72%);
   transition: font-size 1s, color 1s;
 }
 h2 {
-  font-size: 3.5vw;
+  font-size: 40px;
+  font-family: helvetica neue;
+  font-weight: 200;
   transition: font-size 1s, color 1s;
   color: hsl(316, 23%, 0%);
   color: rgb(0, 0, 0);
@@ -33,4 +37,23 @@ h2 {
 }
 div.section {
   padding: 10px 0;
+  margin-left: 60px;
+}
+a.entry {
+  color: black;
+  text-decoration: none;
+}
+.entry h3 {
+  margin: 25px 0 10px 0;
+}
+p {
+  margin: 0px;
+}
+div.entry-container {
+  font-size: 16px;
+  transition: font-size 1s;
+}
+div.entry-container:hover {
+  font-size: 18px;
+  transition: font-size 1s;
 }

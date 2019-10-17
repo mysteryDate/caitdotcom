@@ -8,10 +8,8 @@ fetch("portfolio-data.json")
     init(data);
   });
 
-function changePage(destination) {
-  var titlePage = document.getElementById("title");
-  titlePage.classList.add("unfocused");
-  titlePage.classList.remove("focused");
+function loadUrl() {
+  console.log(event);
 }
 
 function init(data) {
@@ -25,9 +23,17 @@ function init(data) {
     htmlEntry.id = "";
     htmlEntry.style.display = "";
     for (var x in entry) {
-      if (htmlEntry.children[x])
-        htmlEntry.children[x].innerText = entry[x];
+      if (entry[x]) {
+        if (x === "url") {
+          htmlEntry.href = entry[x];
+        }
+        else if (htmlEntry.children[x])
+          htmlEntry.children[x].innerText = entry[x];
+      }
     }
-    sections[entry.category].appendChild(htmlEntry);
+    var div = document.createElement("div");
+    div.classList.add("entry-container"); 
+    div.appendChild(htmlEntry);
+    sections[entry.category].appendChild(div);
   });
 }
