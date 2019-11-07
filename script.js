@@ -27,13 +27,14 @@ function init(data) {
         if (x === "url") {
           htmlEntry.href = entry[x];
         }
-        else if (htmlEntry.children[x])
-          htmlEntry.children[x].innerText = entry[x];
+        else if (htmlEntry.children[1].children[x])
+          htmlEntry.children[1].children[x].innerText = entry[x];
       }
     }
-    var div = document.createElement("div");
-    div.classList.add("entry-container"); 
-    div.appendChild(htmlEntry);
-    sections[entry.category].appendChild(div);
+    // var div = document.createElement("div");
+    // div.classList.add("entry-container");
+    // div.appendChild(htmlEntry);
+    // sections[entry.category].appendChild(div);
+    sections[entry.category].appendChild(htmlEntry);
   });
 }
