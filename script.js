@@ -13,7 +13,7 @@ function loadUrl() {
 }
 
 function init(data) {
-  var default_entry = document.getElementById("default_entry");
+  var default_entry = document.getElementById("defaultEntry");
   var sections = {};
   Array.from(document.getElementsByClassName("section")).forEach((s) => {
     sections[s.id] = s;
@@ -31,10 +31,17 @@ function init(data) {
           htmlEntry.children[1].children[x].innerText = entry[x];
       }
     }
-    // var div = document.createElement("div");
-    // div.classList.add("entry-container");
-    // div.appendChild(htmlEntry);
-    // sections[entry.category].appendChild(div);
     sections[entry.category].appendChild(htmlEntry);
   });
+}
+
+function changeSection(e) {
+  var newSectionTitle = e.srcElement.innerText.toLowerCase();
+  var section = document.getElementsByClassName("section");
+  Array.from(section).forEach((element) => {
+    element.classList.remove("active");
+    if (element.id === newSectionTitle) {
+      element.classList.add("active");
+    }
+  })
 }

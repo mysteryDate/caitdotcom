@@ -3,65 +3,44 @@ body {
   cursor: default;
   background-image: url('paper.jpg');
 }
-.page {
-  border: 1px solid magenta;
-}
-.page.focused {
-  width: 100%;
-  transition: width 1s;
-}
-.page.unfocused {
-  width: 10%;
-  transition: width 1s;
-}
 h1 {
   font-size: 75px;
-  font-family: helvetica neue, helvetica;
-  font-weight: 100;
-  margin-left: 100px;
+  font-family: futura, helvetica;
 }
-h2:hover {
+h2 {
+  font-size: 40px;
+  font-family: futura light, helvetica;
+  font-weight: lighter;
+  transition: font-size 1s, color 1s;
+  color: hsl(316, 23%, 0%);
+  cursor: pointer;
+}
+.section:not(.active) {
+  display: none;
+}
+
+/* Nav bar */
+#navBar h2 {
+  display: inline-block;
+  margin: 0 15px;
+  /* user-select: none; */
+}
+#navBar {
+  user-select: none;
+  text-align: center;
+}
+#navBar h2:hover {
   font-size: 45px;
   color: hsl(316, 23%, 72%);
   transition: font-size 1s, color 1s;
 }
-h2 {
-  font-size: 40px;
-  font-family: helvetica neue, helvetica;
-  font-weight: 200;
-  transition: font-size 1s, color 1s;
-  color: hsl(316, 23%, 0%);
-  color: rgb(0, 0, 0);
-  margin: 0;
-  cursor: pointer;
+
+
+/* Entry stuff */
+.entry img {
+  float: left;
+  user-select: none;
 }
-div.section {
-  padding: 10px 0;
-  margin-left: 60px;
-}
-a.entry {
-  color: black;
-  text-decoration: none;
-  width: 100%;
-  height: 100%;
-}
-.entry h3 {
-  margin: 25px 0 10px 0;
-}
-p {
-  margin: 0px;
-}
-div.entry-container {
-  font-size: 16px;
-  transition: font-size 1s;
-}
-div.entry-container:hover {
-  font-size: 18px;
-  transition: font-size 1s;
-}
-.entry div, .entry img {
-  display: inline-block;
-}
-.entry div {
-  margin: 20px 0px 40px 0px;
+.entry {
+  height: 300px;
 }
