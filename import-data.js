@@ -1,5 +1,5 @@
 // Client ID and API key from the Developer Console
-var CLIENT_ID = '9234134087-lpj7vqv36h37s01uafoslo7o7o17ec6j.apps.googleusercontent.com';
+var CLIENT_ID = '9234134087-cgcmvisk4atcf4q128ovq455oo1ejuca.apps.googleusercontent.com';
 var API_KEY = 'AIzaSyBAoeJQ6Sbs_-tjG7aVW4TpD8E-ciHGWOc';
 
 // Array of API discovery doc URLs for APIs used by the quickstart
@@ -38,7 +38,8 @@ function initClient() {
     authorizeButton.onclick = handleAuthClick;
     signoutButton.onclick = handleSignoutClick;
   }, function(error) {
-    appendPre(JSON.stringify(error, null, 2));
+    var content = document.getElementById("content");
+    content.innerText = (JSON.stringify(error, null, 2));
   });
 }
 
