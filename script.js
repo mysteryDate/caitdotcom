@@ -26,8 +26,8 @@ function init(data) {
       if (entry[x]) {
         if (x === "url") {
           htmlEntry.href = entry[x];
-        } else if (x === "photo") {
-          htmlEntry.children[0].src = entry[x];
+        } else if (x === "image") {
+          htmlEntry.children[0].src = "images/" + entry[x];
         } else if (htmlEntry.children[1].children[x])
           htmlEntry.children[1].children[x].innerText = entry[x];
       }

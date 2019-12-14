@@ -80,7 +80,7 @@ outputData = [];
 function listMajors() {
   gapi.client.sheets.spreadsheets.values.get({
     spreadsheetId: '1dlaWXhgQ1O1Mc9qkUiRA0OfEgT-OsqrYatltgypJJvU',
-    range: 'Sheet1!A1:G',
+    range: 'Sheet1!A1:H',
   }).then(function(response) {
     var values = response.result.values;
     var headers = values.shift();
@@ -91,7 +91,8 @@ function listMajors() {
       });
       outputData.push(entry);
     });
-    console.log(outputData);
+    console.log(JSON.stringify(outputData));
+    console.log(outputData[0]);
   }, function(failure) {
     console.log('Error: ' + failure.result.error.message);
   });
