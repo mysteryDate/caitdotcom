@@ -13,13 +13,13 @@ function loadUrl() {
 }
 
 function init(data) {
-  var default_entry = document.getElementById("defaultEntry");
+  var defulatEntry = document.getElementById("defaultEntry");
   var sections = {};
   Array.from(document.getElementsByClassName("section")).forEach((s) => {
     sections[s.id] = s;
   });
   data.forEach((entry) => {
-    var htmlEntry = default_entry.cloneNode(true);
+    var htmlEntry = defulatEntry.cloneNode(true);
     htmlEntry.id = "";
     htmlEntry.style.display = "";
     for (var x in entry) {
@@ -31,7 +31,8 @@ function init(data) {
           htmlEntry.children[1].children[x].innerText = entry[x];
       }
     }
-    sections[entry.category].appendChild(htmlEntry);
+    if (sections[entry.category])
+      sections[entry.category].appendChild(htmlEntry);
   });
 }
 

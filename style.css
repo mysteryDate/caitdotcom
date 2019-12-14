@@ -2,10 +2,14 @@ body {
   font-family: 'Cutive Mono', monospace;
   cursor: default;
   background-image: url('paper.jpg');
+  margin: 0;
+  transition: display 1s;
 }
-h1 {
+#mainTitle {
+  text-align: center;
   font-size: 75px;
   font-family: futura, helvetica;
+  margin: 0;
 }
 h2 {
   font-size: 40px;
@@ -15,14 +19,43 @@ h2 {
   color: hsl(316, 23%, 0%);
   cursor: pointer;
 }
+
+/* sections */
 .section:not(.active) {
-  display: none;
+  opacity: 0;
+  visibility: hidden;
+  transition: visibility 0.5s, opacity 0.5s linear;
+}
+.section.active {
+  opacity: 1;
+  visibility: visible;
+  transition: visibility 0.5s, opacity 0.5s linear;
+}
+.section {
+  position: absolute;
+}
+.entry {
+  cursor: pointer;
+  color: hsl(316, 23%, 0%);
+  transition: color 1s, background-color 1s;
+  text-decoration: none;
+  display: block;
+}
+.entry:hover {
+  color: hsl(316, 23%, 72%);
+  transition: color 1s, background-color 1s;
+  background-color: grey;
+}
+#sectionWrapper {
+  position: relative;
 }
 
 /* Nav bar */
 #navBar h2 {
   display: inline-block;
   margin: 0 15px;
+  color: hsl(316, 23%, 0%);
+  transition: font-size 1s, color 1s;
   /* user-select: none; */
 }
 #navBar {

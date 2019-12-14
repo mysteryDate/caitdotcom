@@ -9,27 +9,29 @@
   <h1 id="mainTitle">Caitlin Stall-Paquet</h1>
   <div id="navBar">
     <div id="navBarWrapper">
-      <h2 onclick="changeSection(event)">Writing</h2>
+      <h2 onclick="changeSection(event)">Articles</h2>
       <h2 onclick="changeSection(event)">Fiction</h2>
       <h2 onclick="changeSection(event)">Translation</h2>
       <h2 onclick="changeSection(event)">Contact</h2>
     </div>
   </div>
-  <div id="defaultEntry" class="entry" style="display: none;">
-    <img src="https://placekitten.com/1000/300">
+  <a id="defaultEntry" class="entry" style="display: none;">
+    <img src="https://placekitten.com/500/300">
     <div>
       <h3 name="title"></h3>
       <p name="publication"></p>
       <p name="date"></p>
     </div>
-  </div>
-  <div class="section active" id="writing">
-  </div>
-  <div class="section" id="fiction">
-  </div>
-  <div class="section" id="translation">
-  </div>
-  <div class="section" id="contact">
+  </a>
+  <div id="sectionWrapper">
+    <div class="section" id="articles"></div>
+    <div class="section" id="fiction"></div>
+    <div class="section" id="translation"></div>
+    <div class="section" id="contact">
+      <img src="cait-headshot.jpg" style="height:500px">
+      <div>
+      </div>
+    </div>
   </div>
 </body>
 <script type="text/javascript" src="script.js"></script>
