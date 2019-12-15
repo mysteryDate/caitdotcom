@@ -60,4 +60,8 @@ function changeSection(e) {
   changeSectionWithText(newSectionTitle);
 }
 
-changeSectionWithText("contact");
+var destination = "articles";
+if (window.location.search) {
+  destination = window.location.search.substr(1);
+}
+changeSectionWithText(destination);
