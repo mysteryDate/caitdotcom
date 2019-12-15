@@ -33,19 +33,9 @@ h2 {
 }
 .section {
   position: absolute;
+  width: 100%;
 }
-.entry {
-  cursor: pointer;
-  color: hsl(316, 23%, 0%);
-  transition: color 1s, background-color 1s;
-  text-decoration: none;
-  display: block;
-}
-.entry:hover {
-  color: hsl(316, 23%, 72%);
-  transition: color 1s, background-color 1s;
-  background-color: grey;
-}
+
 #sectionWrapper {
   position: relative;
 }
@@ -61,9 +51,10 @@ h2 {
 #navBar {
   user-select: none;
   text-align: center;
+  margin: 12px 0;
 }
 #navBar h2:hover {
-  font-size: 45px;
+  /*font-size: 45px;*/
   color: hsl(316, 23%, 72%);
   transition: font-size 1s, color 1s;
 }
@@ -78,4 +69,30 @@ h2 {
 }
 .entry {
   height: 300px;
+  width: 80%;
+  margin: 0 auto;
+  cursor: pointer;
+  color: hsl(316, 23%, 0%);
+  transition: color 1s, background-color 1s;
+  text-decoration: none;
+  display: block;
+  padding: 16px;
+  /*color: hsl(316, 23%, 72%);*/
+  /*background-color: hsla(0, 0%, 0%, 10%);*/
+}
+.entry:hover {
+  color: hsl(316, 23%, 40%);
+  transition: color 1s, background-color 1s;
+  background-color: hsla(0, 0%, 0%, 10%);
+}
+.entry-info {
+  /* TODO these are hacks because of the image */
+  margin-left: 330px;
+  margin-top: 40px;
+}
+.entry h3 {
+  font-size: 26px;
+}
+.entry p {
+  font-size: 20px;
 }
