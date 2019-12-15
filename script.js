@@ -12,14 +12,15 @@ function loadUrl() {
   console.log(event);
 }
 
+var vv;
 function init(data) {
-  var defulatEntry = document.getElementById("defaultEntry");
+  var defaultEntry = document.getElementById("defaultEntry");
   var sections = {};
   Array.from(document.getElementsByClassName("section")).forEach((s) => {
     sections[s.id] = s;
   });
   data.forEach((entry) => {
-    var htmlEntry = defulatEntry.cloneNode(true);
+    var htmlEntry = defaultEntry.cloneNode(true);
     htmlEntry.id = "";
     htmlEntry.style.display = "";
     for (var x in entry) {
@@ -27,7 +28,8 @@ function init(data) {
         if (x === "url") {
           htmlEntry.href = entry[x];
         } else if (x === "image") {
-          htmlEntry.children[0].src = "images/" + entry[x];
+          var txt = "url('images/" + entry[x] + "')";
+          htmlEntry.children[0].style.backgroundImage = txt;
         } else if (htmlEntry.children[1].children[x])
           htmlEntry.children[1].children[x].innerText = entry[x];
       }
@@ -37,13 +39,25 @@ function init(data) {
   });
 }
 
-function changeSection(e) {
-  var newSectionTitle = e.srcElement.innerText.toLowerCase();
+function changeSectionWithText(newSectionTitle) {
   var section = document.getElementsByClassName("section");
   Array.from(section).forEach((element) => {
     element.classList.remove("active");
     if (element.id === newSectionTitle) {
       element.classList.add("active");
     }
-  })
+  });
+  var headers = document.getElementById("navBarWrapper");
+  Array.from(headers.children).forEach((header) => {
+    header.classList.remove("active");
+    if (header.innerText.toLowerCase() === newSectionTitle)
+      header.classList.add("active");
+  });
 }
+
+function changeSection(e) {
+  var newSectionTitle = e.srcElement.innerText.toLowerCase();
+  changeSectionWithText(newSectionTitle);
+}
+
+changeSectionWithText("contact");
