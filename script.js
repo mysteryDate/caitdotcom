@@ -1,4 +1,5 @@
 var data;
+const sectionTitles = ["articles", "fiction", "contact", "translation"];
 fetch("portfolio-data.json")
   .then(function(response) {
     return response.json();
@@ -40,6 +41,8 @@ function init(data) {
 }
 
 function changeSectionWithText(newSectionTitle) {
+  if (!sectionTitles.includes(newSectionTitle))
+    return;
   var section = document.getElementsByClassName("section");
   Array.from(section).forEach((element) => {
     element.classList.remove("active");
@@ -62,6 +65,8 @@ function changeSection(e) {
 
 var destination = "articles";
 if (window.location.search) {
-  destination = window.location.search.substr(1);
+  var searchQuery = window.location.search.substr(1);
+  if (sectionTitles.includes(searchQuery))
+    destination = searchQuery;
 }
 changeSectionWithText(destination);
