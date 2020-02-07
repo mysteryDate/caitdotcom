@@ -1,5 +1,25 @@
 [
   {
+    "title": "Montrealers",
+    "date": "2016-03-01",
+    "publication": "Simon & Schuster",
+    "category": "translation",
+    "type": "website",
+    "photo-link": "https://drive.google.com/file/d/1SmRujx72nkgVpwnRCsup5WDpi9hpf2qU/view?usp=sharing",
+    "url": "https://www.simonandschuster.ca/books/Montrealers/Jean-Francois-Nadeau/9781988002194",
+    "image": "Montrealers.png"
+  },
+  {
+    "title": "300 raisons d'aimer New York",
+    "date": "2016-02-01",
+    "publication": "Les Éditions de L'Homme",
+    "category": "translation",
+    "type": "website",
+    "photo-link": "https://drive.google.com/file/d/10X280SNyidf-x8obVyLIuc1-pZWbaCCb/view?usp=sharing",
+    "url": "http://www.editions-homme.com/300-raisons-aimer-new-york/droits/9782761941587",
+    "image": "300NY.png"
+  },
+  {
     "title": "A Montreal Museum Café Digs Into the Foods of the Jewish Diaspora",
     "date": "2019-12-18",
     "publication": "Atlas Obscura",
@@ -130,16 +150,6 @@
     "image": "food-blogger.png"
   },
   {
-    "title": "A Performance Artist Opens Her Bag",
-    "date": "2018-01-01",
-    "publication": "enRoute",
-    "category": "articles",
-    "type": "pdf",
-    "photo-link": "https://drive.google.com/file/d/1D1XG6ATCmrYTvDACmsNFBLUVkybb58HK/view?usp=sharing",
-    "url": "https://drive.google.com/file/d/1HDM_10w9xnUGvqpEF8bzTlcweAOSHMRO/view?usp=sharing",
-    "image": "performance-artist.png"
-  },
-  {
     "title": "Sole Mates",
     "date": "2018-12-01",
     "publication": "enRoute",
@@ -158,6 +168,16 @@
     "photo-link": "https://drive.google.com/file/d/1DW-votvitRk_H8UhXdQSggcCDkUPq7Oy/view?usp=sharing",
     "url": "https://hazlitt.net/feature/bells-still-can-ring",
     "image": "montreal-cohen-main.jpg"
+  },
+  {
+    "title": "A Performance Artist Opens Her Bag",
+    "date": "2018-01-01",
+    "publication": "enRoute",
+    "category": "articles",
+    "type": "pdf",
+    "photo-link": "https://drive.google.com/file/d/1D1XG6ATCmrYTvDACmsNFBLUVkybb58HK/view?usp=sharing",
+    "url": "https://drive.google.com/file/d/1HDM_10w9xnUGvqpEF8bzTlcweAOSHMRO/view?usp=sharing",
+    "image": "performance-artist.png"
   },
   {
     "title": "Tour de Babel",
@@ -318,5 +338,15 @@
     "photo-link": "https://drive.google.com/file/d/1gG2WYnKHLCgCpWL8hVTWxH0ns7mqyFiS/view?usp=sharing",
     "url": "http://ambos.ca/spaces/",
     "image": "Espaces-cover1.jpg"
+  },
+  {
+    "title": "The Hush",
+    "date": "2011-09-01",
+    "publication": "Matrix",
+    "category": "fiction",
+    "type": "pdf",
+    "photo-link": "https://drive.google.com/file/d/11T5kztiakTiwSchbIwFRtBd_W9GX7RSt/view?usp=sharing",
+    "url": "https://drive.google.com/file/d/11snVZ_jrn07GdCMGgEWbhpczGJPWFKFI/view?usp=sharing",
+    "image": "TheHush-image.png"
   }
 ]
