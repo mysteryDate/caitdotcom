@@ -59,8 +59,6 @@ def main():
         for row in values[1:]:
             entry = {headers[x]: row[x] for x in range(len(row))}
             portfolio_data.append(entry)
-        # with open("portfolio-data.json", "w") as portfolio_data_file:
-        #     portfolio_data_file.write(json.dumps(portfolio_data, indent=4))
 
     # Authenticate with drive
     drive_creds = None
@@ -80,7 +78,6 @@ def main():
             pickle.dump(creds, token)
 
     service = build('drive', 'v3', credentials=creds)
-    import pdb; pdb.set_trace()
     for entry in portfolio_data:
         if "photo-link" in entry.keys():
             photo_link = entry["photo-link"]
@@ -91,13 +88,17 @@ def main():
             fh = io.BytesIO()
             downloader = MediaIoBaseDownload(fh, request)
             done = False
+            entry['image'] = photo_name
+            file_path = "images/{}".format(photo_name)
+            if os.path.isfile(file_path):
+                print("Skipping {name}.".format(name=photo_name)) 
+                continue
             while done is False:
                 status, done = downloader.next_chunk()
-                print("Downloading {name}.".format(name=photo_file['name']))
-            with io.open(photo_name, 'wb') as photo_file:
+                print("Downloading {name}.".format(name=photo_name))
+            with io.open(file_path, 'wb') as photo_file:
                 fh.seek(0)
                 photo_file.write(fh.read())
-            entry['image'] = photo_name
 
     with open("portfolio-data.json", "w") as portfolio_data_file:
         portfolio_data_file.write(json.dumps(portfolio_data, indent=4))
