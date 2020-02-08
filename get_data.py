@@ -54,7 +54,6 @@ def main():
     if not values:
         print('No data found.')
     else:
-        
         headers = values[0]
         for row in values[1:]:
             entry = {headers[x]: row[x] for x in range(len(row))}
@@ -64,20 +63,20 @@ def main():
     drive_creds = None
     if os.path.exists('token-drive.pickle'):
         with open('token-drive.pickle', 'rb') as token:
-            creds = pickle.load(token)
+            drive_creds = pickle.load(token)
     # If there are no (valid) credentials available, let the user log in.
-    if not creds or not creds.valid:
-        if creds and creds.expired and creds.refresh_token:
-            creds.refresh(Request())
+    if not drive_creds or not drive_creds.valid:
+        if drive_creds and drive_creds.expired and drive_creds.refresh_token:
+            drive_creds.refresh(Request())
         else:
             flow = InstalledAppFlow.from_client_secrets_file(
                 'credentials-drive.json', DRIVE_SCOPES)
-            creds = flow.run_local_server(port=0)
+            drive_creds = flow.run_local_server(port=0)
         # Save the credentials for the next run
         with open('token-drive.pickle', 'wb') as token:
-            pickle.dump(creds, token)
+            pickle.dump(drive_creds, token)
 
-    service = build('drive', 'v3', credentials=creds)
+    service = build('drive', 'v3', credentials=drive_creds)
     for entry in portfolio_data:
         if "photo-link" in entry.keys():
             photo_link = entry["photo-link"]
