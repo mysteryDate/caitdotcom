@@ -26,7 +26,7 @@ fi
 timestamp() {
   date +"%Y-%m-%d_%H-%M-%S"
 }
-echo "\n\nAttempt at: \n" >> autoupdate_results.txt
-echo timestamp >> autoupdate_results.txt
+echo "Attempt at:" >> autoupdate_results.txt
+echo $timestamp >> autoupdate_results.txt
 echo $result >> autoupdate_results.txt
-echo "\n\n" >> autoupdate_results.txt
+echo "" >> autoupdate_results.txt
