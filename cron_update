@@ -11,7 +11,7 @@ if git checkout gh-pages; then
           result="couldn't push"
         fi
       else
-        result="couldn't commit"
+        result="nothing to change"
       fi
     else
       result="couldn't update"
