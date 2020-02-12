@@ -184,7 +184,10 @@
         "date": "2018-05-01",
         "publication": "enRoute",
         "category": "articles",
-        "type": "pdf"
+        "type": "pdf",
+        "photo-link": "https://drive.google.com/file/d/1AXSNaja5iBJG7VQf6s1S0zoncwpkMkcx/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/15gS5nCSwphuS-bKHSnyC-MVJUVY3xY6v/view?usp=sharing",
+        "image": "DM.png"
     },
     {
         "title": "A Performance Artist Opens Her Bag",
@@ -195,6 +198,16 @@
         "photo-link": "https://drive.google.com/file/d/1D1XG6ATCmrYTvDACmsNFBLUVkybb58HK/view?usp=sharing",
         "url": "https://drive.google.com/file/d/1HDM_10w9xnUGvqpEF8bzTlcweAOSHMRO/view?usp=sharing",
         "image": "Screen Shot 2019-12-01 at 9.19.12 PM.png"
+    },
+    {
+        "title": "Our Favourite Hotel Stays of 2017",
+        "date": "2017-12-01",
+        "publication": "enRoute",
+        "category": "articles",
+        "type": "pdf",
+        "photo-link": "https://drive.google.com/file/d/1XahLIfXKUUSpHexz0me9FkjbmSwi1g1j/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/1H94KLGnxRutH_SXhOtO2Byr_uyVwBRIb/view?usp=sharing",
+        "image": "2017.png"
     },
     {
         "title": "Tour de Babel",
@@ -211,7 +224,10 @@
         "date": "2017-05-01",
         "publication": "enRoute",
         "category": "articles",
-        "type": "pdf"
+        "type": "pdf",
+        "photo-link": "https://drive.google.com/file/d/113ZzgJJT3BocbCWyLATGVvAPfKG0JrpT/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/1rH_kSmu6H6_2VKp8TxsqyikZL2XBnM4U/view?usp=sharing",
+        "image": "MC.png"
     },
     {
         "title": "Bangers and Mash-up",
@@ -228,21 +244,30 @@
         "date": "2016-10-01",
         "publication": "enRoute",
         "category": "articles",
-        "type": "pdf"
+        "type": "pdf",
+        "photo-link": "https://drive.google.com/file/d/1YT6_RJhrUqYH_XbUhrviJEgGmPtQRkjU/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/1lsIQNB05aNdNNEM6r6a8qBiK3G37xO9a/view?usp=sharing",
+        "image": "BG.png"
     },
     {
         "title": "One On One with Louise Penny",
         "date": "2016-07-01",
         "publication": "enRoute",
         "category": "articles",
-        "type": "pdf"
+        "type": "pdf",
+        "photo-link": "https://drive.google.com/file/d/1nOMEs-wIU0V5OlOxRtdA2MH7seWZ6Mkr/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/1msOfFIkVPN2AX5SJkF2crNs1t_hf8npz/view?usp=sharing",
+        "image": "LP.png"
     },
     {
         "title": "Our Woman in Istanbul",
         "date": "2016-04-01",
         "publication": "enRoute",
         "category": "articles",
-        "type": "pdf"
+        "type": "pdf",
+        "photo-link": "https://drive.google.com/file/d/1vfWOUfEqc5PNPKqWO7hp_ZJ6JPIsZiH0/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/1uTP_dgb3G9MBaOfMaRshmm9gD1MZsLxf/view?usp=sharing",
+        "image": "JG.png"
     },
     {
         "title": "This Montr\u00e9al Jewish Bakery Doesn't Want to Be Called Modern",
