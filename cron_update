@@ -1,0 +1,32 @@
+#!/bin/bash
+
+result="started"
+if git checkout gh-pages; then
+  if git pull; then
+    if python3 get_data.py; then
+      if git commit -am "Update data"; then
+        if git push origin gh-pages; then
+          result="success"
+        else
+          result="couldn't push"
+        fi
+      else
+        result="couldn't commit"
+      fi
+    else
+      result="couldn't update"
+    fi
+  else
+    result="couldn't pull"
+  fi
+else
+  result="couldn't checkout"
+fi
+
+timestamp() {
+  date +"%Y-%m-%d_%H-%M-%S"
+}
+echo "\n\nAttempt at: \n" >> autoupdate_results.txt
+echo timestamp >> autoupdate_results.txt
+echo $result >> autoupdate_results.txt
+echo "\n\n" >> autoupdate_results.txt
