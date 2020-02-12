@@ -4,7 +4,7 @@ result="started"
 if git checkout gh-pages; then
   if git pull; then
     if python3 get_data.py; then
-      if git commit -am "Update data"; then
+      if git add --all; git commit -am "Update data"; then
         if git push origin gh-pages; then
           result="success"
         else
