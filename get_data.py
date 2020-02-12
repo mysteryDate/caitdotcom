@@ -70,7 +70,7 @@ def main():
             drive_creds.refresh(Request())
         else:
             flow = InstalledAppFlow.from_client_secrets_file(
-                'credentials-drive.json', DRIVE_SCOPES)
+                'credentials.json', DRIVE_SCOPES)
             drive_creds = flow.run_local_server(port=0)
         # Save the credentials for the next run
         with open('token-drive.pickle', 'wb') as token:
@@ -90,7 +90,7 @@ def main():
             entry['image'] = photo_name
             file_path = "images/{}".format(photo_name)
             if os.path.isfile(file_path):
-                print("Skipping {name}.".format(name=photo_name)) 
+                print("Skipping {name}.".format(name=photo_name))
                 continue
             while done is False:
                 status, done = downloader.next_chunk()
