@@ -27,10 +27,11 @@ function init(data) {
     for (var x in entry) {
       if (entry[x]) {
         if (x === "url") {
-          htmlEntry.href = entry[x];
+          htmlEntry.title = entry[x];
         } else if (x === "image") {
           var txt = "url('images/" + entry[x] + "')";
-          htmlEntry.children[0].style.backgroundImage = txt;
+          htmlEntry.children[0].src = "images/" + entry[x];
+          // htmlEntry.children[0].style.backgroundImage = txt;
         } else if (htmlEntry.children[1].children[x])
           htmlEntry.children[1].children[x].innerText = entry[x];
       }
@@ -61,6 +62,11 @@ function changeSectionWithText(newSectionTitle) {
 function changeSection(e) {
   var newSectionTitle = e.srcElement.innerText.toLowerCase();
   changeSectionWithText(newSectionTitle);
+}
+
+function openEntry(e) {
+  window.open(e.target.title, '_blank');
+  console.log(e);
 }
 
 var destination = "articles";

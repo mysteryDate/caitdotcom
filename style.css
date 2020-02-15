@@ -67,40 +67,18 @@ h2 {
 
 /* Entry stuff */
 .entry .image-container {
-  float: left;
-  user-select: none;
-  width: 300px;
-  height: 300px;
-  background-position: center;
-  background-size: contain;
-  background-repeat: no-repeat;
 }
 .entry {
-  height: 300px;
-  width: 80%;
-  margin: 10px auto;
-  cursor: pointer;
-  color: hsl(316, 23%, 0%);
-  transition: color 1s, background-color 1s;
-  text-decoration: none;
-  display: block;
-  padding: 16px;
-  /*color: hsl(316, 23%, 72%);*/
-  /*background-color: hsla(0, 0%, 0%, 10%);*/
 }
 .entry:hover {
-  color: hsl(316, 23%, 40%);
-  transition: color 1s, background-color 1s;
-  background-color: hsla(0, 0%, 0%, 10%);
 }
 .entry-info {
-  /* TODO these are hacks because of the image */
-  margin-left: 330px;
-  margin-top: 40px;
+}
+.entry img {
+  width: 300px;
+  height: 300px;
 }
 .entry h3 {
-  font-size: 26px;
 }
 .entry p {
-  font-size: 20px;
 }
