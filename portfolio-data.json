@@ -1,5 +1,55 @@
 [
     {
+        "title": "Beware the better angels of electro-pop artist Scott Hardware",
+        "date": "2020-04-22",
+        "publication": "Xtra",
+        "category": "articles",
+        "type": "website",
+        "photo-link": "https://drive.google.com/file/d/1mWpDrjP1VfYqwKPWPyX291ar3sQctrJd/view?usp=sharing",
+        "url": "https://www.dailyxtra.com/electro-pop-artist-scott-hardware-170568",
+        "image": "Scott-Hardware.jpg"
+    },
+    {
+        "title": "Audio Erotica Is the Latest Self-Care Tool For Women",
+        "date": "2020-04-09",
+        "publication": "Flare",
+        "category": "articles",
+        "type": "website",
+        "photo-link": "https://drive.google.com/file/d/1Lxf2AAj1YF-fxx-C1seFMGQqVFpXdCVC/view?usp=sharing",
+        "url": "https://www.flare.com/sex-and-relationships/audio-porn-apps-for-women/?fbclid=IwAR1hNsKOiBFxnEqOSb_TfT17Bm-EilLLmKRQRJ0XVo-7tBHZVF0Sn_WidUU",
+        "image": "audio.jpg"
+    },
+    {
+        "title": "The Women Pledging Not to Have Kids Until Meaningful Action on Climate Change Is Made",
+        "date": "2020-04-01",
+        "publication": "ELLE Canada",
+        "category": "articles",
+        "type": "website",
+        "photo-link": "https://drive.google.com/file/d/1lu2tsgN44zqNKF0z7RT1Gnu8GdAvSO9d/view?usp=sharing",
+        "url": "https://www.ellecanada.com/culture/society/the-women-pledging-not-to-have-kids-until-meaningful-action-on-climate-change-is-made",
+        "image": "ELLE-CLIMATE2.jpg"
+    },
+    {
+        "title": "Montreal is waging a war on waste. Here\u2019s how visitors can do their part",
+        "date": "2020-03-07",
+        "publication": "The Globe and Mail",
+        "category": "articles",
+        "type": "website",
+        "photo-link": "https://drive.google.com/file/d/1Uj7vMF76bNHSkZoAsOi0wwZWOcEj9RL9/view?usp=sharing",
+        "url": "https://www.theglobeandmail.com/life/travel/article-montreal-is-waging-a-war-on-waste-heres-how-visitors-can-do-their/",
+        "image": "globe.jpg"
+    },
+    {
+        "title": "Gatekeepers in Quebec have a stranglehold on gender-neutral language",
+        "date": "2020-02-10",
+        "publication": "Xtra",
+        "category": "articles",
+        "type": "website",
+        "photo-link": "https://drive.google.com/file/d/1-V0zVwXk31HavuzNhPYK4WNubRqS-QXn/view?usp=sharing",
+        "url": "https://www.dailyxtra.com/gender-neutral-language-quebec-french-167108",
+        "image": "Gender-neutral.jpg"
+    },
+    {
         "title": "Montrealers",
         "date": "2016-03-01",
         "publication": "Simon & Schuster",
@@ -38,6 +88,16 @@
         "photo-link": "https://drive.google.com/file/d/1Bs_OScwYi2gH-asN_9KVgGfMQWElrvCY/view?usp=sharing",
         "url": "https://enroute.aircanada.com/en/article/northern-soul-london",
         "image": "soul-survivor-illustration.jpg"
+    },
+    {
+        "title": "The Best Bars in Montreal",
+        "date": "2020-03-26",
+        "publication": "Culture Trip",
+        "category": "articles",
+        "type": "website",
+        "photo-link": "https://drive.google.com/file/d/116JABo7YqbvAvVsaHJjaHDJWcss7Frh9/view?usp=sharing",
+        "url": "https://theculturetrip.com/north-america/canada/articles/the-10-best-bars-in-montreal/",
+        "image": "mn2.jpg"
     },
     {
         "title": "Chef Antonio Park's Guide to Sao Paolo",
@@ -80,16 +140,6 @@
         "image": "Screen Shot 2019-12-01 at 8.46.28 PM.png"
     },
     {
-        "title": "Our Favourite Hotel Stays of 2018",
-        "date": "2018-12-01",
-        "publication": "enRoute",
-        "category": "articles",
-        "type": "pdf",
-        "photo-link": "https://drive.google.com/file/d/19qjC4ZPAbwmvmQie9ZRc9Fdntq3eHwTj/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1TVfY25oVdFFY488450H3h6wuzWsB6szu/view?usp=sharing",
-        "image": "Screen Shot 2019-12-01 at 8.59.32 PM.png"
-    },
-    {
         "title": "French-Canadian Musician Hubert Lenoir Plays by His Own Rules",
         "date": "2019-08-09",
         "publication": "enRoute",
@@ -128,6 +178,16 @@
         "photo-link": "https://drive.google.com/file/d/1pUipKzb3KJ8hwMCN_BNC5BXFkDe3e93S/view?usp=sharing",
         "url": "https://www.capnews.ca/news/climate-change-victoria-damage-class-action",
         "image": "5dcd056d137dcb35aa26897e_MainImageCook.jpg"
+    },
+    {
+        "title": "Our Favourite Hotel Stays of 2018",
+        "date": "2018-12-01",
+        "publication": "enRoute",
+        "category": "articles",
+        "type": "pdf",
+        "photo-link": "https://drive.google.com/file/d/19qjC4ZPAbwmvmQie9ZRc9Fdntq3eHwTj/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/1TVfY25oVdFFY488450H3h6wuzWsB6szu/view?usp=sharing",
+        "image": "Screen Shot 2019-12-01 at 8.59.32 PM.png"
     },
     {
         "title": "Where the Wild Things Are",
@@ -170,6 +230,16 @@
         "image": "montreal-cohen-main.jpg"
     },
     {
+        "title": "Our Woman in Delhi",
+        "date": "2018-05-01",
+        "publication": "enRoute",
+        "category": "articles",
+        "type": "pdf",
+        "photo-link": "https://drive.google.com/file/d/1AXSNaja5iBJG7VQf6s1S0zoncwpkMkcx/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/15gS5nCSwphuS-bKHSnyC-MVJUVY3xY6v/view?usp=sharing",
+        "image": "DM.png"
+    },
+    {
         "title": "A Performance Artist Opens Her Bag",
         "date": "2018-01-01",
         "publication": "enRoute",
@@ -180,14 +250,74 @@
         "image": "Screen Shot 2019-12-01 at 9.19.12 PM.png"
     },
     {
+        "title": "Our Favourite Hotel Stays of 2017",
+        "date": "2017-12-01",
+        "publication": "enRoute",
+        "category": "articles",
+        "type": "pdf",
+        "photo-link": "https://drive.google.com/file/d/1XahLIfXKUUSpHexz0me9FkjbmSwi1g1j/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/1H94KLGnxRutH_SXhOtO2Byr_uyVwBRIb/view?usp=sharing",
+        "image": "2017.png"
+    },
+    {
         "title": "Tour de Babel",
-        "date": "2017-01-05",
+        "date": "2017-05-01",
         "publication": "Maisonneuve Magazine",
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1NY8nXy37jhseGz6l85IH_bmrj5GLIAwt/view?usp=sharing",
         "url": "https://maisonneuve.org/article/2017/01/5/tour-de-babel/",
         "image": "KarstonSmith-FINAL-500x0.jpg"
+    },
+    {
+        "title": "Out of Office with Marilou Champagne",
+        "date": "2017-05-01",
+        "publication": "enRoute",
+        "category": "articles",
+        "type": "pdf",
+        "photo-link": "https://drive.google.com/file/d/113ZzgJJT3BocbCWyLATGVvAPfKG0JrpT/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/1rH_kSmu6H6_2VKp8TxsqyikZL2XBnM4U/view?usp=sharing",
+        "image": "MC.png"
+    },
+    {
+        "title": "Bangers and Mash-up",
+        "date": "2016-11-01",
+        "publication": "enRoute",
+        "category": "articles",
+        "type": "pdf",
+        "photo-link": "https://drive.google.com/file/d/1CIiEwM1JX_Vjnm0whtgzlFU685wmhfHt/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/1GGDuZ_1JhhVOgRMt-a9F-3BO87NAyyfh/view?usp=sharing",
+        "image": "IndianEng.png"
+    },
+    {
+        "title": "One On One with Barry Gibb",
+        "date": "2016-10-01",
+        "publication": "enRoute",
+        "category": "articles",
+        "type": "pdf",
+        "photo-link": "https://drive.google.com/file/d/1YT6_RJhrUqYH_XbUhrviJEgGmPtQRkjU/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/1lsIQNB05aNdNNEM6r6a8qBiK3G37xO9a/view?usp=sharing",
+        "image": "BG.png"
+    },
+    {
+        "title": "One On One with Louise Penny",
+        "date": "2016-07-01",
+        "publication": "enRoute",
+        "category": "articles",
+        "type": "pdf",
+        "photo-link": "https://drive.google.com/file/d/1nOMEs-wIU0V5OlOxRtdA2MH7seWZ6Mkr/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/1msOfFIkVPN2AX5SJkF2crNs1t_hf8npz/view?usp=sharing",
+        "image": "LP.png"
+    },
+    {
+        "title": "Our Woman in Istanbul",
+        "date": "2016-04-01",
+        "publication": "enRoute",
+        "category": "articles",
+        "type": "pdf",
+        "photo-link": "https://drive.google.com/file/d/1vfWOUfEqc5PNPKqWO7hp_ZJ6JPIsZiH0/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/1uTP_dgb3G9MBaOfMaRshmm9gD1MZsLxf/view?usp=sharing",
+        "image": "JG.png"
     },
     {
         "title": "This Montr\u00e9al Jewish Bakery Doesn't Want to Be Called Modern",
@@ -258,26 +388,6 @@
         "photo-link": "https://drive.google.com/file/d/1Um11Fttdx4RIi8Taj7SpOwRb0d6CzceG/view?usp=sharing",
         "url": "https://cultmtl.com/2016/03/adamos-pizza-montreal/",
         "image": "IMG_2250.jpg"
-    },
-    {
-        "title": "See how 6 Canadians took our cuisine abroad",
-        "date": "2014-04-09",
-        "publication": "Cult Montr\u00e9al",
-        "category": "articles",
-        "type": "website",
-        "photo-link": "https://drive.google.com/file/d/1WigPPOOGDSWfiuxNSI0fzJeX3AnTSbFT/view?usp=sharing",
-        "url": "https://cultmtl.com/2014/04/canadian-cuisine-abroad/",
-        "image": "Snack-Bar-Bkk-2-web.jpg"
-    },
-    {
-        "title": "Why Get Married When None Of Your Friends Are Doing It?",
-        "date": "2015-10-13",
-        "publication": "She Does The City",
-        "category": "articles",
-        "type": "website",
-        "photo-link": "https://drive.google.com/file/d/1muC2Be0F1n2Yp4EVz5znKK2TN1pcsiy9/view?usp=sharing",
-        "url": "http://www.shedoesthecity.com/why-get-married-when-none-of-your-friends-are-doing-it",
-        "image": "Why-get-married-when-none-of-your-friends-are-doing-it1.jpg"
     },
     {
         "title": "D\u00eda de los Muertos",
