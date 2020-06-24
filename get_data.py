@@ -81,7 +81,13 @@ def main():
         if "photo-link" in entry.keys():
             photo_link = entry["photo-link"]
             file_id = photo_link.split('/d/')[1].split('/')[0]
-            photo_file = service.files().get(fileId=file_id).execute()
+            photo_file = {}
+            try:
+                photo_file = service.files().get(fileId=file_id).execute()
+            except Exception as e:
+                print(e)
+                print(entry)
+                continue
             photo_name = photo_file['name']
             request = service.files().get_media(fileId=file_id)
             fh = io.BytesIO()
@@ -90,7 +96,7 @@ def main():
             entry['image'] = photo_name
             file_path = "images/{}".format(photo_name)
             if os.path.isfile(file_path):
-                print("Skipping {name}.".format(name=photo_name)) 
+                # print("Skipping {name}.".format(name=photo_name))
                 continue
             while done is False:
                 status, done = downloader.next_chunk()
