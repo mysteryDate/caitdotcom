@@ -126,7 +126,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1vWYv25S6t6SKuTZAlSVLh3Qh3mdYZ6lb/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/citizen-science"
+        "url": "https://enroute.aircanada.com/en/article/citizen-science",
+        "image": "citizen science.png"
     },
     {
         "title": "Frog Songs",
@@ -535,7 +536,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1a8BpK7cJw6Q6yM6mdUOE6KxeckfGG4i4/view?usp=sharing",
-        "url": "https://www.pastemagazine.com/articles/2015/09/maritime-quebec-by-way-of-craft-beer.html"
+        "url": "https://www.pastemagazine.com/articles/2015/09/maritime-quebec-by-way-of-craft-beer.html",
+        "image": "Screen Shot 2015-09-16 at 3.38.24 PM.png"
     },
     {
         "title": "Carnival by Rawi Hage",
@@ -574,8 +576,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/14_jr4lprLKHxegqHobLWk6rOwvwrbJbI/view?usp=sharing",
-        "url": "http://ambos.ca/fish/",
-        "image": "Serment-poissons-Patrice-Lessard-ambos-Quebec-literature-translation-cover.jpg"
+        "url": "http://ambos.ca/fish/"
     },
     {
         "title": "The Multicoloured Album",
