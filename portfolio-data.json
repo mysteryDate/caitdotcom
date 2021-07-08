@@ -156,7 +156,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1iLfLW7H4vAPJPQTVQCASkgDPiiQXjyfZ/view?usp=sharing",
-        "url": "https://www.theglobeandmail.com/life/travel/article-learn-how-to-be-a-tourist-in-your-own-city-with-the-help-of-this/"
+        "url": "https://www.theglobeandmail.com/life/travel/article-learn-how-to-be-a-tourist-in-your-own-city-with-the-help-of-this/",
+        "image": "Staycation.jpg"
     },
     {
         "title": "Your Money's Worth",
@@ -465,8 +466,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/113ZzgJJT3BocbCWyLATGVvAPfKG0JrpT/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1rH_kSmu6H6_2VKp8TxsqyikZL2XBnM4U/view?usp=sharing",
-        "image": "MC.png"
+        "url": "https://drive.google.com/file/d/1rH_kSmu6H6_2VKp8TxsqyikZL2XBnM4U/view?usp=sharing"
     },
     {
         "title": "Bangers and Mash-up",
@@ -475,8 +475,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1CIiEwM1JX_Vjnm0whtgzlFU685wmhfHt/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1GGDuZ_1JhhVOgRMt-a9F-3BO87NAyyfh/view?usp=sharing",
-        "image": "IndianEng.png"
+        "url": "https://drive.google.com/file/d/1GGDuZ_1JhhVOgRMt-a9F-3BO87NAyyfh/view?usp=sharing"
     },
     {
         "title": "One On One with Barry Gibb",
@@ -485,8 +484,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1YT6_RJhrUqYH_XbUhrviJEgGmPtQRkjU/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1lsIQNB05aNdNNEM6r6a8qBiK3G37xO9a/view?usp=sharing",
-        "image": "BG.png"
+        "url": "https://drive.google.com/file/d/1lsIQNB05aNdNNEM6r6a8qBiK3G37xO9a/view?usp=sharing"
     },
     {
         "title": "One On One with Louise Penny",
@@ -565,7 +563,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1ZZxlZZcep020XE8qkeFY40LUS3Mz3iG4/view?usp=sharing",
-        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/"
+        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/",
+        "image": "Screen Shot 2019-12-01 at 9.31.51 PM.png"
     },
     {
         "title": "Preaching to the Fish",
@@ -574,7 +573,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/14_jr4lprLKHxegqHobLWk6rOwvwrbJbI/view?usp=sharing",
-        "url": "http://ambos.ca/fish/"
+        "url": "http://ambos.ca/fish/",
+        "image": "Serment-poissons-Patrice-Lessard-ambos-Quebec-literature-translation-cover.jpg"
     },
     {
         "title": "The Multicoloured Album",
