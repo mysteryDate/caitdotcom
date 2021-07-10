@@ -246,7 +246,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Uj7vMF76bNHSkZoAsOi0wwZWOcEj9RL9/view?usp=sharing",
-        "url": "https://www.theglobeandmail.com/life/travel/article-montreal-is-waging-a-war-on-waste-heres-how-visitors-can-do-their/"
+        "url": "https://www.theglobeandmail.com/life/travel/article-montreal-is-waging-a-war-on-waste-heres-how-visitors-can-do-their/",
+        "image": "globe.jpg"
     },
     {
         "title": "Gatekeepers in Quebec have a stranglehold on gender-neutral language",
@@ -575,8 +576,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1ZZxlZZcep020XE8qkeFY40LUS3Mz3iG4/view?usp=sharing",
-        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/",
-        "image": "Screen Shot 2019-12-01 at 9.31.51 PM.png"
+        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/"
     },
     {
         "title": "Preaching to the Fish",
