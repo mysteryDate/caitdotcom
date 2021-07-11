@@ -386,7 +386,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/19qjC4ZPAbwmvmQie9ZRc9Fdntq3eHwTj/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1TVfY25oVdFFY488450H3h6wuzWsB6szu/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1TVfY25oVdFFY488450H3h6wuzWsB6szu/view?usp=sharing",
+        "image": "Screen Shot 2019-12-01 at 8.59.32 PM.png"
     },
     {
         "title": "Where the Wild Things Are",
@@ -395,7 +396,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1uqxh1POKdYnHz9ZDZnM3fpQ_yCuBdqPj/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1Vu7DYXNVFiDhBS-AtnkEA1LErTTupj5q/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1Vu7DYXNVFiDhBS-AtnkEA1LErTTupj5q/view?usp=sharing",
+        "image": "Screen Shot 2019-12-01 at 9.16.42 PM.png"
     },
     {
         "title": "A Food Blogger Opens Her Bag",
@@ -404,7 +406,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1KbTd8_EMs1L0YQ9uWBe7d0fYWXMsV_Mn/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1NYpPPuoNbR5mGuPyyXjgbwhFyG8w6sYS/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1NYpPPuoNbR5mGuPyyXjgbwhFyG8w6sYS/view?usp=sharing",
+        "image": "Screen Shot 2019-12-01 at 9.17.58 PM.png"
     },
     {
         "title": "Sole Mates",
@@ -413,8 +416,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1injcTd1-dLUcl3We4bGrKGNqsyqr-OTy/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1OfY6kKZJKiAYyNX7n0miVdjtv__E51u6/view?usp=sharing",
-        "image": "Screen Shot 2019-12-01 at 9.21.24 PM.png"
+        "url": "https://drive.google.com/file/d/1OfY6kKZJKiAYyNX7n0miVdjtv__E51u6/view?usp=sharing"
     },
     {
         "title": "The Bells That Still Can Ring",
@@ -423,8 +425,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1DW-votvitRk_H8UhXdQSggcCDkUPq7Oy/view?usp=sharing",
-        "url": "https://hazlitt.net/feature/bells-still-can-ring",
-        "image": "montreal-cohen-main.jpg"
+        "url": "https://hazlitt.net/feature/bells-still-can-ring"
     },
     {
         "title": "Our Woman in Delhi",
@@ -513,7 +514,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1vfWOUfEqc5PNPKqWO7hp_ZJ6JPIsZiH0/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1uTP_dgb3G9MBaOfMaRshmm9gD1MZsLxf/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1uTP_dgb3G9MBaOfMaRshmm9gD1MZsLxf/view?usp=sharing",
+        "image": "JG.png"
     },
     {
         "title": "This Montr\u00e9al Jewish Bakery Doesn't Want to Be Called Modern",
@@ -532,8 +534,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1tiC0ZYu9i9BUCY1lD1-LWTPD4bNUo0QF/view?usp=sharing",
-        "url": "https://www.vice.com/en_us/article/z4g3e9/step-inside-the-temple-of-grease-where-breakfast-dreams-come-true",
-        "image": "breakfast-heaven-sandwich-creation.webp"
+        "url": "https://www.vice.com/en_us/article/z4g3e9/step-inside-the-temple-of-grease-where-breakfast-dreams-come-true"
     },
     {
         "title": "Maritime Quebec by Way of Craft Beer",
@@ -542,8 +543,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1a8BpK7cJw6Q6yM6mdUOE6KxeckfGG4i4/view?usp=sharing",
-        "url": "https://www.pastemagazine.com/articles/2015/09/maritime-quebec-by-way-of-craft-beer.html",
-        "image": "Screen Shot 2015-09-16 at 3.38.24 PM.png"
+        "url": "https://www.pastemagazine.com/articles/2015/09/maritime-quebec-by-way-of-craft-beer.html"
     },
     {
         "title": "Carnival by Rawi Hage",
@@ -622,6 +622,7 @@
         "category": "fiction",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/11T5kztiakTiwSchbIwFRtBd_W9GX7RSt/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/11snVZ_jrn07GdCMGgEWbhpczGJPWFKFI/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/11snVZ_jrn07GdCMGgEWbhpczGJPWFKFI/view?usp=sharing",
+        "image": "TheHush-image.png"
     }
 ]
