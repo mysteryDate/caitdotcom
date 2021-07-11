@@ -136,7 +136,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1vWYv25S6t6SKuTZAlSVLh3Qh3mdYZ6lb/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/citizen-science"
+        "url": "https://enroute.aircanada.com/en/article/citizen-science",
+        "image": "citizen science.png"
     },
     {
         "title": "Frog Songs",
@@ -145,7 +146,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1_jsSflZYabcRSXF1dy1W-OInldE7DMia/view?usp=sharing",
-        "url": "https://thewalrus.ca/what-frogs-can-teach-us-about-the-state-of-the-world/?fbclid=IwAR2A6UDJotyljXZiNeDJt9zitnpVn8Xe0qJ8smu8dZZhpuVwj6SFWJ1MtLs"
+        "url": "https://thewalrus.ca/what-frogs-can-teach-us-about-the-state-of-the-world/?fbclid=IwAR2A6UDJotyljXZiNeDJt9zitnpVn8Xe0qJ8smu8dZZhpuVwj6SFWJ1MtLs",
+        "image": "Frog.png"
     },
     {
         "title": "3 Food Halls That are Changing Montreal\u2019s Downtown Dining Scene",
@@ -244,8 +246,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Uj7vMF76bNHSkZoAsOi0wwZWOcEj9RL9/view?usp=sharing",
-        "url": "https://www.theglobeandmail.com/life/travel/article-montreal-is-waging-a-war-on-waste-heres-how-visitors-can-do-their/",
-        "image": "globe.jpg"
+        "url": "https://www.theglobeandmail.com/life/travel/article-montreal-is-waging-a-war-on-waste-heres-how-visitors-can-do-their/"
     },
     {
         "title": "Gatekeepers in Quebec have a stranglehold on gender-neutral language",
@@ -454,8 +455,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1XahLIfXKUUSpHexz0me9FkjbmSwi1g1j/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1H94KLGnxRutH_SXhOtO2Byr_uyVwBRIb/view?usp=sharing",
-        "image": "2017.png"
+        "url": "https://drive.google.com/file/d/1H94KLGnxRutH_SXhOtO2Byr_uyVwBRIb/view?usp=sharing"
     },
     {
         "title": "Tour de Babel",
@@ -554,7 +554,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1INcmmkmwZn9aLExVtB7Fyu3OaAlAYZZE/view?usp=sharing",
-        "url": "https://www.pastemagazine.com/articles/2012/12/carnival-by-rawi-hage.html"
+        "url": "https://www.pastemagazine.com/articles/2012/12/carnival-by-rawi-hage.html",
+        "image": "carnivalsq.jpg"
     },
     {
         "title": "D\u00eda de los Muertos",
@@ -563,8 +564,7 @@
         "category": "fiction",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/16MDvNL32x3_0Jd4ecz3apoEJho4rjs1N/view?usp=sharing",
-        "url": "http://potluckmag.com/april-2016/2016/4/13/da-de-los-muertos",
-        "image": "Screen Shot 2019-12-01 at 9.31.08 PM.png"
+        "url": "http://potluckmag.com/april-2016/2016/4/13/da-de-los-muertos"
     },
     {
         "title": "Death in the Midden",
@@ -573,8 +573,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1ZZxlZZcep020XE8qkeFY40LUS3Mz3iG4/view?usp=sharing",
-        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/",
-        "image": "Screen Shot 2019-12-01 at 9.31.51 PM.png"
+        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/"
     },
     {
         "title": "Preaching to the Fish",
