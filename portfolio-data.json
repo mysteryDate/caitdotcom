@@ -246,7 +246,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Uj7vMF76bNHSkZoAsOi0wwZWOcEj9RL9/view?usp=sharing",
-        "url": "https://www.theglobeandmail.com/life/travel/article-montreal-is-waging-a-war-on-waste-heres-how-visitors-can-do-their/"
+        "url": "https://www.theglobeandmail.com/life/travel/article-montreal-is-waging-a-war-on-waste-heres-how-visitors-can-do-their/",
+        "image": "globe.jpg"
     },
     {
         "title": "Gatekeepers in Quebec have a stranglehold on gender-neutral language",
@@ -455,7 +456,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1XahLIfXKUUSpHexz0me9FkjbmSwi1g1j/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1H94KLGnxRutH_SXhOtO2Byr_uyVwBRIb/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1H94KLGnxRutH_SXhOtO2Byr_uyVwBRIb/view?usp=sharing",
+        "image": "2017.png"
     },
     {
         "title": "Tour de Babel",
@@ -564,7 +566,8 @@
         "category": "fiction",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/16MDvNL32x3_0Jd4ecz3apoEJho4rjs1N/view?usp=sharing",
-        "url": "http://potluckmag.com/april-2016/2016/4/13/da-de-los-muertos"
+        "url": "http://potluckmag.com/april-2016/2016/4/13/da-de-los-muertos",
+        "image": "Screen Shot 2019-12-01 at 9.31.08 PM.png"
     },
     {
         "title": "Death in the Midden",
@@ -573,7 +576,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1ZZxlZZcep020XE8qkeFY40LUS3Mz3iG4/view?usp=sharing",
-        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/"
+        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/",
+        "image": "Screen Shot 2019-12-01 at 9.31.51 PM.png"
     },
     {
         "title": "Preaching to the Fish",
@@ -602,8 +606,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1OMpXDH3-mtlcl-iKkljKyb61uXA1TEie/view?usp=sharing",
-        "url": "http://ambos.ca/nina/",
-        "image": "nina-patrice-lessard-ambos-quebec-literature-translation-cover2.jpg"
+        "url": "http://ambos.ca/nina/"
     },
     {
         "title": "Spaces",
@@ -612,8 +615,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1gG2WYnKHLCgCpWL8hVTWxH0ns7mqyFiS/view?usp=sharing",
-        "url": "http://ambos.ca/spaces/",
-        "image": "Espaces-cover1.jpg"
+        "url": "http://ambos.ca/spaces/"
     },
     {
         "title": "The Hush",
@@ -622,7 +624,6 @@
         "category": "fiction",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/11T5kztiakTiwSchbIwFRtBd_W9GX7RSt/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/11snVZ_jrn07GdCMGgEWbhpczGJPWFKFI/view?usp=sharing",
-        "image": "TheHush-image.png"
+        "url": "https://drive.google.com/file/d/11snVZ_jrn07GdCMGgEWbhpczGJPWFKFI/view?usp=sharing"
     }
 ]
