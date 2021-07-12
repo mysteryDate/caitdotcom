@@ -29,7 +29,7 @@ function init(data) {
         if (x === "url") {
           htmlEntry.href = entry[x];
         } else if (x === "image") {
-          var txt = "url('images/" + entry[x] + "')";
+          var txt = "url('small-images/" + entry[x] + ".jpg')";
           htmlEntry.children[0].style.backgroundImage = txt;
         } else if (htmlEntry.children[1].children[x])
           htmlEntry.children[1].children[x].innerText = entry[x];
