@@ -256,8 +256,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1-V0zVwXk31HavuzNhPYK4WNubRqS-QXn/view?usp=sharing",
-        "url": "https://www.dailyxtra.com/gender-neutral-language-quebec-french-167108",
-        "image": "Gender-neutral.jpg"
+        "url": "https://www.dailyxtra.com/gender-neutral-language-quebec-french-167108"
     },
     {
         "title": "Montrealers",
@@ -476,7 +475,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/113ZzgJJT3BocbCWyLATGVvAPfKG0JrpT/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1rH_kSmu6H6_2VKp8TxsqyikZL2XBnM4U/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1rH_kSmu6H6_2VKp8TxsqyikZL2XBnM4U/view?usp=sharing",
+        "image": "MC.png"
     },
     {
         "title": "Bangers and Mash-up",
@@ -565,8 +565,7 @@
         "category": "fiction",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/16MDvNL32x3_0Jd4ecz3apoEJho4rjs1N/view?usp=sharing",
-        "url": "http://potluckmag.com/april-2016/2016/4/13/da-de-los-muertos",
-        "image": "Screen Shot 2019-12-01 at 9.31.08 PM.png"
+        "url": "http://potluckmag.com/april-2016/2016/4/13/da-de-los-muertos"
     },
     {
         "title": "Death in the Midden",
@@ -585,7 +584,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/14_jr4lprLKHxegqHobLWk6rOwvwrbJbI/view?usp=sharing",
-        "url": "http://ambos.ca/fish/"
+        "url": "http://ambos.ca/fish/",
+        "image": "Serment-poissons-Patrice-Lessard-ambos-Quebec-literature-translation-cover.jpg"
     },
     {
         "title": "The Multicoloured Album",
