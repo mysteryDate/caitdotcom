@@ -10,11 +10,10 @@ body {
   font-size: 75px;
   font-family: futura, helvetica;
   margin: 0;
-  margin-top: 14px;
 }
 h2 {
   font-size: 40px;
-  font-family: futura light, helvetica;
+  font-family: futura, helvetica;
   font-weight: lighter;
   transition: font-size 1s, color 1s;
   color: hsl(316, 23%, 0%);
@@ -23,23 +22,27 @@ h2 {
 
 /* sections */
 .section:not(.active) {
-  opacity: 0;
-  visibility: hidden;
-  transition: visibility 0.5s, opacity 0.5s linear;
+  left: -100%;
 }
 .section.active {
-  opacity: 1;
-  visibility: visible;
-  transition: visibility 0.5s, opacity 0.5s linear;
+  left: 0px;
 }
 .section {
   position: absolute;
+  display: flex;
+  position: absolute;
+  flex-direction: row;
+  flex-wrap: wrap;
+  /*padding: 0px 20px;*/
+  left: -1000px;
   width: 100%;
+  transition: left 1s ease-in-out;
+  /*height: 5000px;*/
 }
 
-#sectionWrapper {
+/*#sectionWrapper {
   position: relative;
-}
+}*/
 
 /* Nav bar */
 #navBar h2 {
@@ -47,17 +50,15 @@ h2 {
   margin: 0 15px;
   color: hsl(316, 23%, 0%);
   transition: font-size 1s, color 1s;
-  /* user-select: none; */
 }
 #navBar {
-  user-select: none;
   text-align: center;
-  margin: 12px 0;
+  margin: 0px 0;
 }
 #navBar h2:hover {
   /*font-size: 45px;*/
   color: hsl(316, 23%, 72%);
-  transition: font-size 1s, color 1s;
+  transition: font-size 1s, color 0.5s;
 }
 #navBar h2.active {
   color: hsl(316, 23%, 40%);
@@ -67,26 +68,24 @@ h2 {
 
 /* Entry stuff */
 .entry .image-container {
-  float: left;
-  user-select: none;
-  width: 300px;
-  height: 300px;
+  background-color:  black;
+  height: 27.333vw;
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
+  border-radius: 10px;
+  transition:  background-color 1s, height 1s, width 1s;
 }
 .entry {
-  height: 300px;
-  width: 80%;
-  margin: 10px auto;
+  background-color:  white;
+  width: 27.333vw;
+  margin: 1.5vw;
+  padding: 1.5vw;
   cursor: pointer;
   color: hsl(316, 23%, 0%);
   transition: color 1s, background-color 1s;
   text-decoration: none;
-  display: block;
-  padding: 16px;
-  /*color: hsl(316, 23%, 72%);*/
-  /*background-color: hsla(0, 0%, 0%, 10%);*/
+  border-radius: 10px;
 }
 .entry:hover {
   color: hsl(316, 23%, 40%);
@@ -94,13 +93,12 @@ h2 {
   background-color: hsla(0, 0%, 0%, 10%);
 }
 .entry-info {
-  /* TODO these are hacks because of the image */
-  margin-left: 330px;
-  margin-top: 40px;
 }
 .entry h3 {
-  font-size: 26px;
+  margin: 0.8vw 0px;
+  font-size: 2vw;
 }
 .entry p {
-  font-size: 20px;
+  margin: 0px 0px;
+  font-size: 1.5vw;
 }
