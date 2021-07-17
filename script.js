@@ -1,5 +1,5 @@
 var data;
-var currentNumberOfColumns = 4;
+var currentNumberOfColumns;
 const columnWidthsDesktop = [600, 800, 1200];
 const columnWidthsMobile = [300, 800, 3000];
 const sectionTitles = ["articles", "fiction", "contact", "translation"];
