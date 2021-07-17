@@ -37,9 +37,9 @@ h2 {
 /* Nav bar */
 #navBar h2 {
   display: inline-block;
-  margin: 0 15px;
-  padding: 5px 10px;
-  border-radius:  20px;
+  margin: 5px 15px;
+  padding: 0px 10px;
+  border-radius:  10px;
   color: hsl(316, 23%, 0%);
   font-weight: lighter;
   background-color: hsla(0, 0%, 100%, 100%);

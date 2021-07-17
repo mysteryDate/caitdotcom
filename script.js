@@ -1,7 +1,7 @@
 var data;
 var currentNumberOfColumns;
-const columnWidthsDesktop = [600, 800, 1200];
-const columnWidthsMobile = [300, 800, 3000];
+const columnWidthsDesktop = [600, 900, 1200];
+const columnWidthsMobile = [300, 900, 3000];
 const sectionTitles = ["articles", "fiction", "contact", "translation"];
 
 window.mobileCheck = function() {
