@@ -1,5 +1,5 @@
 body {
-  font-family: 'Cutive Mono', monospace;
+  font-family: futura, helvetica-neue;
   cursor: default;
   background-image: url('paper.jpg');
   margin: 0;
@@ -7,12 +7,10 @@ body {
 #mainTitle {
   text-align: center;
   font-size: 75px;
-  font-family: futura, helvetica;
   margin: 0;
 }
 h2 {
   font-size: 40px;
-  font-family: futura, helvetica;
   cursor: pointer;
 }
 
