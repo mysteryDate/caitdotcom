@@ -23,11 +23,6 @@ h2 {
 }
 .section {
   position: absolute;
-  display: flex;
-  position: absolute;
-  flex-direction: row;
-  flex-wrap: wrap;
-  left: -1000px;
   width: 100%;
   transition: left 1s ease-in-out;
 }
@@ -74,12 +69,15 @@ h2 {
 }
 .entry {
   background-color:  white;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  display: block;
   cursor: pointer;
   color: hsl(316, 23%, 0%);
-  transition: color 1s, background-color 1s;
   text-decoration: none;
-  transition: background-color 1s, height 1s, width 1s, margin 1s, padding 1s;
   border-radius: 10px;
+  transition: color 1s, background-color 1s, height 1s, width 1s, margin 1s, padding 1s, left 1s, top 1s;
 }
 .entry.fourcolumn .image-container {
   height: 22vw;

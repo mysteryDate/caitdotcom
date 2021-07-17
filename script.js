@@ -1,7 +1,7 @@
 var data;
-var currentNumberOfColumns;
+let numColumns;
 const columnWidthsDesktop = [600, 900, 1200];
-const columnWidthsMobile = [300, 900, 3000];
+const columnWidthsMobile = [300, 800, 3000];
 const sectionTitles = ["articles", "fiction", "contact", "translation"];
 
 window.mobileCheck = function() {
@@ -47,7 +47,17 @@ function init(data) {
     if (sections[entry.category])
       sections[entry.category].appendChild(htmlEntry);
   });
-  document.body.onresize();
+  defaultEntry.remove();
+  setTimeout(() => {
+    document.body.onresize();
+    var destination = "articles";
+    if (window.location.search) {
+      var searchQuery = window.location.search.substr(1);
+      if (sectionTitles.includes(searchQuery))
+        destination = searchQuery;
+    }
+    changeSectionWithText(destination);
+  });
 }
 
 function changeSectionWithText(newSectionTitle) {
@@ -65,6 +75,32 @@ function changeSectionWithText(newSectionTitle) {
     header.classList.remove("active");
     if (header.innerText.toLowerCase() === newSectionTitle)
       header.classList.add("active");
+  });
+
+  positionTiles();
+}
+
+function positionTiles() {
+  let columnNumber = 0;
+  entries = document.getElementsByClassName("entry");
+  const columnPositions = Array(numColumns).fill(0);
+  Array.from(entries).forEach((entry) => {
+    if (entry.parentElement.classList.contains("active")) {
+      if (columnNumber == numColumns)
+        columnNumber = 0;
+      entry.style.left = `${columnNumber * window.innerWidth/numColumns}px`;
+      entry.style.top = `${columnPositions[columnNumber]}px`;
+      const style = getComputedStyle(entry);
+      columnPositions[columnNumber] += entry.offsetHeight + parseInt(style.marginTop);
+      columnNumber += 1;
+    } else {
+      // const direction = Math.random() *  Math.PI + Math.PI/4;
+      // const distance = 2000;
+      // entry.style.left = `${distance * Math.cos(direction)}px`;
+      // entry.style.top = `${distance * Math.sin(direction)}px`;
+      entry.style.left = `0px`;
+      entry.style.top = `${Math.random() * 2000}px`;
+    }
   });
 }
 
@@ -86,20 +122,24 @@ document.body.onresize = function(e) {
     newNumColumns = 3;
   if (width > columnWidths[2])
     newNumColumns = 4;
-  if (newNumColumns == currentNumberOfColumns)
-    return;
-  currentNumberOfColumns = newNumColumns;
-  Array.from(entries).forEach((entry) => {
-    entry.classList.remove(entry.classList[1]);
-    if (newNumColumns == 1)
-      entry.classList.add("onecolumn")
-    if (newNumColumns == 2)
-      entry.classList.add("twocolumn")
-    if (newNumColumns == 3)
-      entry.classList.add("threecolumn")
-    if (newNumColumns == 4)
-      entry.classList.add("fourcolumn")
-  });
+  if (numColumns != newNumColumns) {
+    numColumns = newNumColumns;
+    Array.from(entries).forEach((entry) => {
+      entry.classList.remove(entry.classList[entry.classList.length]);
+      if (newNumColumns == 1)
+        entry.classList.add("onecolumn")
+      if (newNumColumns == 2)
+        entry.classList.add("twocolumn")
+      if (newNumColumns == 3)
+        entry.classList.add("threecolumn")
+      if (newNumColumns == 4)
+        entry.classList.add("fourcolumn")
+    });
+  }
+
+  window.setTimeout(() => {
+    positionTiles();
+  }, 1000);
 }
 
 function changeSection(e) {
@@ -107,11 +147,5 @@ function changeSection(e) {
   changeSectionWithText(newSectionTitle);
 }
 
-var destination = "articles";
-if (window.location.search) {
-  var searchQuery = window.location.search.substr(1);
-  if (sectionTitles.includes(searchQuery))
-    destination = searchQuery;
-}
-changeSectionWithText(destination);
+
 
