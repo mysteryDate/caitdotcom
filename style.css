@@ -3,7 +3,6 @@ body {
   cursor: default;
   background-image: url('paper.jpg');
   margin: 0;
-  transition: display 1s;
 }
 #mainTitle {
   text-align: center;
@@ -14,9 +13,6 @@ body {
 h2 {
   font-size: 40px;
   font-family: futura, helvetica;
-  font-weight: lighter;
-  transition: font-size 1s, color 1s;
-  color: hsl(316, 23%, 0%);
   cursor: pointer;
 }
 
@@ -33,23 +29,21 @@ h2 {
   position: absolute;
   flex-direction: row;
   flex-wrap: wrap;
-  /*padding: 0px 20px;*/
   left: -1000px;
   width: 100%;
   transition: left 1s ease-in-out;
-  /*height: 5000px;*/
 }
-
-/*#sectionWrapper {
-  position: relative;
-}*/
 
 /* Nav bar */
 #navBar h2 {
   display: inline-block;
   margin: 0 15px;
+  padding: 5px 10px;
+  border-radius:  20px;
   color: hsl(316, 23%, 0%);
-  transition: font-size 1s, color 1s;
+  font-weight: lighter;
+  background-color: hsla(0, 0%, 100%, 100%);
+  transition: font-size 1s, color 1s, background-color 1s;
 }
 #navBar {
   text-align: center;
@@ -57,35 +51,69 @@ h2 {
 }
 #navBar h2:hover {
   /*font-size: 45px;*/
-  color: hsl(316, 23%, 72%);
-  transition: font-size 1s, color 0.5s;
+  color: hsl(316, 23%, 40%);
+  background-color: hsla(0, 0%, 0%, 20%);
+  transition: font-size 1s, color 0.5s, background-color 1s;
 }
 #navBar h2.active {
   color: hsl(316, 23%, 40%);
+  background-color: hsla(0, 0%, 100%, 0%);
   text-decoration: underline;
+}
+#navBar h2.active:hover {
+  background-color: hsla(0, 0%, 100%, 0%);
 }
 
 
 /* Entry stuff */
 .entry .image-container {
   background-color:  black;
-  height: 27.333vw;
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
   border-radius: 10px;
-  transition:  background-color 1s, height 1s, width 1s;
+  transition: background-color 1s, height 1s, width 1s, margin 1s, padding 1s;
 }
 .entry {
   background-color:  white;
-  width: 27.333vw;
-  margin: 1.5vw;
-  padding: 1.5vw;
   cursor: pointer;
   color: hsl(316, 23%, 0%);
   transition: color 1s, background-color 1s;
   text-decoration: none;
+  transition: background-color 1s, height 1s, width 1s, margin 1s, padding 1s;
   border-radius: 10px;
+}
+.entry.fourcolumn .image-container {
+  height: 22vw;
+}
+.entry.fourcolumn {
+  width: 22vw;
+  margin: 0.5vw;
+  padding: 1vw;
+}
+.entry.threecolumn .image-container {
+  height: 28.333vw;
+}
+.entry.threecolumn {
+  width: 28.333vw;
+  margin: 1vw;
+  padding: 1.5vw;
+}
+.entry.twocolumn .image-container {
+  height: 44vw;
+}
+.entry.twocolumn {
+  width: 44vw;
+  margin: 1vw;
+  padding: 2vw;
+}
+.entry.onecolumn .image-container {
+  height: 90vw;
+}
+.entry.onecolumn {
+  width: 90vw;
+  margin: 5vw;
+  padding: 3vw;
 }
 .entry:hover {
   color: hsl(316, 23%, 40%);
@@ -96,9 +124,11 @@ h2 {
 }
 .entry h3 {
   margin: 0.8vw 0px;
-  font-size: 2vw;
+  font-size: calc(0.5vw + 25px);
+  /*font-size: 2vw;*/
 }
 .entry p {
   margin: 0px 0px;
-  font-size: 1.5vw;
+  font-size: calc(0.5vw + 15px);
+  /*font-size: 1.5vw;*/
 }
