@@ -10,17 +10,93 @@ window.mobileCheck = function() {
   return check;
 };
 
-fetch("portfolio-data.json")
-  .then(function(response) {
-    return response.json();
-  })
-  .then(function(json) {
-    data = json;
-    init(data);
+
+
+
+function changeSectionWithText(newSectionTitle) {
+  if (!sectionTitles.includes(newSectionTitle))
+    return;
+  var section = document.getElementsByClassName("section");
+  Array.from(section).forEach((element) => {
+    element.classList.remove("active");
+    if (element.id === newSectionTitle) {
+      element.classList.add("active");
+    }
+  });
+  var headers = document.getElementById("navBarWrapper");
+  Array.from(headers.children).forEach((header) => {
+    header.classList.remove("active");
+    if (header.innerText.toLowerCase() === newSectionTitle)
+      header.classList.add("active");
   });
 
-function loadUrl() {
-  console.log(event);
+  positionTiles();
+}
+
+function positionTiles() {
+  let columnNumber = 0;
+  entries = document.getElementsByClassName("entry");
+  const columnPositions = Array(numColumns).fill(0);
+  Array.from(entries).forEach((entry) => {
+    if (entry.parentElement.classList.contains("active")) {
+      if (columnNumber == numColumns)
+        columnNumber = 0;
+      entry.style.left = `${columnNumber * window.innerWidth/numColumns}px`;
+      entry.style.top = `${columnPositions[columnNumber]}px`;
+      const style = getComputedStyle(entry);
+      columnPositions[columnNumber] += entry.offsetHeight +
+        parseInt(style.marginTop) + parseInt(style.marginBottom);
+      columnNumber += 1;
+    } else {
+      entry.style.left = `0px`;
+      entry.style.top = `${Math.random() * 2000}px`;
+    }
+  });
+}
+
+let positionTilesTimeout;
+document.body.onresize = function(e) {
+  entries = document.getElementsByClassName("entry");
+  var width = window.innerWidth;
+  var columnWidths = columnWidthsDesktop;
+  if (mobileCheck()) {
+    columnWidths = columnWidthsMobile;
+    width = window.screen.width;
+  }
+
+  var newNumColumns;
+  if (width < columnWidths[0])
+    newNumColumns = 1;
+  if (width > columnWidths[0] && width < columnWidths[1])
+    newNumColumns = 2;
+  if (width > columnWidths[1] && width < columnWidths[2])
+    newNumColumns = 3;
+  if (width > columnWidths[2])
+    newNumColumns = 4;
+  if (numColumns != newNumColumns) {
+    numColumns = newNumColumns;
+    Array.from(entries).forEach((entry) => {
+      entry.classList.remove(entry.classList[1]);
+      if (newNumColumns == 1)
+        entry.classList.add("onecolumn")
+      if (newNumColumns == 2)
+        entry.classList.add("twocolumn")
+      if (newNumColumns == 3)
+        entry.classList.add("threecolumn")
+      if (newNumColumns == 4)
+        entry.classList.add("fourcolumn")
+    });
+  }
+
+  window.clearTimeout(positionTilesTimeout);
+  positionTilesTimeout = window.setTimeout(() => {
+    positionTiles();
+  }, 1000);
+}
+
+function changeSection(e) {
+  var newSectionTitle = e.srcElement.innerText.toLowerCase();
+  changeSectionWithText(newSectionTitle);
 }
 
 function init(data) {
@@ -60,92 +136,14 @@ function init(data) {
   });
 }
 
-function changeSectionWithText(newSectionTitle) {
-  if (!sectionTitles.includes(newSectionTitle))
-    return;
-  var section = document.getElementsByClassName("section");
-  Array.from(section).forEach((element) => {
-    element.classList.remove("active");
-    if (element.id === newSectionTitle) {
-      element.classList.add("active");
-    }
+fetch("portfolio-data.json")
+  .then(function(response) {
+    return response.json();
+  })
+  .then(function(json) {
+    data = json;
+    init(data);
   });
-  var headers = document.getElementById("navBarWrapper");
-  Array.from(headers.children).forEach((header) => {
-    header.classList.remove("active");
-    if (header.innerText.toLowerCase() === newSectionTitle)
-      header.classList.add("active");
-  });
-
-  positionTiles();
-}
-
-function positionTiles() {
-  let columnNumber = 0;
-  entries = document.getElementsByClassName("entry");
-  const columnPositions = Array(numColumns).fill(0);
-  Array.from(entries).forEach((entry) => {
-    if (entry.parentElement.classList.contains("active")) {
-      if (columnNumber == numColumns)
-        columnNumber = 0;
-      entry.style.left = `${columnNumber * window.innerWidth/numColumns}px`;
-      entry.style.top = `${columnPositions[columnNumber]}px`;
-      const style = getComputedStyle(entry);
-      columnPositions[columnNumber] += entry.offsetHeight + parseInt(style.marginTop);
-      columnNumber += 1;
-    } else {
-      // const direction = Math.random() *  Math.PI + Math.PI/4;
-      // const distance = 2000;
-      // entry.style.left = `${distance * Math.cos(direction)}px`;
-      // entry.style.top = `${distance * Math.sin(direction)}px`;
-      entry.style.left = `0px`;
-      entry.style.top = `${Math.random() * 2000}px`;
-    }
-  });
-}
-
-document.body.onresize = function(e) {
-  entries = document.getElementsByClassName("entry");
-  var width = window.innerWidth;
-  var columnWidths = columnWidthsDesktop;
-  if (mobileCheck()) {
-    columnWidths = columnWidthsMobile;
-    width = window.screen.width;
-  }
-
-  var newNumColumns;
-  if (width < columnWidths[0])
-    newNumColumns = 1;
-  if (width > columnWidths[0] && width < columnWidths[1])
-    newNumColumns = 2;
-  if (width > columnWidths[1] && width < columnWidths[2])
-    newNumColumns = 3;
-  if (width > columnWidths[2])
-    newNumColumns = 4;
-  if (numColumns != newNumColumns) {
-    numColumns = newNumColumns;
-    Array.from(entries).forEach((entry) => {
-      entry.classList.remove(entry.classList[entry.classList.length]);
-      if (newNumColumns == 1)
-        entry.classList.add("onecolumn")
-      if (newNumColumns == 2)
-        entry.classList.add("twocolumn")
-      if (newNumColumns == 3)
-        entry.classList.add("threecolumn")
-      if (newNumColumns == 4)
-        entry.classList.add("fourcolumn")
-    });
-  }
-
-  window.setTimeout(() => {
-    positionTiles();
-  }, 1000);
-}
-
-function changeSection(e) {
-  var newSectionTitle = e.srcElement.innerText.toLowerCase();
-  changeSectionWithText(newSectionTitle);
-}
 
 
 
