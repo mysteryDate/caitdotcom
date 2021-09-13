@@ -110,14 +110,13 @@ function init(data) {
     htmlEntry.id = "";
     htmlEntry.style.display = "";
     for (var x in entry) {
-      if (entry[x]) {
-        if (x === "url") {
-          htmlEntry.href = entry[x];
-        } else if (x === "image") {
-          var txt = "url('small-images/" + entry[x] + ".jpg')";
-          htmlEntry.children[0].style.backgroundImage = txt;
-        } else if (htmlEntry.children[1].children[x])
-          htmlEntry.children[1].children[x].innerText = entry[x];
+      if (x === "url") {
+        htmlEntry.href = entry[x];
+      } else if (x === "image") {
+        var txt = "url('small-images/" + entry[x] + ".jpg')";
+        htmlEntry.children[0].style.backgroundImage = txt;
+      } else if (htmlEntry.children[1].children[x.toLowerCase()]) {
+        htmlEntry.children[1].children[x.toLowerCase()].innerText = entry[x];
       }
     }
     if (sections[entry.category])
