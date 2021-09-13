@@ -5,14 +5,15 @@ if git checkout gh-pages; then
   if git pull; then
     if python3 get_data.py; then
       if git add --all; git commit -am "Update data"; then
-        if git push origin gh-pages; then
-          if python image-resize.py; then
-            result="success"
-          else
-            result="couldn't resize"
-        else
-          result="couldn't push"
-        fi
+      echo "hi"
+  #       if git push origin gh-pages; then
+  #         if python image-resize.py; then
+  #           result="success"
+  #         else
+  #           result="couldn't resize"
+  #       else
+  #         result="couldn't push"
+  #       fi
       else
         result="nothing to change"
       fi
