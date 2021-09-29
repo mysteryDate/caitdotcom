@@ -296,7 +296,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1_N-8i5YuN2V2Wzjl0kjjoTgH62oBOQ-f/view?usp=sharing",
-        "url": "https://www.atlasobscura.com/articles/jewish-food-in-montreal?fbclid=IwAR1xmqoKZC9rZGSZnZYdQ3I_LcGI847GaJ2ZmqlDR_G5SoduIlhp6aP7t4A"
+        "url": "https://www.atlasobscura.com/articles/jewish-food-in-montreal?fbclid=IwAR1xmqoKZC9rZGSZnZYdQ3I_LcGI847GaJ2ZmqlDR_G5SoduIlhp6aP7t4A",
+        "image": "Fletchers.jpg"
     },
     {
         "Title": "Shimmying to Northern Soul At a Hidden Cocktail Bar in East London",
@@ -395,8 +396,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/19qjC4ZPAbwmvmQie9ZRc9Fdntq3eHwTj/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1TVfY25oVdFFY488450H3h6wuzWsB6szu/view?usp=sharing",
-        "image": "Screen Shot 2019-12-01 at 8.59.32 PM.png"
+        "url": "https://drive.google.com/file/d/1TVfY25oVdFFY488450H3h6wuzWsB6szu/view?usp=sharing"
     },
     {
         "Title": "Where the Wild Things Are",
@@ -505,8 +505,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1nOMEs-wIU0V5OlOxRtdA2MH7seWZ6Mkr/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1msOfFIkVPN2AX5SJkF2crNs1t_hf8npz/view?usp=sharing",
-        "image": "LP.png"
+        "url": "https://drive.google.com/file/d/1msOfFIkVPN2AX5SJkF2crNs1t_hf8npz/view?usp=sharing"
     },
     {
         "Title": "This Montr\u00e9al Jewish Bakery Doesn't Want to Be Called Modern",
@@ -515,8 +514,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1dD281mJObzadBdp4q_-rtZAdLwnLYAb4/view?usp=sharing",
-        "url": "https://www.vice.com/en_us/article/9agzb7/this-montreal-jewish-bakery-doesnt-want-to-be-called-modern",
-        "image": "hofkelsten_IMG_2040_featured.webp"
+        "url": "https://www.vice.com/en_us/article/9agzb7/this-montreal-jewish-bakery-doesnt-want-to-be-called-modern"
     },
     {
         "Title": "Maritime Quebec by Way of Craft Beer",
