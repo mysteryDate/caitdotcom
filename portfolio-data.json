@@ -176,8 +176,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1MEzz_60-GhTOARjFbFFvLfej-0HL8Ssa/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/montreal-food-halls",
-        "image": "foodhall.webp"
+        "url": "https://enroute.aircanada.com/en/article/montreal-food-halls"
     },
     {
         "Title": "Be a tourist in your own city with this Canadian summer staycation guide",
@@ -266,7 +265,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1-V0zVwXk31HavuzNhPYK4WNubRqS-QXn/view?usp=sharing",
-        "url": "https://www.dailyxtra.com/gender-neutral-language-quebec-french-167108"
+        "url": "https://www.dailyxtra.com/gender-neutral-language-quebec-french-167108",
+        "image": "Gender-neutral.jpg"
     },
     {
         "Title": "Montrealers",
@@ -475,7 +475,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/113ZzgJJT3BocbCWyLATGVvAPfKG0JrpT/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1rH_kSmu6H6_2VKp8TxsqyikZL2XBnM4U/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1rH_kSmu6H6_2VKp8TxsqyikZL2XBnM4U/view?usp=sharing",
+        "image": "MC.png"
     },
     {
         "Title": "Bangers and Mash-up",
@@ -484,7 +485,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1CIiEwM1JX_Vjnm0whtgzlFU685wmhfHt/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1GGDuZ_1JhhVOgRMt-a9F-3BO87NAyyfh/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1GGDuZ_1JhhVOgRMt-a9F-3BO87NAyyfh/view?usp=sharing",
+        "image": "IndianEng.png"
     },
     {
         "Title": "One On One with Barry Gibb",
@@ -583,8 +585,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1gG2WYnKHLCgCpWL8hVTWxH0ns7mqyFiS/view?usp=sharing",
-        "url": "http://ambos.ca/spaces/",
-        "image": "Espaces-cover1.jpg"
+        "url": "http://ambos.ca/spaces/"
     },
     {
         "Title": "The Hush",
