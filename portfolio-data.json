@@ -136,7 +136,8 @@
         "category": "fiction",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/19BrmZdIEJrHkTPSlE8l8dE59WCeb7Zcj/view?usp=sharing",
-        "url": "https://cdn.shopify.com/s/files/1/1322/7695/files/DragnetMagazineIssue002.pdf?13258612823015789491"
+        "url": "https://cdn.shopify.com/s/files/1/1322/7695/files/DragnetMagazineIssue002.pdf?13258612823015789491",
+        "image": "cheesy.png"
     },
     {
         "Title": "The Upside Of Virtual Grieving",
@@ -145,7 +146,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Sq1Rke_hiJtaapkyduYm2p24s8YSDSN2/view?usp=sharing",
-        "url": "https://www.refinery29.com/en-ca/covid-death-loss-grieving"
+        "url": "https://www.refinery29.com/en-ca/covid-death-loss-grieving",
+        "image": "Grief-Refinery.webp"
     },
     {
         "Title": "How to Save the Environment While Getting Outdoors",
@@ -244,8 +246,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1riRp6ZE3b37YfrZe5sGu506NgmYZt7Wr/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/old-montreal",
-        "image": "VR Montreal.png"
+        "url": "https://enroute.aircanada.com/en/article/old-montreal"
     },
     {
         "Title": "Montreal is waging a war on waste. Here\u2019s how visitors can do their part",
@@ -571,8 +572,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1OMpXDH3-mtlcl-iKkljKyb61uXA1TEie/view?usp=sharing",
-        "url": "http://ambos.ca/nina/",
-        "image": "nina-patrice-lessard-ambos-quebec-literature-translation-cover2.jpg"
+        "url": "http://ambos.ca/nina/"
     },
     {
         "Title": "Spaces",
@@ -581,8 +581,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1gG2WYnKHLCgCpWL8hVTWxH0ns7mqyFiS/view?usp=sharing",
-        "url": "http://ambos.ca/spaces/",
-        "image": "Espaces-cover1.jpg"
+        "url": "http://ambos.ca/spaces/"
     },
     {
         "Title": "The Hush",
