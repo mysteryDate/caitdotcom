@@ -146,7 +146,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Sq1Rke_hiJtaapkyduYm2p24s8YSDSN2/view?usp=sharing",
-        "url": "https://www.refinery29.com/en-ca/covid-death-loss-grieving"
+        "url": "https://www.refinery29.com/en-ca/covid-death-loss-grieving",
+        "image": "Grief-Refinery.webp"
     },
     {
         "Title": "How to Save the Environment While Getting Outdoors",
@@ -255,8 +256,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Uj7vMF76bNHSkZoAsOi0wwZWOcEj9RL9/view?usp=sharing",
-        "url": "https://www.theglobeandmail.com/life/travel/article-montreal-is-waging-a-war-on-waste-heres-how-visitors-can-do-their/",
-        "image": "globe.jpg"
+        "url": "https://www.theglobeandmail.com/life/travel/article-montreal-is-waging-a-war-on-waste-heres-how-visitors-can-do-their/"
     },
     {
         "Title": "Gatekeepers in Quebec have a stranglehold on gender-neutral language",
@@ -545,7 +545,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1ZZxlZZcep020XE8qkeFY40LUS3Mz3iG4/view?usp=sharing",
-        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/"
+        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/",
+        "image": "Screen Shot 2019-12-01 at 9.31.51 PM.png"
     },
     {
         "Title": "Preaching to the Fish",
