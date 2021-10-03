@@ -156,8 +156,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1vWYv25S6t6SKuTZAlSVLh3Qh3mdYZ6lb/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/citizen-science",
-        "image": "citizen science.png"
+        "url": "https://enroute.aircanada.com/en/article/citizen-science"
     },
     {
         "Title": "Frog Songs",
@@ -166,8 +165,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1_jsSflZYabcRSXF1dy1W-OInldE7DMia/view?usp=sharing",
-        "url": "https://thewalrus.ca/what-frogs-can-teach-us-about-the-state-of-the-world/?fbclid=IwAR2A6UDJotyljXZiNeDJt9zitnpVn8Xe0qJ8smu8dZZhpuVwj6SFWJ1MtLs",
-        "image": "Frog.png"
+        "url": "https://thewalrus.ca/what-frogs-can-teach-us-about-the-state-of-the-world/?fbclid=IwAR2A6UDJotyljXZiNeDJt9zitnpVn8Xe0qJ8smu8dZZhpuVwj6SFWJ1MtLs"
     },
     {
         "Title": "3 Food Halls That are Changing Montreal\u2019s Downtown Dining Scene",
@@ -566,7 +564,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1w5qbD7OYmiC6fLJ4_jeaua3RJqvjsdXw/view?usp=sharing",
-        "url": "http://ambos.ca/album/"
+        "url": "http://ambos.ca/album/",
+        "image": "album-multicolore-louise-dupre-ambos-quebec-literature-translation-cover.jpg"
     },
     {
         "Title": "Nina",
