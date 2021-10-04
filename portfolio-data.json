@@ -156,7 +156,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1vWYv25S6t6SKuTZAlSVLh3Qh3mdYZ6lb/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/citizen-science"
+        "url": "https://enroute.aircanada.com/en/article/citizen-science",
+        "image": "citizen science.png"
     },
     {
         "Title": "Frog Songs",
@@ -165,7 +166,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1_jsSflZYabcRSXF1dy1W-OInldE7DMia/view?usp=sharing",
-        "url": "https://thewalrus.ca/what-frogs-can-teach-us-about-the-state-of-the-world/?fbclid=IwAR2A6UDJotyljXZiNeDJt9zitnpVn8Xe0qJ8smu8dZZhpuVwj6SFWJ1MtLs"
+        "url": "https://thewalrus.ca/what-frogs-can-teach-us-about-the-state-of-the-world/?fbclid=IwAR2A6UDJotyljXZiNeDJt9zitnpVn8Xe0qJ8smu8dZZhpuVwj6SFWJ1MtLs",
+        "image": "Frog.png"
     },
     {
         "Title": "3 Food Halls That are Changing Montreal\u2019s Downtown Dining Scene",
@@ -574,7 +576,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1OMpXDH3-mtlcl-iKkljKyb61uXA1TEie/view?usp=sharing",
-        "url": "http://ambos.ca/nina/"
+        "url": "http://ambos.ca/nina/",
+        "image": "nina-patrice-lessard-ambos-quebec-literature-translation-cover2.jpg"
     },
     {
         "Title": "Spaces",
