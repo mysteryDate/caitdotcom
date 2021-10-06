@@ -156,8 +156,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1vWYv25S6t6SKuTZAlSVLh3Qh3mdYZ6lb/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/citizen-science",
-        "image": "citizen science.png"
+        "url": "https://enroute.aircanada.com/en/article/citizen-science"
     },
     {
         "Title": "Frog Songs",
@@ -316,7 +315,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1dedlhIpnFeK-JXha-0SLQwlk0JqaqbxH/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/antonio-park-sao-paulo"
+        "url": "https://enroute.aircanada.com/en/article/antonio-park-sao-paulo",
+        "image": "Screen Shot 2019-12-01 at 9.12.22 PM.png"
     },
     {
         "Title": "How Outlaw Artist Orville Peck is Queering Country Music",
@@ -535,7 +535,8 @@
         "category": "fiction",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/16MDvNL32x3_0Jd4ecz3apoEJho4rjs1N/view?usp=sharing",
-        "url": "http://potluckmag.com/april-2016/2016/4/13/da-de-los-muertos"
+        "url": "http://potluckmag.com/april-2016/2016/4/13/da-de-los-muertos",
+        "image": "Screen Shot 2019-12-01 at 9.31.08 PM.png"
     },
     {
         "Title": "Death in the Midden",
