@@ -166,7 +166,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1_jsSflZYabcRSXF1dy1W-OInldE7DMia/view?usp=sharing",
-        "url": "https://thewalrus.ca/what-frogs-can-teach-us-about-the-state-of-the-world/?fbclid=IwAR2A6UDJotyljXZiNeDJt9zitnpVn8Xe0qJ8smu8dZZhpuVwj6SFWJ1MtLs"
+        "url": "https://thewalrus.ca/what-frogs-can-teach-us-about-the-state-of-the-world/?fbclid=IwAR2A6UDJotyljXZiNeDJt9zitnpVn8Xe0qJ8smu8dZZhpuVwj6SFWJ1MtLs",
+        "image": "Frog.png"
     },
     {
         "Title": "3 Food Halls That are Changing Montreal\u2019s Downtown Dining Scene",
@@ -315,8 +316,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1dedlhIpnFeK-JXha-0SLQwlk0JqaqbxH/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/antonio-park-sao-paulo",
-        "image": "Screen Shot 2019-12-01 at 9.12.22 PM.png"
+        "url": "https://enroute.aircanada.com/en/article/antonio-park-sao-paulo"
     },
     {
         "Title": "How Outlaw Artist Orville Peck is Queering Country Music",
@@ -535,8 +535,7 @@
         "category": "fiction",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/16MDvNL32x3_0Jd4ecz3apoEJho4rjs1N/view?usp=sharing",
-        "url": "http://potluckmag.com/april-2016/2016/4/13/da-de-los-muertos",
-        "image": "Screen Shot 2019-12-01 at 9.31.08 PM.png"
+        "url": "http://potluckmag.com/april-2016/2016/4/13/da-de-los-muertos"
     },
     {
         "Title": "Death in the Midden",
@@ -575,7 +574,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1OMpXDH3-mtlcl-iKkljKyb61uXA1TEie/view?usp=sharing",
-        "url": "http://ambos.ca/nina/"
+        "url": "http://ambos.ca/nina/",
+        "image": "nina-patrice-lessard-ambos-quebec-literature-translation-cover2.jpg"
     },
     {
         "Title": "Spaces",
