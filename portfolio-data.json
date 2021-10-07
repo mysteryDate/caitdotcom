@@ -276,7 +276,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1SmRujx72nkgVpwnRCsup5WDpi9hpf2qU/view?usp=sharing",
-        "url": "https://www.simonandschuster.ca/books/Montrealers/Jean-Francois-Nadeau/9781988002194"
+        "url": "https://www.simonandschuster.ca/books/Montrealers/Jean-Francois-Nadeau/9781988002194",
+        "image": "Montrealers.png"
     },
     {
         "Title": "300 raisons d'aimer New York",
@@ -305,8 +306,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Bs_OScwYi2gH-asN_9KVgGfMQWElrvCY/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/northern-soul-london",
-        "image": "soul-survivor-illustration.jpg"
+        "url": "https://enroute.aircanada.com/en/article/northern-soul-london"
     },
     {
         "Title": "Chef Antonio Park's Guide to Sao Paolo",
@@ -485,7 +485,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1CIiEwM1JX_Vjnm0whtgzlFU685wmhfHt/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1GGDuZ_1JhhVOgRMt-a9F-3BO87NAyyfh/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1GGDuZ_1JhhVOgRMt-a9F-3BO87NAyyfh/view?usp=sharing",
+        "image": "IndianEng.png"
     },
     {
         "Title": "One On One with Barry Gibb",
@@ -504,8 +505,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1nOMEs-wIU0V5OlOxRtdA2MH7seWZ6Mkr/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1msOfFIkVPN2AX5SJkF2crNs1t_hf8npz/view?usp=sharing",
-        "image": "LP.png"
+        "url": "https://drive.google.com/file/d/1msOfFIkVPN2AX5SJkF2crNs1t_hf8npz/view?usp=sharing"
     },
     {
         "Title": "This Montr\u00e9al Jewish Bakery Doesn't Want to Be Called Modern",
@@ -594,6 +594,7 @@
         "category": "fiction",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/11T5kztiakTiwSchbIwFRtBd_W9GX7RSt/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/11snVZ_jrn07GdCMGgEWbhpczGJPWFKFI/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/11snVZ_jrn07GdCMGgEWbhpczGJPWFKFI/view?usp=sharing",
+        "image": "TheHush-image.png"
     }
 ]
