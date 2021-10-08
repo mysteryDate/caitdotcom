@@ -136,7 +136,8 @@
         "category": "fiction",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/19BrmZdIEJrHkTPSlE8l8dE59WCeb7Zcj/view?usp=sharing",
-        "url": "https://cdn.shopify.com/s/files/1/1322/7695/files/DragnetMagazineIssue002.pdf?13258612823015789491"
+        "url": "https://cdn.shopify.com/s/files/1/1322/7695/files/DragnetMagazineIssue002.pdf?13258612823015789491",
+        "image": "cheesy.png"
     },
     {
         "Title": "The Upside Of Virtual Grieving",
@@ -245,7 +246,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1riRp6ZE3b37YfrZe5sGu506NgmYZt7Wr/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/old-montreal"
+        "url": "https://enroute.aircanada.com/en/article/old-montreal",
+        "image": "VR Montreal.png"
     },
     {
         "Title": "Montreal is waging a war on waste. Here\u2019s how visitors can do their part",
@@ -454,7 +456,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1XahLIfXKUUSpHexz0me9FkjbmSwi1g1j/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1H94KLGnxRutH_SXhOtO2Byr_uyVwBRIb/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1H94KLGnxRutH_SXhOtO2Byr_uyVwBRIb/view?usp=sharing",
+        "image": "2017.png"
     },
     {
         "Title": "Tour de Babel",
@@ -563,7 +566,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1w5qbD7OYmiC6fLJ4_jeaua3RJqvjsdXw/view?usp=sharing",
-        "url": "http://ambos.ca/album/"
+        "url": "http://ambos.ca/album/",
+        "image": "album-multicolore-louise-dupre-ambos-quebec-literature-translation-cover.jpg"
     },
     {
         "Title": "Nina",
