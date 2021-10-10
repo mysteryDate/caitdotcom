@@ -156,8 +156,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1vWYv25S6t6SKuTZAlSVLh3Qh3mdYZ6lb/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/citizen-science",
-        "image": "citizen science.png"
+        "url": "https://enroute.aircanada.com/en/article/citizen-science"
     },
     {
         "Title": "Frog Songs",
@@ -266,8 +265,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1-V0zVwXk31HavuzNhPYK4WNubRqS-QXn/view?usp=sharing",
-        "url": "https://www.dailyxtra.com/gender-neutral-language-quebec-french-167108",
-        "image": "Gender-neutral.jpg"
+        "url": "https://www.dailyxtra.com/gender-neutral-language-quebec-french-167108"
     },
     {
         "Title": "Montrealers",
@@ -376,8 +374,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Xlt2j-4lDcj1WEhWHDO1l4aPc4tcZc5O/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/chef-marcus-samuelsson-on-the-lack-of-diversity-in-the-restaurant-industry",
-        "image": "Screen Shot 2019-12-01 at 9.14.19 PM.png"
+        "url": "https://enroute.aircanada.com/en/article/chef-marcus-samuelsson-on-the-lack-of-diversity-in-the-restaurant-industry"
     },
     {
         "Title": "What Climate Change is Expected to Do to Victoria",
@@ -436,7 +433,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1DW-votvitRk_H8UhXdQSggcCDkUPq7Oy/view?usp=sharing",
-        "url": "https://hazlitt.net/feature/bells-still-can-ring"
+        "url": "https://hazlitt.net/feature/bells-still-can-ring",
+        "image": "montreal-cohen-main.jpg"
     },
     {
         "Title": "A Performance Artist Opens Her Bag",
@@ -485,8 +483,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1CIiEwM1JX_Vjnm0whtgzlFU685wmhfHt/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1GGDuZ_1JhhVOgRMt-a9F-3BO87NAyyfh/view?usp=sharing",
-        "image": "IndianEng.png"
+        "url": "https://drive.google.com/file/d/1GGDuZ_1JhhVOgRMt-a9F-3BO87NAyyfh/view?usp=sharing"
     },
     {
         "Title": "One On One with Barry Gibb",
@@ -545,7 +542,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1ZZxlZZcep020XE8qkeFY40LUS3Mz3iG4/view?usp=sharing",
-        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/"
+        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/",
+        "image": "Screen Shot 2019-12-01 at 9.31.51 PM.png"
     },
     {
         "Title": "Preaching to the Fish",
