@@ -476,7 +476,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/113ZzgJJT3BocbCWyLATGVvAPfKG0JrpT/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1rH_kSmu6H6_2VKp8TxsqyikZL2XBnM4U/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1rH_kSmu6H6_2VKp8TxsqyikZL2XBnM4U/view?usp=sharing",
+        "image": "MC.png"
     },
     {
         "Title": "Bangers and Mash-up",
@@ -485,7 +486,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1CIiEwM1JX_Vjnm0whtgzlFU685wmhfHt/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1GGDuZ_1JhhVOgRMt-a9F-3BO87NAyyfh/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1GGDuZ_1JhhVOgRMt-a9F-3BO87NAyyfh/view?usp=sharing",
+        "image": "IndianEng.png"
     },
     {
         "Title": "One On One with Barry Gibb",
@@ -594,6 +596,7 @@
         "category": "fiction",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/11T5kztiakTiwSchbIwFRtBd_W9GX7RSt/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/11snVZ_jrn07GdCMGgEWbhpczGJPWFKFI/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/11snVZ_jrn07GdCMGgEWbhpczGJPWFKFI/view?usp=sharing",
+        "image": "TheHush-image.png"
     }
 ]
