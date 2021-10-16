@@ -186,7 +186,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1MEzz_60-GhTOARjFbFFvLfej-0HL8Ssa/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/montreal-food-halls"
+        "url": "https://enroute.aircanada.com/en/article/montreal-food-halls",
+        "image": "foodhall.webp"
     },
     {
         "Title": "Be a tourist in your own city with this Canadian summer staycation guide",
@@ -295,7 +296,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/10X280SNyidf-x8obVyLIuc1-pZWbaCCb/view?usp=sharing",
-        "url": "http://www.editions-homme.com/300-raisons-aimer-new-york/droits/9782761941587"
+        "url": "http://www.editions-homme.com/300-raisons-aimer-new-york/droits/9782761941587",
+        "image": "300NY.png"
     },
     {
         "Title": "A Montreal Museum Caf\u00e9 Digs Into the Foods of the Jewish Diaspora",
@@ -314,8 +316,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Bs_OScwYi2gH-asN_9KVgGfMQWElrvCY/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/northern-soul-london",
-        "image": "soul-survivor-illustration.jpg"
+        "url": "https://enroute.aircanada.com/en/article/northern-soul-london"
     },
     {
         "Title": "Chef Antonio Park's Guide to Sao Paolo",
@@ -324,8 +325,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1dedlhIpnFeK-JXha-0SLQwlk0JqaqbxH/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/antonio-park-sao-paulo",
-        "image": "Screen Shot 2019-12-01 at 9.12.22 PM.png"
+        "url": "https://enroute.aircanada.com/en/article/antonio-park-sao-paulo"
     },
     {
         "Title": "How Outlaw Artist Orville Peck is Queering Country Music",
@@ -594,7 +594,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1gG2WYnKHLCgCpWL8hVTWxH0ns7mqyFiS/view?usp=sharing",
-        "url": "http://ambos.ca/spaces/"
+        "url": "http://ambos.ca/spaces/",
+        "image": "Espaces-cover1.jpg"
     },
     {
         "Title": "The Hush",
