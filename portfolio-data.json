@@ -256,7 +256,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1riRp6ZE3b37YfrZe5sGu506NgmYZt7Wr/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/old-montreal"
+        "url": "https://enroute.aircanada.com/en/article/old-montreal",
+        "image": "VR Montreal.png"
     },
     {
         "Title": "Montreal is waging a war on waste. Here\u2019s how visitors can do their part",
@@ -365,7 +366,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Zu5sWw2hUPvJK4td3GThSBTg4Q90zcv2/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/french-canadian-musician-hubert-lenoir-plays-by-his-own-rules"
+        "url": "https://enroute.aircanada.com/en/article/french-canadian-musician-hubert-lenoir-plays-by-his-own-rules",
+        "image": "hubert-lenoir-portrait.jpg"
     },
     {
         "Title": "Meet the Breizhgel, Brittany's Answer to Bagels",
@@ -374,7 +376,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1RFiy7_4kc8q83toYrqdocMQnS9iz4A-2/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/meet-the-breizhgel-brittany-s-answer-to-bagels"
+        "url": "https://enroute.aircanada.com/en/article/meet-the-breizhgel-brittany-s-answer-to-bagels",
+        "image": "breton-bakery-counter.jpg"
     },
     {
         "Title": "Interview with Chef Marcus Samuelsson",
@@ -583,7 +586,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1OMpXDH3-mtlcl-iKkljKyb61uXA1TEie/view?usp=sharing",
-        "url": "http://ambos.ca/nina/"
+        "url": "http://ambos.ca/nina/",
+        "image": "nina-patrice-lessard-ambos-quebec-literature-translation-cover2.jpg"
     },
     {
         "Title": "Spaces",
