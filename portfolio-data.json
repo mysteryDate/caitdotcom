@@ -256,7 +256,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1riRp6ZE3b37YfrZe5sGu506NgmYZt7Wr/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/old-montreal"
+        "url": "https://enroute.aircanada.com/en/article/old-montreal",
+        "image": "VR Montreal.png"
     },
     {
         "Title": "Montreal is waging a war on waste. Here\u2019s how visitors can do their part",
@@ -365,7 +366,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Zu5sWw2hUPvJK4td3GThSBTg4Q90zcv2/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/french-canadian-musician-hubert-lenoir-plays-by-his-own-rules"
+        "url": "https://enroute.aircanada.com/en/article/french-canadian-musician-hubert-lenoir-plays-by-his-own-rules",
+        "image": "hubert-lenoir-portrait.jpg"
     },
     {
         "Title": "Meet the Breizhgel, Brittany's Answer to Bagels",
@@ -474,7 +476,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1NY8nXy37jhseGz6l85IH_bmrj5GLIAwt/view?usp=sharing",
-        "url": "https://maisonneuve.org/article/2017/01/5/tour-de-babel/"
+        "url": "https://maisonneuve.org/article/2017/01/5/tour-de-babel/",
+        "image": "KarstonSmith-FINAL-500x0.jpg"
     },
     {
         "Title": "Out of Office with Marilou Champagne",
@@ -483,7 +486,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/113ZzgJJT3BocbCWyLATGVvAPfKG0JrpT/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1rH_kSmu6H6_2VKp8TxsqyikZL2XBnM4U/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1rH_kSmu6H6_2VKp8TxsqyikZL2XBnM4U/view?usp=sharing",
+        "image": "MC.png"
     },
     {
         "Title": "Bangers and Mash-up",
