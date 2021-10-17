@@ -236,7 +236,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Lxf2AAj1YF-fxx-C1seFMGQqVFpXdCVC/view?usp=sharing",
-        "url": "https://www.flare.com/sex-and-relationships/audio-porn-apps-for-women/?fbclid=IwAR1hNsKOiBFxnEqOSb_TfT17Bm-EilLLmKRQRJ0XVo-7tBHZVF0Sn_WidUU"
+        "url": "https://www.flare.com/sex-and-relationships/audio-porn-apps-for-women/?fbclid=IwAR1hNsKOiBFxnEqOSb_TfT17Bm-EilLLmKRQRJ0XVo-7tBHZVF0Sn_WidUU",
+        "image": "audio.jpg"
     },
     {
         "Title": "The Women Pledging Not to Have Kids Until Meaningful Action on Climate Change Is Made",
@@ -245,7 +246,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1lu2tsgN44zqNKF0z7RT1Gnu8GdAvSO9d/view?usp=sharing",
-        "url": "https://www.ellecanada.com/culture/society/the-women-pledging-not-to-have-kids-until-meaningful-action-on-climate-change-is-made"
+        "url": "https://www.ellecanada.com/culture/society/the-women-pledging-not-to-have-kids-until-meaningful-action-on-climate-change-is-made",
+        "image": "ELLE-CLIMATE2.jpg"
     },
     {
         "Title": "A VR Creative Director\u2019s Montreal",
@@ -254,7 +256,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1riRp6ZE3b37YfrZe5sGu506NgmYZt7Wr/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/old-montreal"
+        "url": "https://enroute.aircanada.com/en/article/old-montreal",
+        "image": "VR Montreal.png"
     },
     {
         "Title": "Montreal is waging a war on waste. Here\u2019s how visitors can do their part",
@@ -363,7 +366,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Zu5sWw2hUPvJK4td3GThSBTg4Q90zcv2/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/french-canadian-musician-hubert-lenoir-plays-by-his-own-rules"
+        "url": "https://enroute.aircanada.com/en/article/french-canadian-musician-hubert-lenoir-plays-by-his-own-rules",
+        "image": "hubert-lenoir-portrait.jpg"
     },
     {
         "Title": "Meet the Breizhgel, Brittany's Answer to Bagels",
@@ -372,7 +376,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1RFiy7_4kc8q83toYrqdocMQnS9iz4A-2/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/meet-the-breizhgel-brittany-s-answer-to-bagels"
+        "url": "https://enroute.aircanada.com/en/article/meet-the-breizhgel-brittany-s-answer-to-bagels",
+        "image": "breton-bakery-counter.jpg"
     },
     {
         "Title": "Interview with Chef Marcus Samuelsson",
@@ -481,7 +486,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/113ZzgJJT3BocbCWyLATGVvAPfKG0JrpT/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1rH_kSmu6H6_2VKp8TxsqyikZL2XBnM4U/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1rH_kSmu6H6_2VKp8TxsqyikZL2XBnM4U/view?usp=sharing",
+        "image": "MC.png"
     },
     {
         "Title": "Bangers and Mash-up",
@@ -590,7 +596,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1gG2WYnKHLCgCpWL8hVTWxH0ns7mqyFiS/view?usp=sharing",
-        "url": "http://ambos.ca/spaces/"
+        "url": "http://ambos.ca/spaces/",
+        "image": "Espaces-cover1.jpg"
     },
     {
         "Title": "The Hush",
@@ -599,6 +606,7 @@
         "category": "fiction",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/11T5kztiakTiwSchbIwFRtBd_W9GX7RSt/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/11snVZ_jrn07GdCMGgEWbhpczGJPWFKFI/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/11snVZ_jrn07GdCMGgEWbhpczGJPWFKFI/view?usp=sharing",
+        "image": "TheHush-image.png"
     }
 ]
