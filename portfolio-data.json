@@ -186,7 +186,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1MEzz_60-GhTOARjFbFFvLfej-0HL8Ssa/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/montreal-food-halls"
+        "url": "https://enroute.aircanada.com/en/article/montreal-food-halls",
+        "image": "foodhall.webp"
     },
     {
         "Title": "Be a tourist in your own city with this Canadian summer staycation guide",
@@ -195,7 +196,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1iLfLW7H4vAPJPQTVQCASkgDPiiQXjyfZ/view?usp=sharing",
-        "url": "https://www.theglobeandmail.com/life/travel/article-learn-how-to-be-a-tourist-in-your-own-city-with-the-help-of-this/"
+        "url": "https://www.theglobeandmail.com/life/travel/article-learn-how-to-be-a-tourist-in-your-own-city-with-the-help-of-this/",
+        "image": "Staycation.jpg"
     },
     {
         "Title": "Your Money's Worth",
@@ -224,8 +226,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1mWpDrjP1VfYqwKPWPyX291ar3sQctrJd/view?usp=sharing",
-        "url": "https://www.dailyxtra.com/electro-pop-artist-scott-hardware-170568",
-        "image": "Scott-Hardware.jpg"
+        "url": "https://www.dailyxtra.com/electro-pop-artist-scott-hardware-170568"
     },
     {
         "Title": "Audio Erotica Is the Latest Self-Care Tool For Women",
@@ -234,8 +235,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Lxf2AAj1YF-fxx-C1seFMGQqVFpXdCVC/view?usp=sharing",
-        "url": "https://www.flare.com/sex-and-relationships/audio-porn-apps-for-women/?fbclid=IwAR1hNsKOiBFxnEqOSb_TfT17Bm-EilLLmKRQRJ0XVo-7tBHZVF0Sn_WidUU",
-        "image": "audio.jpg"
+        "url": "https://www.flare.com/sex-and-relationships/audio-porn-apps-for-women/?fbclid=IwAR1hNsKOiBFxnEqOSb_TfT17Bm-EilLLmKRQRJ0XVo-7tBHZVF0Sn_WidUU"
     },
     {
         "Title": "The Women Pledging Not to Have Kids Until Meaningful Action on Climate Change Is Made",
@@ -304,7 +304,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1_N-8i5YuN2V2Wzjl0kjjoTgH62oBOQ-f/view?usp=sharing",
-        "url": "https://www.atlasobscura.com/articles/jewish-food-in-montreal?fbclid=IwAR1xmqoKZC9rZGSZnZYdQ3I_LcGI847GaJ2ZmqlDR_G5SoduIlhp6aP7t4A"
+        "url": "https://www.atlasobscura.com/articles/jewish-food-in-montreal?fbclid=IwAR1xmqoKZC9rZGSZnZYdQ3I_LcGI847GaJ2ZmqlDR_G5SoduIlhp6aP7t4A",
+        "image": "Fletchers.jpg"
     },
     {
         "Title": "Shimmying to Northern Soul At a Hidden Cocktail Bar in East London",
@@ -343,8 +344,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1rWvUjufYr4j36B5iOkafZamECDn0Rrv7/view?usp=sharing",
-        "url": "https://www.ellecanada.com/life-and-love/can-competition-be-good-for-your-love-life/",
-        "image": "ELLE-Canada-competition-in-love (1).jpg"
+        "url": "https://www.ellecanada.com/life-and-love/can-competition-be-good-for-your-love-life/"
     },
     {
         "Title": "New York's New Wave",
@@ -413,7 +413,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1uqxh1POKdYnHz9ZDZnM3fpQ_yCuBdqPj/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1Vu7DYXNVFiDhBS-AtnkEA1LErTTupj5q/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1Vu7DYXNVFiDhBS-AtnkEA1LErTTupj5q/view?usp=sharing",
+        "image": "Screen Shot 2019-12-01 at 9.16.42 PM.png"
     },
     {
         "Title": "A Food Blogger Opens Her Bag",
@@ -452,8 +453,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1D1XG6ATCmrYTvDACmsNFBLUVkybb58HK/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1HDM_10w9xnUGvqpEF8bzTlcweAOSHMRO/view?usp=sharing",
-        "image": "Screen Shot 2019-12-01 at 9.19.12 PM.png"
+        "url": "https://drive.google.com/file/d/1HDM_10w9xnUGvqpEF8bzTlcweAOSHMRO/view?usp=sharing"
     },
     {
         "Title": "Our Favourite Hotel Stays of 2017",
@@ -462,8 +462,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1XahLIfXKUUSpHexz0me9FkjbmSwi1g1j/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1H94KLGnxRutH_SXhOtO2Byr_uyVwBRIb/view?usp=sharing",
-        "image": "2017.png"
+        "url": "https://drive.google.com/file/d/1H94KLGnxRutH_SXhOtO2Byr_uyVwBRIb/view?usp=sharing"
     },
     {
         "Title": "Tour de Babel",
@@ -522,7 +521,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1dD281mJObzadBdp4q_-rtZAdLwnLYAb4/view?usp=sharing",
-        "url": "https://www.vice.com/en_us/article/9agzb7/this-montreal-jewish-bakery-doesnt-want-to-be-called-modern"
+        "url": "https://www.vice.com/en_us/article/9agzb7/this-montreal-jewish-bakery-doesnt-want-to-be-called-modern",
+        "image": "hofkelsten_IMG_2040_featured.webp"
     },
     {
         "Title": "Maritime Quebec by Way of Craft Beer",
