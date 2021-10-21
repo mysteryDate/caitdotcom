@@ -296,7 +296,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/10X280SNyidf-x8obVyLIuc1-pZWbaCCb/view?usp=sharing",
-        "url": "http://www.editions-homme.com/300-raisons-aimer-new-york/droits/9782761941587"
+        "url": "http://www.editions-homme.com/300-raisons-aimer-new-york/droits/9782761941587",
+        "image": "300NY.png"
     },
     {
         "Title": "A Montreal Museum Caf\u00e9 Digs Into the Foods of the Jewish Diaspora",
@@ -405,7 +406,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/19qjC4ZPAbwmvmQie9ZRc9Fdntq3eHwTj/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1TVfY25oVdFFY488450H3h6wuzWsB6szu/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1TVfY25oVdFFY488450H3h6wuzWsB6szu/view?usp=sharing",
+        "image": "Screen Shot 2019-12-01 at 8.59.32 PM.png"
     },
     {
         "Title": "Where the Wild Things Are",
@@ -414,7 +416,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1uqxh1POKdYnHz9ZDZnM3fpQ_yCuBdqPj/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1Vu7DYXNVFiDhBS-AtnkEA1LErTTupj5q/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1Vu7DYXNVFiDhBS-AtnkEA1LErTTupj5q/view?usp=sharing",
+        "image": "Screen Shot 2019-12-01 at 9.16.42 PM.png"
     },
     {
         "Title": "A Food Blogger Opens Her Bag",
@@ -503,8 +506,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1YT6_RJhrUqYH_XbUhrviJEgGmPtQRkjU/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1lsIQNB05aNdNNEM6r6a8qBiK3G37xO9a/view?usp=sharing",
-        "image": "BG.png"
+        "url": "https://drive.google.com/file/d/1lsIQNB05aNdNNEM6r6a8qBiK3G37xO9a/view?usp=sharing"
     },
     {
         "Title": "One On One with Louise Penny",
@@ -513,8 +515,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1nOMEs-wIU0V5OlOxRtdA2MH7seWZ6Mkr/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1msOfFIkVPN2AX5SJkF2crNs1t_hf8npz/view?usp=sharing",
-        "image": "LP.png"
+        "url": "https://drive.google.com/file/d/1msOfFIkVPN2AX5SJkF2crNs1t_hf8npz/view?usp=sharing"
     },
     {
         "Title": "This Montr\u00e9al Jewish Bakery Doesn't Want to Be Called Modern",
@@ -523,7 +524,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1dD281mJObzadBdp4q_-rtZAdLwnLYAb4/view?usp=sharing",
-        "url": "https://www.vice.com/en_us/article/9agzb7/this-montreal-jewish-bakery-doesnt-want-to-be-called-modern"
+        "url": "https://www.vice.com/en_us/article/9agzb7/this-montreal-jewish-bakery-doesnt-want-to-be-called-modern",
+        "image": "hofkelsten_IMG_2040_featured.webp"
     },
     {
         "Title": "Maritime Quebec by Way of Craft Beer",
@@ -532,7 +534,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1a8BpK7cJw6Q6yM6mdUOE6KxeckfGG4i4/view?usp=sharing",
-        "url": "https://www.pastemagazine.com/articles/2015/09/maritime-quebec-by-way-of-craft-beer.html"
+        "url": "https://www.pastemagazine.com/articles/2015/09/maritime-quebec-by-way-of-craft-beer.html",
+        "image": "Screen Shot 2015-09-16 at 3.38.24 PM.png"
     },
     {
         "Title": "D\u00eda de los Muertos",
