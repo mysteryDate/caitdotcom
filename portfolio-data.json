@@ -376,7 +376,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1RFiy7_4kc8q83toYrqdocMQnS9iz4A-2/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/meet-the-breizhgel-brittany-s-answer-to-bagels"
+        "url": "https://enroute.aircanada.com/en/article/meet-the-breizhgel-brittany-s-answer-to-bagels",
+        "image": "breton-bakery-counter.jpg"
     },
     {
         "Title": "Interview with Chef Marcus Samuelsson",
@@ -445,8 +446,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1DW-votvitRk_H8UhXdQSggcCDkUPq7Oy/view?usp=sharing",
-        "url": "https://hazlitt.net/feature/bells-still-can-ring",
-        "image": "montreal-cohen-main.jpg"
+        "url": "https://hazlitt.net/feature/bells-still-can-ring"
     },
     {
         "Title": "A Performance Artist Opens Her Bag",
@@ -455,8 +455,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1D1XG6ATCmrYTvDACmsNFBLUVkybb58HK/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1HDM_10w9xnUGvqpEF8bzTlcweAOSHMRO/view?usp=sharing",
-        "image": "Screen Shot 2019-12-01 at 9.19.12 PM.png"
+        "url": "https://drive.google.com/file/d/1HDM_10w9xnUGvqpEF8bzTlcweAOSHMRO/view?usp=sharing"
     },
     {
         "Title": "Our Favourite Hotel Stays of 2017",
@@ -475,7 +474,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1NY8nXy37jhseGz6l85IH_bmrj5GLIAwt/view?usp=sharing",
-        "url": "https://maisonneuve.org/article/2017/01/5/tour-de-babel/"
+        "url": "https://maisonneuve.org/article/2017/01/5/tour-de-babel/",
+        "image": "KarstonSmith-FINAL-500x0.jpg"
     },
     {
         "Title": "Out of Office with Marilou Champagne",
@@ -484,7 +484,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/113ZzgJJT3BocbCWyLATGVvAPfKG0JrpT/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1rH_kSmu6H6_2VKp8TxsqyikZL2XBnM4U/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1rH_kSmu6H6_2VKp8TxsqyikZL2XBnM4U/view?usp=sharing",
+        "image": "MC.png"
     },
     {
         "Title": "Bangers and Mash-up",
@@ -493,7 +494,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1CIiEwM1JX_Vjnm0whtgzlFU685wmhfHt/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1GGDuZ_1JhhVOgRMt-a9F-3BO87NAyyfh/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1GGDuZ_1JhhVOgRMt-a9F-3BO87NAyyfh/view?usp=sharing",
+        "image": "IndianEng.png"
     },
     {
         "Title": "One On One with Barry Gibb",
@@ -502,7 +504,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1YT6_RJhrUqYH_XbUhrviJEgGmPtQRkjU/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1lsIQNB05aNdNNEM6r6a8qBiK3G37xO9a/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1lsIQNB05aNdNNEM6r6a8qBiK3G37xO9a/view?usp=sharing",
+        "image": "BG.png"
     },
     {
         "Title": "One On One with Louise Penny",
@@ -561,8 +564,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/14_jr4lprLKHxegqHobLWk6rOwvwrbJbI/view?usp=sharing",
-        "url": "http://ambos.ca/fish/",
-        "image": "Serment-poissons-Patrice-Lessard-ambos-Quebec-literature-translation-cover.jpg"
+        "url": "http://ambos.ca/fish/"
     },
     {
         "Title": "The Multicoloured Album",
@@ -571,8 +573,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1w5qbD7OYmiC6fLJ4_jeaua3RJqvjsdXw/view?usp=sharing",
-        "url": "http://ambos.ca/album/",
-        "image": "album-multicolore-louise-dupre-ambos-quebec-literature-translation-cover.jpg"
+        "url": "http://ambos.ca/album/"
     },
     {
         "Title": "Nina",
