@@ -156,8 +156,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Sq1Rke_hiJtaapkyduYm2p24s8YSDSN2/view?usp=sharing",
-        "url": "https://www.refinery29.com/en-ca/covid-death-loss-grieving",
-        "image": "Grief-Refinery.webp"
+        "url": "https://www.refinery29.com/en-ca/covid-death-loss-grieving"
     },
     {
         "Title": "How to Save the Environment While Getting Outdoors",
@@ -236,7 +235,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Lxf2AAj1YF-fxx-C1seFMGQqVFpXdCVC/view?usp=sharing",
-        "url": "https://www.flare.com/sex-and-relationships/audio-porn-apps-for-women/?fbclid=IwAR1hNsKOiBFxnEqOSb_TfT17Bm-EilLLmKRQRJ0XVo-7tBHZVF0Sn_WidUU"
+        "url": "https://www.flare.com/sex-and-relationships/audio-porn-apps-for-women/?fbclid=IwAR1hNsKOiBFxnEqOSb_TfT17Bm-EilLLmKRQRJ0XVo-7tBHZVF0Sn_WidUU",
+        "image": "audio.jpg"
     },
     {
         "Title": "The Women Pledging Not to Have Kids Until Meaningful Action on Climate Change Is Made",
@@ -245,7 +245,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1lu2tsgN44zqNKF0z7RT1Gnu8GdAvSO9d/view?usp=sharing",
-        "url": "https://www.ellecanada.com/culture/society/the-women-pledging-not-to-have-kids-until-meaningful-action-on-climate-change-is-made"
+        "url": "https://www.ellecanada.com/culture/society/the-women-pledging-not-to-have-kids-until-meaningful-action-on-climate-change-is-made",
+        "image": "ELLE-CLIMATE2.jpg"
     },
     {
         "Title": "A VR Creative Director\u2019s Montreal",
@@ -264,8 +265,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Uj7vMF76bNHSkZoAsOi0wwZWOcEj9RL9/view?usp=sharing",
-        "url": "https://www.theglobeandmail.com/life/travel/article-montreal-is-waging-a-war-on-waste-heres-how-visitors-can-do-their/",
-        "image": "globe.jpg"
+        "url": "https://www.theglobeandmail.com/life/travel/article-montreal-is-waging-a-war-on-waste-heres-how-visitors-can-do-their/"
     },
     {
         "Title": "Gatekeepers in Quebec have a stranglehold on gender-neutral language",
@@ -354,7 +354,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1VJfYLUhpYwV4o0luRaYE9iMdwXxZDXQo/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1drfLySRS1NGwqN36K8iKSErNymHtAD_0/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1drfLySRS1NGwqN36K8iKSErNymHtAD_0/view?usp=sharing",
+        "image": "Screen Shot 2019-12-01 at 8.46.28 PM.png"
     },
     {
         "Title": "French-Canadian Musician Hubert Lenoir Plays by His Own Rules",
@@ -453,8 +454,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1D1XG6ATCmrYTvDACmsNFBLUVkybb58HK/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1HDM_10w9xnUGvqpEF8bzTlcweAOSHMRO/view?usp=sharing",
-        "image": "Screen Shot 2019-12-01 at 9.19.12 PM.png"
+        "url": "https://drive.google.com/file/d/1HDM_10w9xnUGvqpEF8bzTlcweAOSHMRO/view?usp=sharing"
     },
     {
         "Title": "Our Favourite Hotel Stays of 2017",
@@ -463,8 +463,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1XahLIfXKUUSpHexz0me9FkjbmSwi1g1j/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1H94KLGnxRutH_SXhOtO2Byr_uyVwBRIb/view?usp=sharing",
-        "image": "2017.png"
+        "url": "https://drive.google.com/file/d/1H94KLGnxRutH_SXhOtO2Byr_uyVwBRIb/view?usp=sharing"
     },
     {
         "Title": "Tour de Babel",
@@ -563,7 +562,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/14_jr4lprLKHxegqHobLWk6rOwvwrbJbI/view?usp=sharing",
-        "url": "http://ambos.ca/fish/"
+        "url": "http://ambos.ca/fish/",
+        "image": "Serment-poissons-Patrice-Lessard-ambos-Quebec-literature-translation-cover.jpg"
     },
     {
         "Title": "The Multicoloured Album",
@@ -572,7 +572,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1w5qbD7OYmiC6fLJ4_jeaua3RJqvjsdXw/view?usp=sharing",
-        "url": "http://ambos.ca/album/"
+        "url": "http://ambos.ca/album/",
+        "image": "album-multicolore-louise-dupre-ambos-quebec-literature-translation-cover.jpg"
     },
     {
         "Title": "Nina",
