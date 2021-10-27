@@ -166,8 +166,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1vWYv25S6t6SKuTZAlSVLh3Qh3mdYZ6lb/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/citizen-science",
-        "image": "citizen science.png"
+        "url": "https://enroute.aircanada.com/en/article/citizen-science"
     },
     {
         "Title": "Frog Songs",
@@ -196,7 +195,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1iLfLW7H4vAPJPQTVQCASkgDPiiQXjyfZ/view?usp=sharing",
-        "url": "https://www.theglobeandmail.com/life/travel/article-learn-how-to-be-a-tourist-in-your-own-city-with-the-help-of-this/"
+        "url": "https://www.theglobeandmail.com/life/travel/article-learn-how-to-be-a-tourist-in-your-own-city-with-the-help-of-this/",
+        "image": "Staycation.jpg"
     },
     {
         "Title": "Your Money's Worth",
@@ -205,7 +205,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1tGU4-cFhWvG4-hSDqo3DJQxh1bR69MRv/view?usp=sharing",
-        "url": "https://www.ellecanada.com/life-and-love/how-millennials-can-reassess-spending-during-covid?fbclid=IwAR11vto73ewg2Y7qZzm5usUjrh37-aFr5C6jERJynh-RE8qXrDdgePOwEXY"
+        "url": "https://www.ellecanada.com/life-and-love/how-millennials-can-reassess-spending-during-covid?fbclid=IwAR11vto73ewg2Y7qZzm5usUjrh37-aFr5C6jERJynh-RE8qXrDdgePOwEXY",
+        "image": "credit card.png"
     },
     {
         "Title": "How to survive an epidemic and other tales of the everyday",
@@ -274,8 +275,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1-V0zVwXk31HavuzNhPYK4WNubRqS-QXn/view?usp=sharing",
-        "url": "https://www.dailyxtra.com/gender-neutral-language-quebec-french-167108",
-        "image": "Gender-neutral.jpg"
+        "url": "https://www.dailyxtra.com/gender-neutral-language-quebec-french-167108"
     },
     {
         "Title": "Montrealers",
@@ -284,8 +284,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1SmRujx72nkgVpwnRCsup5WDpi9hpf2qU/view?usp=sharing",
-        "url": "https://www.simonandschuster.ca/books/Montrealers/Jean-Francois-Nadeau/9781988002194",
-        "image": "Montrealers.png"
+        "url": "https://www.simonandschuster.ca/books/Montrealers/Jean-Francois-Nadeau/9781988002194"
     },
     {
         "Title": "300 raisons d'aimer New York",
@@ -314,7 +313,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Bs_OScwYi2gH-asN_9KVgGfMQWElrvCY/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/northern-soul-london"
+        "url": "https://enroute.aircanada.com/en/article/northern-soul-london",
+        "image": "soul-survivor-illustration.jpg"
     },
     {
         "Title": "Chef Antonio Park's Guide to Sao Paolo",
@@ -393,8 +393,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/19qjC4ZPAbwmvmQie9ZRc9Fdntq3eHwTj/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1TVfY25oVdFFY488450H3h6wuzWsB6szu/view?usp=sharing",
-        "image": "Screen Shot 2019-12-01 at 8.59.32 PM.png"
+        "url": "https://drive.google.com/file/d/1TVfY25oVdFFY488450H3h6wuzWsB6szu/view?usp=sharing"
     },
     {
         "Title": "Where the Wild Things Are",
