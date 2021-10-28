@@ -186,7 +186,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1MEzz_60-GhTOARjFbFFvLfej-0HL8Ssa/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/montreal-food-halls"
+        "url": "https://enroute.aircanada.com/en/article/montreal-food-halls",
+        "image": "foodhall.webp"
     },
     {
         "Title": "Be a tourist in your own city with this Canadian summer staycation guide",
@@ -195,7 +196,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1iLfLW7H4vAPJPQTVQCASkgDPiiQXjyfZ/view?usp=sharing",
-        "url": "https://www.theglobeandmail.com/life/travel/article-learn-how-to-be-a-tourist-in-your-own-city-with-the-help-of-this/"
+        "url": "https://www.theglobeandmail.com/life/travel/article-learn-how-to-be-a-tourist-in-your-own-city-with-the-help-of-this/",
+        "image": "Staycation.jpg"
     },
     {
         "Title": "Your Money's Worth",
@@ -344,8 +346,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1VJfYLUhpYwV4o0luRaYE9iMdwXxZDXQo/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1drfLySRS1NGwqN36K8iKSErNymHtAD_0/view?usp=sharing",
-        "image": "Screen Shot 2019-12-01 at 8.46.28 PM.png"
+        "url": "https://drive.google.com/file/d/1drfLySRS1NGwqN36K8iKSErNymHtAD_0/view?usp=sharing"
     },
     {
         "Title": "French-Canadian Musician Hubert Lenoir Plays by His Own Rules",
@@ -404,7 +405,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1uqxh1POKdYnHz9ZDZnM3fpQ_yCuBdqPj/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1Vu7DYXNVFiDhBS-AtnkEA1LErTTupj5q/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1Vu7DYXNVFiDhBS-AtnkEA1LErTTupj5q/view?usp=sharing",
+        "image": "Screen Shot 2019-12-01 at 9.16.42 PM.png"
     },
     {
         "Title": "A Food Blogger Opens Her Bag",
@@ -413,7 +415,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1KbTd8_EMs1L0YQ9uWBe7d0fYWXMsV_Mn/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1NYpPPuoNbR5mGuPyyXjgbwhFyG8w6sYS/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1NYpPPuoNbR5mGuPyyXjgbwhFyG8w6sYS/view?usp=sharing",
+        "image": "Screen Shot 2019-12-01 at 9.17.58 PM.png"
     },
     {
         "Title": "Sole Mates",
@@ -452,8 +455,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1NY8nXy37jhseGz6l85IH_bmrj5GLIAwt/view?usp=sharing",
-        "url": "https://maisonneuve.org/article/2017/01/5/tour-de-babel/",
-        "image": "KarstonSmith-FINAL-500x0.jpg"
+        "url": "https://maisonneuve.org/article/2017/01/5/tour-de-babel/"
     },
     {
         "Title": "Out of Office with Marilou Champagne",
@@ -462,8 +464,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/113ZzgJJT3BocbCWyLATGVvAPfKG0JrpT/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1rH_kSmu6H6_2VKp8TxsqyikZL2XBnM4U/view?usp=sharing",
-        "image": "MC.png"
+        "url": "https://drive.google.com/file/d/1rH_kSmu6H6_2VKp8TxsqyikZL2XBnM4U/view?usp=sharing"
     },
     {
         "Title": "Bangers and Mash-up",
@@ -522,7 +523,8 @@
         "category": "fiction",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/16MDvNL32x3_0Jd4ecz3apoEJho4rjs1N/view?usp=sharing",
-        "url": "http://potluckmag.com/april-2016/2016/4/13/da-de-los-muertos"
+        "url": "http://potluckmag.com/april-2016/2016/4/13/da-de-los-muertos",
+        "image": "Screen Shot 2019-12-01 at 9.31.08 PM.png"
     },
     {
         "Title": "Death in the Midden",
