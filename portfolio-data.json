@@ -106,7 +106,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/13qathjfNXl85rDL_NNn7Y0BfaJ_8kk6e/view?usp=sharing",
-        "url": "https://xtramagazine.com/culture/making-tech-queer-and-trans-friendly-is-about-much-more-than-hiring-196392"
+        "url": "https://xtramagazine.com/culture/making-tech-queer-and-trans-friendly-is-about-much-more-than-hiring-196392",
+        "image": "Queer Tech.jpg"
     },
     {
         "Title": "When the timing is right, these woodsy winter getaways are ideal for pandemic-friendly down time",
@@ -315,7 +316,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Bs_OScwYi2gH-asN_9KVgGfMQWElrvCY/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/northern-soul-london"
+        "url": "https://enroute.aircanada.com/en/article/northern-soul-london",
+        "image": "soul-survivor-illustration.jpg"
     },
     {
         "Title": "Chef Antonio Park's Guide to Sao Paolo",
@@ -334,8 +336,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1p8Gd0XakLlDMeSF-ZDImsi_9FNr5iNoq/view?usp=sharing",
-        "url": "https://www.dailyxtra.com/how-outlaw-artist-orville-peck-is-queering-country-music-161821",
-        "image": "86-2042x1152.jpg"
+        "url": "https://www.dailyxtra.com/how-outlaw-artist-orville-peck-is-queering-country-music-161821"
     },
     {
         "Title": "New York's New Wave",
@@ -544,8 +545,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/14_jr4lprLKHxegqHobLWk6rOwvwrbJbI/view?usp=sharing",
-        "url": "http://ambos.ca/fish/",
-        "image": "Serment-poissons-Patrice-Lessard-ambos-Quebec-literature-translation-cover.jpg"
+        "url": "http://ambos.ca/fish/"
     },
     {
         "Title": "The Multicoloured Album",
@@ -554,8 +554,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1w5qbD7OYmiC6fLJ4_jeaua3RJqvjsdXw/view?usp=sharing",
-        "url": "http://ambos.ca/album/",
-        "image": "album-multicolore-louise-dupre-ambos-quebec-literature-translation-cover.jpg"
+        "url": "http://ambos.ca/album/"
     },
     {
         "Title": "Nina",
@@ -564,8 +563,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1OMpXDH3-mtlcl-iKkljKyb61uXA1TEie/view?usp=sharing",
-        "url": "http://ambos.ca/nina/",
-        "image": "nina-patrice-lessard-ambos-quebec-literature-translation-cover2.jpg"
+        "url": "http://ambos.ca/nina/"
     },
     {
         "Title": "Spaces",
