@@ -336,7 +336,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1p8Gd0XakLlDMeSF-ZDImsi_9FNr5iNoq/view?usp=sharing",
-        "url": "https://www.dailyxtra.com/how-outlaw-artist-orville-peck-is-queering-country-music-161821"
+        "url": "https://www.dailyxtra.com/how-outlaw-artist-orville-peck-is-queering-country-music-161821",
+        "image": "86-2042x1152.jpg"
     },
     {
         "Title": "New York's New Wave",
@@ -345,8 +346,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1VJfYLUhpYwV4o0luRaYE9iMdwXxZDXQo/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1drfLySRS1NGwqN36K8iKSErNymHtAD_0/view?usp=sharing",
-        "image": "Screen Shot 2019-12-01 at 8.46.28 PM.png"
+        "url": "https://drive.google.com/file/d/1drfLySRS1NGwqN36K8iKSErNymHtAD_0/view?usp=sharing"
     },
     {
         "Title": "French-Canadian Musician Hubert Lenoir Plays by His Own Rules",
@@ -355,8 +355,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Zu5sWw2hUPvJK4td3GThSBTg4Q90zcv2/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/french-canadian-musician-hubert-lenoir-plays-by-his-own-rules",
-        "image": "hubert-lenoir-portrait.jpg"
+        "url": "https://enroute.aircanada.com/en/article/french-canadian-musician-hubert-lenoir-plays-by-his-own-rules"
     },
     {
         "Title": "Meet the Breizhgel, Brittany's Answer to Bagels",
@@ -545,7 +544,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/14_jr4lprLKHxegqHobLWk6rOwvwrbJbI/view?usp=sharing",
-        "url": "http://ambos.ca/fish/"
+        "url": "http://ambos.ca/fish/",
+        "image": "Serment-poissons-Patrice-Lessard-ambos-Quebec-literature-translation-cover.jpg"
     },
     {
         "Title": "The Multicoloured Album",
@@ -554,7 +554,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1w5qbD7OYmiC6fLJ4_jeaua3RJqvjsdXw/view?usp=sharing",
-        "url": "http://ambos.ca/album/"
+        "url": "http://ambos.ca/album/",
+        "image": "album-multicolore-louise-dupre-ambos-quebec-literature-translation-cover.jpg"
     },
     {
         "Title": "Nina",
@@ -563,7 +564,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1OMpXDH3-mtlcl-iKkljKyb61uXA1TEie/view?usp=sharing",
-        "url": "http://ambos.ca/nina/"
+        "url": "http://ambos.ca/nina/",
+        "image": "nina-patrice-lessard-ambos-quebec-literature-translation-cover2.jpg"
     },
     {
         "Title": "Spaces",
