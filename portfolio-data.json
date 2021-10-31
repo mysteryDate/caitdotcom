@@ -166,7 +166,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1vWYv25S6t6SKuTZAlSVLh3Qh3mdYZ6lb/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/citizen-science"
+        "url": "https://enroute.aircanada.com/en/article/citizen-science",
+        "image": "citizen science.png"
     },
     {
         "Title": "Frog Songs",
@@ -175,7 +176,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1_jsSflZYabcRSXF1dy1W-OInldE7DMia/view?usp=sharing",
-        "url": "https://thewalrus.ca/what-frogs-can-teach-us-about-the-state-of-the-world/?fbclid=IwAR2A6UDJotyljXZiNeDJt9zitnpVn8Xe0qJ8smu8dZZhpuVwj6SFWJ1MtLs"
+        "url": "https://thewalrus.ca/what-frogs-can-teach-us-about-the-state-of-the-world/?fbclid=IwAR2A6UDJotyljXZiNeDJt9zitnpVn8Xe0qJ8smu8dZZhpuVwj6SFWJ1MtLs",
+        "image": "Frog.png"
     },
     {
         "Title": "3 Food Halls That are Changing Montreal\u2019s Downtown Dining Scene",
@@ -284,7 +286,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1SmRujx72nkgVpwnRCsup5WDpi9hpf2qU/view?usp=sharing",
-        "url": "https://www.simonandschuster.ca/books/Montrealers/Jean-Francois-Nadeau/9781988002194"
+        "url": "https://www.simonandschuster.ca/books/Montrealers/Jean-Francois-Nadeau/9781988002194",
+        "image": "Montrealers.png"
     },
     {
         "Title": "300 raisons d'aimer New York",
@@ -293,7 +296,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/10X280SNyidf-x8obVyLIuc1-pZWbaCCb/view?usp=sharing",
-        "url": "http://www.editions-homme.com/300-raisons-aimer-new-york/droits/9782761941587"
+        "url": "http://www.editions-homme.com/300-raisons-aimer-new-york/droits/9782761941587",
+        "image": "300NY.png"
     },
     {
         "Title": "A Montreal Museum Caf\u00e9 Digs Into the Foods of the Jewish Diaspora",
@@ -302,7 +306,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1_N-8i5YuN2V2Wzjl0kjjoTgH62oBOQ-f/view?usp=sharing",
-        "url": "https://www.atlasobscura.com/articles/jewish-food-in-montreal?fbclid=IwAR1xmqoKZC9rZGSZnZYdQ3I_LcGI847GaJ2ZmqlDR_G5SoduIlhp6aP7t4A"
+        "url": "https://www.atlasobscura.com/articles/jewish-food-in-montreal?fbclid=IwAR1xmqoKZC9rZGSZnZYdQ3I_LcGI847GaJ2ZmqlDR_G5SoduIlhp6aP7t4A",
+        "image": "Fletchers.jpg"
     },
     {
         "Title": "Shimmying to Northern Soul At a Hidden Cocktail Bar in East London",
@@ -411,7 +416,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1KbTd8_EMs1L0YQ9uWBe7d0fYWXMsV_Mn/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1NYpPPuoNbR5mGuPyyXjgbwhFyG8w6sYS/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1NYpPPuoNbR5mGuPyyXjgbwhFyG8w6sYS/view?usp=sharing",
+        "image": "Screen Shot 2019-12-01 at 9.17.58 PM.png"
     },
     {
         "Title": "Sole Mates",
@@ -490,8 +496,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1nOMEs-wIU0V5OlOxRtdA2MH7seWZ6Mkr/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1msOfFIkVPN2AX5SJkF2crNs1t_hf8npz/view?usp=sharing",
-        "image": "LP.png"
+        "url": "https://drive.google.com/file/d/1msOfFIkVPN2AX5SJkF2crNs1t_hf8npz/view?usp=sharing"
     },
     {
         "Title": "This Montr\u00e9al Jewish Bakery Doesn't Want to Be Called Modern",
@@ -500,8 +505,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1dD281mJObzadBdp4q_-rtZAdLwnLYAb4/view?usp=sharing",
-        "url": "https://www.vice.com/en_us/article/9agzb7/this-montreal-jewish-bakery-doesnt-want-to-be-called-modern",
-        "image": "hofkelsten_IMG_2040_featured.webp"
+        "url": "https://www.vice.com/en_us/article/9agzb7/this-montreal-jewish-bakery-doesnt-want-to-be-called-modern"
     },
     {
         "Title": "Maritime Quebec by Way of Craft Beer",
@@ -520,7 +524,8 @@
         "category": "fiction",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/16MDvNL32x3_0Jd4ecz3apoEJho4rjs1N/view?usp=sharing",
-        "url": "http://potluckmag.com/april-2016/2016/4/13/da-de-los-muertos"
+        "url": "http://potluckmag.com/april-2016/2016/4/13/da-de-los-muertos",
+        "image": "Screen Shot 2019-12-01 at 9.31.08 PM.png"
     },
     {
         "Title": "Death in the Midden",
@@ -529,7 +534,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1ZZxlZZcep020XE8qkeFY40LUS3Mz3iG4/view?usp=sharing",
-        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/"
+        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/",
+        "image": "Screen Shot 2019-12-01 at 9.31.51 PM.png"
     },
     {
         "Title": "Preaching to the Fish",
