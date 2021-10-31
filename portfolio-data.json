@@ -166,7 +166,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1vWYv25S6t6SKuTZAlSVLh3Qh3mdYZ6lb/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/citizen-science"
+        "url": "https://enroute.aircanada.com/en/article/citizen-science",
+        "image": "citizen science.png"
     },
     {
         "Title": "Frog Songs",
@@ -375,7 +376,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Xlt2j-4lDcj1WEhWHDO1l4aPc4tcZc5O/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/chef-marcus-samuelsson-on-the-lack-of-diversity-in-the-restaurant-industry"
+        "url": "https://enroute.aircanada.com/en/article/chef-marcus-samuelsson-on-the-lack-of-diversity-in-the-restaurant-industry",
+        "image": "Screen Shot 2019-12-01 at 9.14.19 PM.png"
     },
     {
         "Title": "What Climate Change is Expected to Do to Victoria",
@@ -384,7 +386,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1pUipKzb3KJ8hwMCN_BNC5BXFkDe3e93S/view?usp=sharing",
-        "url": "https://www.capnews.ca/news/climate-change-victoria-damage-class-action"
+        "url": "https://www.capnews.ca/news/climate-change-victoria-damage-class-action",
+        "image": "5dcd056d137dcb35aa26897e_MainImageCook.jpg"
     },
     {
         "Title": "Our Favourite Hotel Stays of 2018",
@@ -583,6 +586,7 @@
         "category": "fiction",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/11T5kztiakTiwSchbIwFRtBd_W9GX7RSt/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/11snVZ_jrn07GdCMGgEWbhpczGJPWFKFI/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/11snVZ_jrn07GdCMGgEWbhpczGJPWFKFI/view?usp=sharing",
+        "image": "TheHush-image.png"
     }
 ]
