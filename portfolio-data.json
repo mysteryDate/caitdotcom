@@ -126,8 +126,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/16OCCzxCZ-MlUS7fcglYL3MlHVoErq3SA/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/travel-inspiration/charlotte-cardin/",
-        "image": "Charlotte Cardin.png"
+        "url": "https://enroute.aircanada.com/en/travel-inspiration/charlotte-cardin/"
     },
     {
         "Title": "\u2018The Craft: Legacy\u2019 lacks coming-of-age female rage",
@@ -346,8 +345,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1VJfYLUhpYwV4o0luRaYE9iMdwXxZDXQo/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1drfLySRS1NGwqN36K8iKSErNymHtAD_0/view?usp=sharing",
-        "image": "Screen Shot 2019-12-01 at 8.46.28 PM.png"
+        "url": "https://drive.google.com/file/d/1drfLySRS1NGwqN36K8iKSErNymHtAD_0/view?usp=sharing"
     },
     {
         "Title": "French-Canadian Musician Hubert Lenoir Plays by His Own Rules",
@@ -356,8 +354,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Zu5sWw2hUPvJK4td3GThSBTg4Q90zcv2/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/french-canadian-musician-hubert-lenoir-plays-by-his-own-rules",
-        "image": "hubert-lenoir-portrait.jpg"
+        "url": "https://enroute.aircanada.com/en/article/french-canadian-musician-hubert-lenoir-plays-by-his-own-rules"
     },
     {
         "Title": "Meet the Breizhgel, Brittany's Answer to Bagels",
@@ -516,7 +513,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1a8BpK7cJw6Q6yM6mdUOE6KxeckfGG4i4/view?usp=sharing",
-        "url": "https://www.pastemagazine.com/articles/2015/09/maritime-quebec-by-way-of-craft-beer.html"
+        "url": "https://www.pastemagazine.com/articles/2015/09/maritime-quebec-by-way-of-craft-beer.html",
+        "image": "Screen Shot 2015-09-16 at 3.38.24 PM.png"
     },
     {
         "Title": "D\u00eda de los Muertos",
@@ -525,7 +523,8 @@
         "category": "fiction",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/16MDvNL32x3_0Jd4ecz3apoEJho4rjs1N/view?usp=sharing",
-        "url": "http://potluckmag.com/april-2016/2016/4/13/da-de-los-muertos"
+        "url": "http://potluckmag.com/april-2016/2016/4/13/da-de-los-muertos",
+        "image": "Screen Shot 2019-12-01 at 9.31.08 PM.png"
     },
     {
         "Title": "Death in the Midden",
@@ -534,7 +533,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1ZZxlZZcep020XE8qkeFY40LUS3Mz3iG4/view?usp=sharing",
-        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/"
+        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/",
+        "image": "Screen Shot 2019-12-01 at 9.31.51 PM.png"
     },
     {
         "Title": "Preaching to the Fish",
