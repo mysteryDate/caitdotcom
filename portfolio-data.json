@@ -146,7 +146,8 @@
         "category": "fiction",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/19BrmZdIEJrHkTPSlE8l8dE59WCeb7Zcj/view?usp=sharing",
-        "url": "https://cdn.shopify.com/s/files/1/1322/7695/files/DragnetMagazineIssue002.pdf?13258612823015789491"
+        "url": "https://cdn.shopify.com/s/files/1/1322/7695/files/DragnetMagazineIssue002.pdf?13258612823015789491",
+        "image": "cheesy.png"
     },
     {
         "Title": "The Upside Of Virtual Grieving",
@@ -455,7 +456,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1NY8nXy37jhseGz6l85IH_bmrj5GLIAwt/view?usp=sharing",
-        "url": "https://maisonneuve.org/article/2017/01/5/tour-de-babel/"
+        "url": "https://maisonneuve.org/article/2017/01/5/tour-de-babel/",
+        "image": "KarstonSmith-FINAL-500x0.jpg"
     },
     {
         "Title": "Out of Office with Marilou Champagne",
