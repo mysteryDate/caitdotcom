@@ -186,8 +186,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1MEzz_60-GhTOARjFbFFvLfej-0HL8Ssa/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/montreal-food-halls",
-        "image": "foodhall.webp"
+        "url": "https://enroute.aircanada.com/en/article/montreal-food-halls"
     },
     {
         "Title": "Be a tourist in your own city with this Canadian summer staycation guide",
@@ -196,8 +195,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1iLfLW7H4vAPJPQTVQCASkgDPiiQXjyfZ/view?usp=sharing",
-        "url": "https://www.theglobeandmail.com/life/travel/article-learn-how-to-be-a-tourist-in-your-own-city-with-the-help-of-this/",
-        "image": "Staycation.jpg"
+        "url": "https://www.theglobeandmail.com/life/travel/article-learn-how-to-be-a-tourist-in-your-own-city-with-the-help-of-this/"
     },
     {
         "Title": "Your Money's Worth",
@@ -326,7 +324,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1dedlhIpnFeK-JXha-0SLQwlk0JqaqbxH/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/antonio-park-sao-paulo"
+        "url": "https://enroute.aircanada.com/en/article/antonio-park-sao-paulo",
+        "image": "Screen Shot 2019-12-01 at 9.12.22 PM.png"
     },
     {
         "Title": "How Outlaw Artist Orville Peck is Queering Country Music",
