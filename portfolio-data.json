@@ -126,7 +126,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/16OCCzxCZ-MlUS7fcglYL3MlHVoErq3SA/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/travel-inspiration/charlotte-cardin/"
+        "url": "https://enroute.aircanada.com/en/travel-inspiration/charlotte-cardin/",
+        "image": "Charlotte Cardin.png"
     },
     {
         "Title": "\u2018The Craft: Legacy\u2019 lacks coming-of-age female rage",
@@ -325,8 +326,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1dedlhIpnFeK-JXha-0SLQwlk0JqaqbxH/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/antonio-park-sao-paulo",
-        "image": "Screen Shot 2019-12-01 at 9.12.22 PM.png"
+        "url": "https://enroute.aircanada.com/en/article/antonio-park-sao-paulo"
     },
     {
         "Title": "How Outlaw Artist Orville Peck is Queering Country Music",
@@ -335,7 +335,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1p8Gd0XakLlDMeSF-ZDImsi_9FNr5iNoq/view?usp=sharing",
-        "url": "https://www.dailyxtra.com/how-outlaw-artist-orville-peck-is-queering-country-music-161821"
+        "url": "https://www.dailyxtra.com/how-outlaw-artist-orville-peck-is-queering-country-music-161821",
+        "image": "86-2042x1152.jpg"
     },
     {
         "Title": "New York's New Wave",
@@ -444,7 +445,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1D1XG6ATCmrYTvDACmsNFBLUVkybb58HK/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1HDM_10w9xnUGvqpEF8bzTlcweAOSHMRO/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1HDM_10w9xnUGvqpEF8bzTlcweAOSHMRO/view?usp=sharing",
+        "image": "Screen Shot 2019-12-01 at 9.19.12 PM.png"
     },
     {
         "Title": "Tour de Babel",
@@ -553,7 +555,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1w5qbD7OYmiC6fLJ4_jeaua3RJqvjsdXw/view?usp=sharing",
-        "url": "http://ambos.ca/album/"
+        "url": "http://ambos.ca/album/",
+        "image": "album-multicolore-louise-dupre-ambos-quebec-literature-translation-cover.jpg"
     },
     {
         "Title": "Nina",
