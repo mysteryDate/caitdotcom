@@ -346,7 +346,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1VJfYLUhpYwV4o0luRaYE9iMdwXxZDXQo/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1drfLySRS1NGwqN36K8iKSErNymHtAD_0/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1drfLySRS1NGwqN36K8iKSErNymHtAD_0/view?usp=sharing",
+        "image": "Screen Shot 2019-12-01 at 8.46.28 PM.png"
     },
     {
         "Title": "French-Canadian Musician Hubert Lenoir Plays by His Own Rules",
@@ -355,7 +356,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Zu5sWw2hUPvJK4td3GThSBTg4Q90zcv2/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/french-canadian-musician-hubert-lenoir-plays-by-his-own-rules"
+        "url": "https://enroute.aircanada.com/en/article/french-canadian-musician-hubert-lenoir-plays-by-his-own-rules",
+        "image": "hubert-lenoir-portrait.jpg"
     },
     {
         "Title": "Meet the Breizhgel, Brittany's Answer to Bagels",
@@ -564,7 +566,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1OMpXDH3-mtlcl-iKkljKyb61uXA1TEie/view?usp=sharing",
-        "url": "http://ambos.ca/nina/"
+        "url": "http://ambos.ca/nina/",
+        "image": "nina-patrice-lessard-ambos-quebec-literature-translation-cover2.jpg"
     },
     {
         "Title": "Spaces",
@@ -573,7 +576,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1gG2WYnKHLCgCpWL8hVTWxH0ns7mqyFiS/view?usp=sharing",
-        "url": "http://ambos.ca/spaces/"
+        "url": "http://ambos.ca/spaces/",
+        "image": "Espaces-cover1.jpg"
     },
     {
         "Title": "The Hush",
