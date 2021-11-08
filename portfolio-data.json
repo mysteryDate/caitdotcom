@@ -126,7 +126,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/16OCCzxCZ-MlUS7fcglYL3MlHVoErq3SA/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/travel-inspiration/charlotte-cardin/"
+        "url": "https://enroute.aircanada.com/en/travel-inspiration/charlotte-cardin/",
+        "image": "Charlotte Cardin.png"
     },
     {
         "Title": "\u2018The Craft: Legacy\u2019 lacks coming-of-age female rage",
@@ -255,8 +256,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1riRp6ZE3b37YfrZe5sGu506NgmYZt7Wr/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/old-montreal",
-        "image": "VR Montreal.png"
+        "url": "https://enroute.aircanada.com/en/article/old-montreal"
     },
     {
         "Title": "Montreal is waging a war on waste. Here\u2019s how visitors can do their part",
@@ -325,7 +325,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1dedlhIpnFeK-JXha-0SLQwlk0JqaqbxH/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/antonio-park-sao-paulo"
+        "url": "https://enroute.aircanada.com/en/article/antonio-park-sao-paulo",
+        "image": "Screen Shot 2019-12-01 at 9.12.22 PM.png"
     },
     {
         "Title": "How Outlaw Artist Orville Peck is Queering Country Music",
@@ -334,7 +335,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1p8Gd0XakLlDMeSF-ZDImsi_9FNr5iNoq/view?usp=sharing",
-        "url": "https://www.dailyxtra.com/how-outlaw-artist-orville-peck-is-queering-country-music-161821"
+        "url": "https://www.dailyxtra.com/how-outlaw-artist-orville-peck-is-queering-country-music-161821",
+        "image": "86-2042x1152.jpg"
     },
     {
         "Title": "New York's New Wave",
@@ -363,8 +365,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1RFiy7_4kc8q83toYrqdocMQnS9iz4A-2/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/meet-the-breizhgel-brittany-s-answer-to-bagels",
-        "image": "breton-bakery-counter.jpg"
+        "url": "https://enroute.aircanada.com/en/article/meet-the-breizhgel-brittany-s-answer-to-bagels"
     },
     {
         "Title": "Interview with Chef Marcus Samuelsson",
@@ -543,7 +544,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/14_jr4lprLKHxegqHobLWk6rOwvwrbJbI/view?usp=sharing",
-        "url": "http://ambos.ca/fish/"
+        "url": "http://ambos.ca/fish/",
+        "image": "Serment-poissons-Patrice-Lessard-ambos-Quebec-literature-translation-cover.jpg"
     },
     {
         "Title": "The Multicoloured Album",
@@ -572,8 +574,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1gG2WYnKHLCgCpWL8hVTWxH0ns7mqyFiS/view?usp=sharing",
-        "url": "http://ambos.ca/spaces/",
-        "image": "Espaces-cover1.jpg"
+        "url": "http://ambos.ca/spaces/"
     },
     {
         "Title": "The Hush",
