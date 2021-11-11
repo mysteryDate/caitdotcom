@@ -266,7 +266,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Uj7vMF76bNHSkZoAsOi0wwZWOcEj9RL9/view?usp=sharing",
-        "url": "https://www.theglobeandmail.com/life/travel/article-montreal-is-waging-a-war-on-waste-heres-how-visitors-can-do-their/"
+        "url": "https://www.theglobeandmail.com/life/travel/article-montreal-is-waging-a-war-on-waste-heres-how-visitors-can-do-their/",
+        "image": "globe.jpg"
     },
     {
         "Title": "Gatekeepers in Quebec have a stranglehold on gender-neutral language",
@@ -475,7 +476,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1CIiEwM1JX_Vjnm0whtgzlFU685wmhfHt/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1GGDuZ_1JhhVOgRMt-a9F-3BO87NAyyfh/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1GGDuZ_1JhhVOgRMt-a9F-3BO87NAyyfh/view?usp=sharing",
+        "image": "IndianEng.png"
     },
     {
         "Title": "One On One with Barry Gibb",
@@ -584,6 +586,7 @@
         "category": "fiction",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/11T5kztiakTiwSchbIwFRtBd_W9GX7RSt/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/11snVZ_jrn07GdCMGgEWbhpczGJPWFKFI/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/11snVZ_jrn07GdCMGgEWbhpczGJPWFKFI/view?usp=sharing",
+        "image": "TheHush-image.png"
     }
 ]
