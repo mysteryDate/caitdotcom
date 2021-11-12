@@ -226,8 +226,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1mWpDrjP1VfYqwKPWPyX291ar3sQctrJd/view?usp=sharing",
-        "url": "https://www.dailyxtra.com/electro-pop-artist-scott-hardware-170568",
-        "image": "Scott-Hardware.jpg"
+        "url": "https://www.dailyxtra.com/electro-pop-artist-scott-hardware-170568"
     },
     {
         "Title": "Audio Erotica Is the Latest Self-Care Tool For Women",
@@ -266,7 +265,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Uj7vMF76bNHSkZoAsOi0wwZWOcEj9RL9/view?usp=sharing",
-        "url": "https://www.theglobeandmail.com/life/travel/article-montreal-is-waging-a-war-on-waste-heres-how-visitors-can-do-their/"
+        "url": "https://www.theglobeandmail.com/life/travel/article-montreal-is-waging-a-war-on-waste-heres-how-visitors-can-do-their/",
+        "image": "globe.jpg"
     },
     {
         "Title": "Gatekeepers in Quebec have a stranglehold on gender-neutral language",
@@ -275,7 +275,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1-V0zVwXk31HavuzNhPYK4WNubRqS-QXn/view?usp=sharing",
-        "url": "https://www.dailyxtra.com/gender-neutral-language-quebec-french-167108"
+        "url": "https://www.dailyxtra.com/gender-neutral-language-quebec-french-167108",
+        "image": "Gender-neutral.jpg"
     },
     {
         "Title": "Montrealers",
@@ -584,7 +585,6 @@
         "category": "fiction",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/11T5kztiakTiwSchbIwFRtBd_W9GX7RSt/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/11snVZ_jrn07GdCMGgEWbhpczGJPWFKFI/view?usp=sharing",
-        "image": "TheHush-image.png"
+        "url": "https://drive.google.com/file/d/11snVZ_jrn07GdCMGgEWbhpczGJPWFKFI/view?usp=sharing"
     }
 ]
