@@ -146,7 +146,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1oqpreLK6s1EDAqBH2X20uOPsBF6NA24f/view?usp=sharing",
-        "url": "https://www.dailyxtra.com/craft-legacy-lacks-female-rage-184300"
+        "url": "https://www.dailyxtra.com/craft-legacy-lacks-female-rage-184300",
+        "image": "Legacy.jpg"
     },
     {
         "Title": "Cheesy Kind of Love",
@@ -155,8 +156,7 @@
         "category": "fiction",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/19BrmZdIEJrHkTPSlE8l8dE59WCeb7Zcj/view?usp=sharing",
-        "url": "https://cdn.shopify.com/s/files/1/1322/7695/files/DragnetMagazineIssue002.pdf?13258612823015789491",
-        "image": "cheesy.png"
+        "url": "https://cdn.shopify.com/s/files/1/1322/7695/files/DragnetMagazineIssue002.pdf?13258612823015789491"
     },
     {
         "Title": "The Upside Of Virtual Grieving",
@@ -365,8 +365,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Zu5sWw2hUPvJK4td3GThSBTg4Q90zcv2/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/french-canadian-musician-hubert-lenoir-plays-by-his-own-rules",
-        "image": "hubert-lenoir-portrait.jpg"
+        "url": "https://enroute.aircanada.com/en/article/french-canadian-musician-hubert-lenoir-plays-by-his-own-rules"
     },
     {
         "Title": "Meet the Breizhgel, Brittany's Answer to Bagels",
@@ -375,8 +374,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1RFiy7_4kc8q83toYrqdocMQnS9iz4A-2/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/meet-the-breizhgel-brittany-s-answer-to-bagels",
-        "image": "breton-bakery-counter.jpg"
+        "url": "https://enroute.aircanada.com/en/article/meet-the-breizhgel-brittany-s-answer-to-bagels"
     },
     {
         "Title": "Interview with Chef Marcus Samuelsson",
@@ -485,8 +483,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1CIiEwM1JX_Vjnm0whtgzlFU685wmhfHt/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1GGDuZ_1JhhVOgRMt-a9F-3BO87NAyyfh/view?usp=sharing",
-        "image": "IndianEng.png"
+        "url": "https://drive.google.com/file/d/1GGDuZ_1JhhVOgRMt-a9F-3BO87NAyyfh/view?usp=sharing"
     },
     {
         "Title": "One On One with Barry Gibb",
@@ -495,8 +492,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1YT6_RJhrUqYH_XbUhrviJEgGmPtQRkjU/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1lsIQNB05aNdNNEM6r6a8qBiK3G37xO9a/view?usp=sharing",
-        "image": "BG.png"
+        "url": "https://drive.google.com/file/d/1lsIQNB05aNdNNEM6r6a8qBiK3G37xO9a/view?usp=sharing"
     },
     {
         "Title": "One On One with Louise Penny",
