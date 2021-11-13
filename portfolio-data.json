@@ -236,7 +236,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1mWpDrjP1VfYqwKPWPyX291ar3sQctrJd/view?usp=sharing",
-        "url": "https://www.dailyxtra.com/electro-pop-artist-scott-hardware-170568"
+        "url": "https://www.dailyxtra.com/electro-pop-artist-scott-hardware-170568",
+        "image": "Scott-Hardware.jpg"
     },
     {
         "Title": "Audio Erotica Is the Latest Self-Care Tool For Women",
@@ -345,7 +346,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1p8Gd0XakLlDMeSF-ZDImsi_9FNr5iNoq/view?usp=sharing",
-        "url": "https://www.dailyxtra.com/how-outlaw-artist-orville-peck-is-queering-country-music-161821"
+        "url": "https://www.dailyxtra.com/how-outlaw-artist-orville-peck-is-queering-country-music-161821",
+        "image": "86-2042x1152.jpg"
     },
     {
         "Title": "New York's New Wave",
@@ -354,7 +356,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1VJfYLUhpYwV4o0luRaYE9iMdwXxZDXQo/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1drfLySRS1NGwqN36K8iKSErNymHtAD_0/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1drfLySRS1NGwqN36K8iKSErNymHtAD_0/view?usp=sharing",
+        "image": "Screen Shot 2019-12-01 at 8.46.28 PM.png"
     },
     {
         "Title": "French-Canadian Musician Hubert Lenoir Plays by His Own Rules",
@@ -463,7 +466,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1NY8nXy37jhseGz6l85IH_bmrj5GLIAwt/view?usp=sharing",
-        "url": "https://maisonneuve.org/article/2017/01/5/tour-de-babel/"
+        "url": "https://maisonneuve.org/article/2017/01/5/tour-de-babel/",
+        "image": "KarstonSmith-FINAL-500x0.jpg"
     },
     {
         "Title": "Out of Office with Marilou Champagne",
@@ -472,7 +476,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/113ZzgJJT3BocbCWyLATGVvAPfKG0JrpT/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1rH_kSmu6H6_2VKp8TxsqyikZL2XBnM4U/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1rH_kSmu6H6_2VKp8TxsqyikZL2XBnM4U/view?usp=sharing",
+        "image": "MC.png"
     },
     {
         "Title": "Bangers and Mash-up",
@@ -481,8 +486,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1CIiEwM1JX_Vjnm0whtgzlFU685wmhfHt/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1GGDuZ_1JhhVOgRMt-a9F-3BO87NAyyfh/view?usp=sharing",
-        "image": "IndianEng.png"
+        "url": "https://drive.google.com/file/d/1GGDuZ_1JhhVOgRMt-a9F-3BO87NAyyfh/view?usp=sharing"
     },
     {
         "Title": "One On One with Barry Gibb",
@@ -581,7 +585,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1gG2WYnKHLCgCpWL8hVTWxH0ns7mqyFiS/view?usp=sharing",
-        "url": "http://ambos.ca/spaces/"
+        "url": "http://ambos.ca/spaces/",
+        "image": "Espaces-cover1.jpg"
     },
     {
         "Title": "The Hush",
@@ -590,6 +595,7 @@
         "category": "fiction",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/11T5kztiakTiwSchbIwFRtBd_W9GX7RSt/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/11snVZ_jrn07GdCMGgEWbhpczGJPWFKFI/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/11snVZ_jrn07GdCMGgEWbhpczGJPWFKFI/view?usp=sharing",
+        "image": "TheHush-image.png"
     }
 ]
