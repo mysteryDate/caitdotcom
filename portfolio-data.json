@@ -266,8 +266,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1riRp6ZE3b37YfrZe5sGu506NgmYZt7Wr/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/old-montreal",
-        "image": "VR Montreal.png"
+        "url": "https://enroute.aircanada.com/en/article/old-montreal"
     },
     {
         "Title": "Montreal is waging a war on waste. Here\u2019s how visitors can do their part",
@@ -276,8 +275,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Uj7vMF76bNHSkZoAsOi0wwZWOcEj9RL9/view?usp=sharing",
-        "url": "https://www.theglobeandmail.com/life/travel/article-montreal-is-waging-a-war-on-waste-heres-how-visitors-can-do-their/",
-        "image": "globe.jpg"
+        "url": "https://www.theglobeandmail.com/life/travel/article-montreal-is-waging-a-war-on-waste-heres-how-visitors-can-do-their/"
     },
     {
         "Title": "Gatekeepers in Quebec have a stranglehold on gender-neutral language",
@@ -296,7 +294,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1SmRujx72nkgVpwnRCsup5WDpi9hpf2qU/view?usp=sharing",
-        "url": "https://www.simonandschuster.ca/books/Montrealers/Jean-Francois-Nadeau/9781988002194"
+        "url": "https://www.simonandschuster.ca/books/Montrealers/Jean-Francois-Nadeau/9781988002194",
+        "image": "Montrealers.png"
     },
     {
         "Title": "300 raisons d'aimer New York",
@@ -305,7 +304,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/10X280SNyidf-x8obVyLIuc1-pZWbaCCb/view?usp=sharing",
-        "url": "http://www.editions-homme.com/300-raisons-aimer-new-york/droits/9782761941587"
+        "url": "http://www.editions-homme.com/300-raisons-aimer-new-york/droits/9782761941587",
+        "image": "300NY.png"
     },
     {
         "Title": "A Montreal Museum Caf\u00e9 Digs Into the Foods of the Jewish Diaspora",
@@ -384,8 +384,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Xlt2j-4lDcj1WEhWHDO1l4aPc4tcZc5O/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/chef-marcus-samuelsson-on-the-lack-of-diversity-in-the-restaurant-industry",
-        "image": "Screen Shot 2019-12-01 at 9.14.19 PM.png"
+        "url": "https://enroute.aircanada.com/en/article/chef-marcus-samuelsson-on-the-lack-of-diversity-in-the-restaurant-industry"
     },
     {
         "Title": "What Climate Change is Expected to Do to Victoria",
@@ -594,7 +593,6 @@
         "category": "fiction",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/11T5kztiakTiwSchbIwFRtBd_W9GX7RSt/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/11snVZ_jrn07GdCMGgEWbhpczGJPWFKFI/view?usp=sharing",
-        "image": "TheHush-image.png"
+        "url": "https://drive.google.com/file/d/11snVZ_jrn07GdCMGgEWbhpczGJPWFKFI/view?usp=sharing"
     }
 ]
