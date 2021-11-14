@@ -266,7 +266,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1riRp6ZE3b37YfrZe5sGu506NgmYZt7Wr/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/old-montreal"
+        "url": "https://enroute.aircanada.com/en/article/old-montreal",
+        "image": "VR Montreal.png"
     },
     {
         "Title": "Montreal is waging a war on waste. Here\u2019s how visitors can do their part",
@@ -275,7 +276,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Uj7vMF76bNHSkZoAsOi0wwZWOcEj9RL9/view?usp=sharing",
-        "url": "https://www.theglobeandmail.com/life/travel/article-montreal-is-waging-a-war-on-waste-heres-how-visitors-can-do-their/"
+        "url": "https://www.theglobeandmail.com/life/travel/article-montreal-is-waging-a-war-on-waste-heres-how-visitors-can-do-their/",
+        "image": "globe.jpg"
     },
     {
         "Title": "Gatekeepers in Quebec have a stranglehold on gender-neutral language",
@@ -384,7 +386,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Xlt2j-4lDcj1WEhWHDO1l4aPc4tcZc5O/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/chef-marcus-samuelsson-on-the-lack-of-diversity-in-the-restaurant-industry"
+        "url": "https://enroute.aircanada.com/en/article/chef-marcus-samuelsson-on-the-lack-of-diversity-in-the-restaurant-industry",
+        "image": "Screen Shot 2019-12-01 at 9.14.19 PM.png"
     },
     {
         "Title": "What Climate Change is Expected to Do to Victoria",
@@ -513,8 +516,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1dD281mJObzadBdp4q_-rtZAdLwnLYAb4/view?usp=sharing",
-        "url": "https://www.vice.com/en_us/article/9agzb7/this-montreal-jewish-bakery-doesnt-want-to-be-called-modern",
-        "image": "hofkelsten_IMG_2040_featured.webp"
+        "url": "https://www.vice.com/en_us/article/9agzb7/this-montreal-jewish-bakery-doesnt-want-to-be-called-modern"
     },
     {
         "Title": "Maritime Quebec by Way of Craft Beer",
@@ -523,8 +525,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1a8BpK7cJw6Q6yM6mdUOE6KxeckfGG4i4/view?usp=sharing",
-        "url": "https://www.pastemagazine.com/articles/2015/09/maritime-quebec-by-way-of-craft-beer.html",
-        "image": "Screen Shot 2015-09-16 at 3.38.24 PM.png"
+        "url": "https://www.pastemagazine.com/articles/2015/09/maritime-quebec-by-way-of-craft-beer.html"
     },
     {
         "Title": "D\u00eda de los Muertos",
@@ -533,8 +534,7 @@
         "category": "fiction",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/16MDvNL32x3_0Jd4ecz3apoEJho4rjs1N/view?usp=sharing",
-        "url": "http://potluckmag.com/april-2016/2016/4/13/da-de-los-muertos",
-        "image": "Screen Shot 2019-12-01 at 9.31.08 PM.png"
+        "url": "http://potluckmag.com/april-2016/2016/4/13/da-de-los-muertos"
     },
     {
         "Title": "Death in the Midden",
@@ -543,8 +543,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1ZZxlZZcep020XE8qkeFY40LUS3Mz3iG4/view?usp=sharing",
-        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/",
-        "image": "Screen Shot 2019-12-01 at 9.31.51 PM.png"
+        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/"
     },
     {
         "Title": "Preaching to the Fish",
@@ -553,8 +552,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/14_jr4lprLKHxegqHobLWk6rOwvwrbJbI/view?usp=sharing",
-        "url": "http://ambos.ca/fish/",
-        "image": "Serment-poissons-Patrice-Lessard-ambos-Quebec-literature-translation-cover.jpg"
+        "url": "http://ambos.ca/fish/"
     },
     {
         "Title": "The Multicoloured Album",
@@ -593,6 +591,7 @@
         "category": "fiction",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/11T5kztiakTiwSchbIwFRtBd_W9GX7RSt/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/11snVZ_jrn07GdCMGgEWbhpczGJPWFKFI/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/11snVZ_jrn07GdCMGgEWbhpczGJPWFKFI/view?usp=sharing",
+        "image": "TheHush-image.png"
     }
 ]
