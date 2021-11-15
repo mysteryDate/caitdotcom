@@ -186,7 +186,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1_jsSflZYabcRSXF1dy1W-OInldE7DMia/view?usp=sharing",
-        "url": "https://thewalrus.ca/what-frogs-can-teach-us-about-the-state-of-the-world/?fbclid=IwAR2A6UDJotyljXZiNeDJt9zitnpVn8Xe0qJ8smu8dZZhpuVwj6SFWJ1MtLs"
+        "url": "https://thewalrus.ca/what-frogs-can-teach-us-about-the-state-of-the-world/?fbclid=IwAR2A6UDJotyljXZiNeDJt9zitnpVn8Xe0qJ8smu8dZZhpuVwj6SFWJ1MtLs",
+        "image": "Frog.png"
     },
     {
         "Title": "3 Food Halls That are Changing Montreal\u2019s Downtown Dining Scene",
@@ -195,7 +196,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1MEzz_60-GhTOARjFbFFvLfej-0HL8Ssa/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/montreal-food-halls"
+        "url": "https://enroute.aircanada.com/en/article/montreal-food-halls",
+        "image": "foodhall.webp"
     },
     {
         "Title": "Be a tourist in your own city with this Canadian summer staycation guide",
