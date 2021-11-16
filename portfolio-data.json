@@ -256,8 +256,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1lu2tsgN44zqNKF0z7RT1Gnu8GdAvSO9d/view?usp=sharing",
-        "url": "https://www.ellecanada.com/culture/society/the-women-pledging-not-to-have-kids-until-meaningful-action-on-climate-change-is-made",
-        "image": "ELLE-CLIMATE2.jpg"
+        "url": "https://www.ellecanada.com/culture/society/the-women-pledging-not-to-have-kids-until-meaningful-action-on-climate-change-is-made"
     },
     {
         "Title": "A VR Creative Director\u2019s Montreal",
@@ -266,7 +265,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1riRp6ZE3b37YfrZe5sGu506NgmYZt7Wr/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/old-montreal"
+        "url": "https://enroute.aircanada.com/en/article/old-montreal",
+        "image": "VR Montreal.png"
     },
     {
         "Title": "Montreal is waging a war on waste. Here\u2019s how visitors can do their part",
@@ -275,7 +275,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Uj7vMF76bNHSkZoAsOi0wwZWOcEj9RL9/view?usp=sharing",
-        "url": "https://www.theglobeandmail.com/life/travel/article-montreal-is-waging-a-war-on-waste-heres-how-visitors-can-do-their/"
+        "url": "https://www.theglobeandmail.com/life/travel/article-montreal-is-waging-a-war-on-waste-heres-how-visitors-can-do-their/",
+        "image": "globe.jpg"
     },
     {
         "Title": "Gatekeepers in Quebec have a stranglehold on gender-neutral language",
@@ -544,8 +545,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1ZZxlZZcep020XE8qkeFY40LUS3Mz3iG4/view?usp=sharing",
-        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/",
-        "image": "Screen Shot 2019-12-01 at 9.31.51 PM.png"
+        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/"
     },
     {
         "Title": "Preaching to the Fish",
@@ -554,8 +554,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/14_jr4lprLKHxegqHobLWk6rOwvwrbJbI/view?usp=sharing",
-        "url": "http://ambos.ca/fish/",
-        "image": "Serment-poissons-Patrice-Lessard-ambos-Quebec-literature-translation-cover.jpg"
+        "url": "http://ambos.ca/fish/"
     },
     {
         "Title": "The Multicoloured Album",
@@ -584,7 +583,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1gG2WYnKHLCgCpWL8hVTWxH0ns7mqyFiS/view?usp=sharing",
-        "url": "http://ambos.ca/spaces/"
+        "url": "http://ambos.ca/spaces/",
+        "image": "Espaces-cover1.jpg"
     },
     {
         "Title": "The Hush",
