@@ -226,7 +226,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1tGU4-cFhWvG4-hSDqo3DJQxh1bR69MRv/view?usp=sharing",
-        "url": "https://www.ellecanada.com/life-and-love/how-millennials-can-reassess-spending-during-covid?fbclid=IwAR11vto73ewg2Y7qZzm5usUjrh37-aFr5C6jERJynh-RE8qXrDdgePOwEXY"
+        "url": "https://www.ellecanada.com/life-and-love/how-millennials-can-reassess-spending-during-covid?fbclid=IwAR11vto73ewg2Y7qZzm5usUjrh37-aFr5C6jERJynh-RE8qXrDdgePOwEXY",
+        "image": "credit card.png"
     },
     {
         "Title": "How to survive an epidemic and other tales of the everyday",
@@ -235,7 +236,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1byUAH9kGAGWw5E0pVxunvhYL_aLIAgXR/view?usp=sharing",
-        "url": "https://www.dailyxtra.com/lgbt-family-aids-storycorps-lynch-174275"
+        "url": "https://www.dailyxtra.com/lgbt-family-aids-storycorps-lynch-174275",
+        "image": "My-Aunties.jpg"
     },
     {
         "Title": "Beware the better angels of electro-pop artist Scott Hardware",
@@ -244,7 +246,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1mWpDrjP1VfYqwKPWPyX291ar3sQctrJd/view?usp=sharing",
-        "url": "https://www.dailyxtra.com/electro-pop-artist-scott-hardware-170568"
+        "url": "https://www.dailyxtra.com/electro-pop-artist-scott-hardware-170568",
+        "image": "Scott-Hardware.jpg"
     },
     {
         "Title": "Audio Erotica Is the Latest Self-Care Tool For Women",
@@ -253,7 +256,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Lxf2AAj1YF-fxx-C1seFMGQqVFpXdCVC/view?usp=sharing",
-        "url": "https://www.flare.com/sex-and-relationships/audio-porn-apps-for-women/?fbclid=IwAR1hNsKOiBFxnEqOSb_TfT17Bm-EilLLmKRQRJ0XVo-7tBHZVF0Sn_WidUU"
+        "url": "https://www.flare.com/sex-and-relationships/audio-porn-apps-for-women/?fbclid=IwAR1hNsKOiBFxnEqOSb_TfT17Bm-EilLLmKRQRJ0XVo-7tBHZVF0Sn_WidUU",
+        "image": "audio.jpg"
     },
     {
         "Title": "The Women Pledging Not to Have Kids Until Meaningful Action on Climate Change Is Made",
@@ -362,7 +366,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1VJfYLUhpYwV4o0luRaYE9iMdwXxZDXQo/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1drfLySRS1NGwqN36K8iKSErNymHtAD_0/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1drfLySRS1NGwqN36K8iKSErNymHtAD_0/view?usp=sharing",
+        "image": "Screen Shot 2019-12-01 at 8.46.28 PM.png"
     },
     {
         "Title": "French-Canadian Musician Hubert Lenoir Plays by His Own Rules",
@@ -571,7 +576,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1w5qbD7OYmiC6fLJ4_jeaua3RJqvjsdXw/view?usp=sharing",
-        "url": "http://ambos.ca/album/"
+        "url": "http://ambos.ca/album/",
+        "image": "album-multicolore-louise-dupre-ambos-quebec-literature-translation-cover.jpg"
     },
     {
         "Title": "Nina",
@@ -580,7 +586,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1OMpXDH3-mtlcl-iKkljKyb61uXA1TEie/view?usp=sharing",
-        "url": "http://ambos.ca/nina/"
+        "url": "http://ambos.ca/nina/",
+        "image": "nina-patrice-lessard-ambos-quebec-literature-translation-cover2.jpg"
     },
     {
         "Title": "Spaces",
@@ -589,7 +596,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1gG2WYnKHLCgCpWL8hVTWxH0ns7mqyFiS/view?usp=sharing",
-        "url": "http://ambos.ca/spaces/"
+        "url": "http://ambos.ca/spaces/",
+        "image": "Espaces-cover1.jpg"
     },
     {
         "Title": "The Hush",
