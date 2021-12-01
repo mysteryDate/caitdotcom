@@ -466,7 +466,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1D1XG6ATCmrYTvDACmsNFBLUVkybb58HK/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1HDM_10w9xnUGvqpEF8bzTlcweAOSHMRO/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1HDM_10w9xnUGvqpEF8bzTlcweAOSHMRO/view?usp=sharing",
+        "image": "Screen Shot 2019-12-01 at 9.19.12 PM.png"
     },
     {
         "Title": "Tour de Babel",
@@ -575,7 +576,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1w5qbD7OYmiC6fLJ4_jeaua3RJqvjsdXw/view?usp=sharing",
-        "url": "http://ambos.ca/album/"
+        "url": "http://ambos.ca/album/",
+        "image": "album-multicolore-louise-dupre-ambos-quebec-literature-translation-cover.jpg"
     },
     {
         "Title": "Nina",
