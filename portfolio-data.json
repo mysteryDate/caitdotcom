@@ -456,7 +456,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1DW-votvitRk_H8UhXdQSggcCDkUPq7Oy/view?usp=sharing",
-        "url": "https://hazlitt.net/feature/bells-still-can-ring"
+        "url": "https://hazlitt.net/feature/bells-still-can-ring",
+        "image": "montreal-cohen-main.jpg"
     },
     {
         "Title": "A Performance Artist Opens Her Bag",
@@ -565,7 +566,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/14_jr4lprLKHxegqHobLWk6rOwvwrbJbI/view?usp=sharing",
-        "url": "http://ambos.ca/fish/"
+        "url": "http://ambos.ca/fish/",
+        "image": "Serment-poissons-Patrice-Lessard-ambos-Quebec-literature-translation-cover.jpg"
     },
     {
         "Title": "The Multicoloured Album",
@@ -584,8 +586,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1OMpXDH3-mtlcl-iKkljKyb61uXA1TEie/view?usp=sharing",
-        "url": "http://ambos.ca/nina/",
-        "image": "nina-patrice-lessard-ambos-quebec-literature-translation-cover2.jpg"
+        "url": "http://ambos.ca/nina/"
     },
     {
         "Title": "Spaces",
