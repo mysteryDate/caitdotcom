@@ -556,7 +556,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1ZZxlZZcep020XE8qkeFY40LUS3Mz3iG4/view?usp=sharing",
-        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/"
+        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/",
+        "image": "Screen Shot 2019-12-01 at 9.31.51 PM.png"
     },
     {
         "Title": "Preaching to the Fish",
@@ -565,7 +566,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/14_jr4lprLKHxegqHobLWk6rOwvwrbJbI/view?usp=sharing",
-        "url": "http://ambos.ca/fish/"
+        "url": "http://ambos.ca/fish/",
+        "image": "Serment-poissons-Patrice-Lessard-ambos-Quebec-literature-translation-cover.jpg"
     },
     {
         "Title": "The Multicoloured Album",
@@ -574,7 +576,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1w5qbD7OYmiC6fLJ4_jeaua3RJqvjsdXw/view?usp=sharing",
-        "url": "http://ambos.ca/album/"
+        "url": "http://ambos.ca/album/",
+        "image": "album-multicolore-louise-dupre-ambos-quebec-literature-translation-cover.jpg"
     },
     {
         "Title": "Nina",
