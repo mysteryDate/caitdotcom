@@ -78,7 +78,7 @@ def main():
 
     service = build('drive', 'v3', credentials=drive_creds)
     for entry in portfolio_data:
-        if "photo-link" in entry.keys():
+        if "photo-link" in entry.keys() and entry["photo-link"]:
             photo_link = entry["photo-link"]
             file_id = photo_link.split('/d/')[1].split('/')[0]
             photo_file = {}
