@@ -5,8 +5,9 @@
         "publication": "The Narwhal",
         "category": "articles",
         "type": "website",
-        "photo-link": "",
-        "url": "https://thenarwhal.ca/federal-environment-minister-steven-guilbeault/?fbclid=IwAR1D4_CUFsAbCVfLCpE0eaJJ50Iw8zEvDa_HJNolxK67_PVJyxfRWQdzWnE"
+        "photo-link": "https://drive.google.com/file/d/1GrC_ATCkHrv3YwmvRuX05buk-kM1xZ9V/view?usp=sharing",
+        "url": "https://thenarwhal.ca/federal-environment-minister-steven-guilbeault/?fbclid=IwAR1D4_CUFsAbCVfLCpE0eaJJ50Iw8zEvDa_HJNolxK67_PVJyxfRWQdzWnE",
+        "image": "Guilbeault.png"
     },
     {
         "Title": "Cosy cabins, lakeside saunas and award-winning brews: The insider\u2019s guide to Brome-Missisquoi, an easy drive from Montreal",
@@ -299,16 +300,6 @@
         "image": "ELLE-CLIMATE2.jpg"
     },
     {
-        "Title": "A VR Creative Director\u2019s Montreal",
-        "date": "2020-03-25",
-        "publication": "enRoute",
-        "category": "articles",
-        "type": "website",
-        "photo-link": "https://drive.google.com/file/d/1riRp6ZE3b37YfrZe5sGu506NgmYZt7Wr/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/old-montreal",
-        "image": "VR Montreal.png"
-    },
-    {
         "Title": "Montreal is waging a war on waste. Here\u2019s how visitors can do their part",
         "date": "2020-03-07",
         "publication": "The Globe and Mail",
@@ -317,16 +308,6 @@
         "photo-link": "https://drive.google.com/file/d/1Uj7vMF76bNHSkZoAsOi0wwZWOcEj9RL9/view?usp=sharing",
         "url": "https://www.theglobeandmail.com/life/travel/article-montreal-is-waging-a-war-on-waste-heres-how-visitors-can-do-their/",
         "image": "globe.jpg"
-    },
-    {
-        "Title": "Gatekeepers in Quebec have a stranglehold on gender-neutral language",
-        "date": "2020-02-10",
-        "publication": "Xtra",
-        "category": "articles",
-        "type": "website",
-        "photo-link": "https://drive.google.com/file/d/1-V0zVwXk31HavuzNhPYK4WNubRqS-QXn/view?usp=sharing",
-        "url": "https://www.dailyxtra.com/gender-neutral-language-quebec-french-167108",
-        "image": "Gender-neutral.jpg"
     },
     {
         "Title": "Montrealers",
@@ -489,16 +470,6 @@
         "image": "montreal-cohen-main.jpg"
     },
     {
-        "Title": "A Performance Artist Opens Her Bag",
-        "date": "2018-01-01",
-        "publication": "enRoute",
-        "category": "articles",
-        "type": "pdf",
-        "photo-link": "https://drive.google.com/file/d/1D1XG6ATCmrYTvDACmsNFBLUVkybb58HK/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1HDM_10w9xnUGvqpEF8bzTlcweAOSHMRO/view?usp=sharing",
-        "image": "Screen Shot 2019-12-01 at 9.19.12 PM.png"
-    },
-    {
         "Title": "Tour de Babel",
         "date": "2017-05-01",
         "publication": "Maisonneuve Magazine",
@@ -507,16 +478,6 @@
         "photo-link": "https://drive.google.com/file/d/1NY8nXy37jhseGz6l85IH_bmrj5GLIAwt/view?usp=sharing",
         "url": "https://maisonneuve.org/article/2017/01/5/tour-de-babel/",
         "image": "KarstonSmith-FINAL-500x0.jpg"
-    },
-    {
-        "Title": "Out of Office with Marilou Champagne",
-        "date": "2017-05-01",
-        "publication": "enRoute",
-        "category": "articles",
-        "type": "pdf",
-        "photo-link": "https://drive.google.com/file/d/113ZzgJJT3BocbCWyLATGVvAPfKG0JrpT/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1rH_kSmu6H6_2VKp8TxsqyikZL2XBnM4U/view?usp=sharing",
-        "image": "MC.png"
     },
     {
         "Title": "Bangers and Mash-up",
@@ -557,16 +518,6 @@
         "photo-link": "https://drive.google.com/file/d/1dD281mJObzadBdp4q_-rtZAdLwnLYAb4/view?usp=sharing",
         "url": "https://www.vice.com/en_us/article/9agzb7/this-montreal-jewish-bakery-doesnt-want-to-be-called-modern",
         "image": "hofkelsten_IMG_2040_featured.webp"
-    },
-    {
-        "Title": "Maritime Quebec by Way of Craft Beer",
-        "date": "2015-09-18",
-        "publication": "Paste Magazine",
-        "category": "articles",
-        "type": "website",
-        "photo-link": "https://drive.google.com/file/d/1a8BpK7cJw6Q6yM6mdUOE6KxeckfGG4i4/view?usp=sharing",
-        "url": "https://www.pastemagazine.com/articles/2015/09/maritime-quebec-by-way-of-craft-beer.html",
-        "image": "Screen Shot 2015-09-16 at 3.38.24 PM.png"
     },
     {
         "Title": "D\u00eda de los Muertos",
