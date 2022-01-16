@@ -326,7 +326,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/10X280SNyidf-x8obVyLIuc1-pZWbaCCb/view?usp=sharing",
-        "url": "http://www.editions-homme.com/300-raisons-aimer-new-york/droits/9782761941587"
+        "url": "http://www.editions-homme.com/300-raisons-aimer-new-york/droits/9782761941587",
+        "image": "300NY.png"
     },
     {
         "Title": "A Montreal Museum Caf\u00e9 Digs Into the Foods of the Jewish Diaspora",
@@ -435,7 +436,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1uqxh1POKdYnHz9ZDZnM3fpQ_yCuBdqPj/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1Vu7DYXNVFiDhBS-AtnkEA1LErTTupj5q/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1Vu7DYXNVFiDhBS-AtnkEA1LErTTupj5q/view?usp=sharing",
+        "image": "Screen Shot 2019-12-01 at 9.16.42 PM.png"
     },
     {
         "Title": "A Food Blogger Opens Her Bag",
@@ -544,7 +546,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/14_jr4lprLKHxegqHobLWk6rOwvwrbJbI/view?usp=sharing",
-        "url": "http://ambos.ca/fish/"
+        "url": "http://ambos.ca/fish/",
+        "image": "Serment-poissons-Patrice-Lessard-ambos-Quebec-literature-translation-cover.jpg"
     },
     {
         "Title": "The Multicoloured Album",
