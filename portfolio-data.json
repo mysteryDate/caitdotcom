@@ -106,7 +106,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/14chtEYgggQjvXQLSgmqew_iRhQJqCIhm/view?usp=sharing",
-        "url": "https://www.ellecanada.com/culture/society/a-new-ice-age"
+        "url": "https://www.ellecanada.com/culture/society/a-new-ice-age",
+        "image": "Hockey.jpeg"
     },
     {
         "Title": "The Hidden Cost of Rechargeable Batteries",
@@ -305,7 +306,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Uj7vMF76bNHSkZoAsOi0wwZWOcEj9RL9/view?usp=sharing",
-        "url": "https://www.theglobeandmail.com/life/travel/article-montreal-is-waging-a-war-on-waste-heres-how-visitors-can-do-their/"
+        "url": "https://www.theglobeandmail.com/life/travel/article-montreal-is-waging-a-war-on-waste-heres-how-visitors-can-do-their/",
+        "image": "globe.jpg"
     },
     {
         "Title": "Montrealers",
@@ -414,7 +416,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1pUipKzb3KJ8hwMCN_BNC5BXFkDe3e93S/view?usp=sharing",
-        "url": "https://www.capnews.ca/news/climate-change-victoria-damage-class-action"
+        "url": "https://www.capnews.ca/news/climate-change-victoria-damage-class-action",
+        "image": "5dcd056d137dcb35aa26897e_MainImageCook.jpg"
     },
     {
         "Title": "Our Favourite Hotel Stays of 2018",
@@ -423,7 +426,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/19qjC4ZPAbwmvmQie9ZRc9Fdntq3eHwTj/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1TVfY25oVdFFY488450H3h6wuzWsB6szu/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1TVfY25oVdFFY488450H3h6wuzWsB6szu/view?usp=sharing",
+        "image": "Screen Shot 2019-12-01 at 8.59.32 PM.png"
     },
     {
         "Title": "Where the Wild Things Are",
@@ -532,7 +536,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1ZZxlZZcep020XE8qkeFY40LUS3Mz3iG4/view?usp=sharing",
-        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/"
+        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/",
+        "image": "Screen Shot 2019-12-01 at 9.31.51 PM.png"
     },
     {
         "Title": "Preaching to the Fish",
@@ -541,7 +546,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/14_jr4lprLKHxegqHobLWk6rOwvwrbJbI/view?usp=sharing",
-        "url": "http://ambos.ca/fish/"
+        "url": "http://ambos.ca/fish/",
+        "image": "Serment-poissons-Patrice-Lessard-ambos-Quebec-literature-translation-cover.jpg"
     },
     {
         "Title": "The Multicoloured Album",
