@@ -216,7 +216,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1vWYv25S6t6SKuTZAlSVLh3Qh3mdYZ6lb/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/citizen-science"
+        "url": "https://enroute.aircanada.com/en/article/citizen-science",
+        "image": "citizen science.png"
     },
     {
         "Title": "Frog Songs",
@@ -325,7 +326,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/10X280SNyidf-x8obVyLIuc1-pZWbaCCb/view?usp=sharing",
-        "url": "http://www.editions-homme.com/300-raisons-aimer-new-york/droits/9782761941587"
+        "url": "http://www.editions-homme.com/300-raisons-aimer-new-york/droits/9782761941587",
+        "image": "300NY.png"
     },
     {
         "Title": "A Montreal Museum Caf\u00e9 Digs Into the Foods of the Jewish Diaspora",
@@ -534,7 +536,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1ZZxlZZcep020XE8qkeFY40LUS3Mz3iG4/view?usp=sharing",
-        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/"
+        "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/",
+        "image": "Screen Shot 2019-12-01 at 9.31.51 PM.png"
     },
     {
         "Title": "Preaching to the Fish",
