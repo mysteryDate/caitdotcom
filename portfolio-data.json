@@ -126,7 +126,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1QHBnyPCGm9wtsY4sIUQwMCSw-t8P2fUg/view?usp=sharing",
-        "url": "https://www.cbc.ca/news/canada/montreal/the-measure-of-things-1.5973375?fbclid=IwAR2hKx0QkOCdEKGrbLEKGAcxQk8qKsV-Ei2muiuIMzqF2ZzLGDfSEQ9pEMs"
+        "url": "https://www.cbc.ca/news/canada/montreal/the-measure-of-things-1.5973375?fbclid=IwAR2hKx0QkOCdEKGrbLEKGAcxQk8qKsV-Ei2muiuIMzqF2ZzLGDfSEQ9pEMs",
+        "image": "papa measure.webp"
     },
     {
         "Title": "Making Maple Syrup, And A One-Of-A-Kind Spring Cocktail",
@@ -344,8 +345,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Bs_OScwYi2gH-asN_9KVgGfMQWElrvCY/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/northern-soul-london",
-        "image": "soul-survivor-illustration.jpg"
+        "url": "https://enroute.aircanada.com/en/article/northern-soul-london"
     },
     {
         "Title": "Chef Antonio Park's Guide to Sao Paolo",
@@ -444,7 +444,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1KbTd8_EMs1L0YQ9uWBe7d0fYWXMsV_Mn/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1NYpPPuoNbR5mGuPyyXjgbwhFyG8w6sYS/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1NYpPPuoNbR5mGuPyyXjgbwhFyG8w6sYS/view?usp=sharing",
+        "image": "Screen Shot 2019-12-01 at 9.17.58 PM.png"
     },
     {
         "Title": "Sole Mates",
@@ -562,8 +563,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1OMpXDH3-mtlcl-iKkljKyb61uXA1TEie/view?usp=sharing",
-        "url": "http://ambos.ca/nina/",
-        "image": "nina-patrice-lessard-ambos-quebec-literature-translation-cover2.jpg"
+        "url": "http://ambos.ca/nina/"
     },
     {
         "Title": "Spaces",
@@ -572,8 +572,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1gG2WYnKHLCgCpWL8hVTWxH0ns7mqyFiS/view?usp=sharing",
-        "url": "http://ambos.ca/spaces/",
-        "image": "Espaces-cover1.jpg"
+        "url": "http://ambos.ca/spaces/"
     },
     {
         "Title": "The Hush",
