@@ -126,7 +126,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1QHBnyPCGm9wtsY4sIUQwMCSw-t8P2fUg/view?usp=sharing",
-        "url": "https://www.cbc.ca/news/canada/montreal/the-measure-of-things-1.5973375?fbclid=IwAR2hKx0QkOCdEKGrbLEKGAcxQk8qKsV-Ei2muiuIMzqF2ZzLGDfSEQ9pEMs"
+        "url": "https://www.cbc.ca/news/canada/montreal/the-measure-of-things-1.5973375?fbclid=IwAR2hKx0QkOCdEKGrbLEKGAcxQk8qKsV-Ei2muiuIMzqF2ZzLGDfSEQ9pEMs",
+        "image": "papa measure.webp"
     },
     {
         "Title": "Making Maple Syrup, And A One-Of-A-Kind Spring Cocktail",
@@ -235,7 +236,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1MEzz_60-GhTOARjFbFFvLfej-0HL8Ssa/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/montreal-food-halls"
+        "url": "https://enroute.aircanada.com/en/article/montreal-food-halls",
+        "image": "foodhall.webp"
     },
     {
         "Title": "Be a tourist in your own city with this Canadian summer staycation guide",
@@ -244,7 +246,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1iLfLW7H4vAPJPQTVQCASkgDPiiQXjyfZ/view?usp=sharing",
-        "url": "https://www.theglobeandmail.com/life/travel/article-learn-how-to-be-a-tourist-in-your-own-city-with-the-help-of-this/"
+        "url": "https://www.theglobeandmail.com/life/travel/article-learn-how-to-be-a-tourist-in-your-own-city-with-the-help-of-this/",
+        "image": "Staycation.jpg"
     },
     {
         "Title": "Your Money's Worth",
@@ -353,7 +356,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1dedlhIpnFeK-JXha-0SLQwlk0JqaqbxH/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/antonio-park-sao-paulo"
+        "url": "https://enroute.aircanada.com/en/article/antonio-park-sao-paulo",
+        "image": "Screen Shot 2019-12-01 at 9.12.22 PM.png"
     },
     {
         "Title": "How Outlaw Artist Orville Peck is Queering Country Music",
@@ -552,8 +556,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1w5qbD7OYmiC6fLJ4_jeaua3RJqvjsdXw/view?usp=sharing",
-        "url": "http://ambos.ca/album/",
-        "image": "album-multicolore-louise-dupre-ambos-quebec-literature-translation-cover.jpg"
+        "url": "http://ambos.ca/album/"
     },
     {
         "Title": "Nina",
@@ -562,7 +565,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1OMpXDH3-mtlcl-iKkljKyb61uXA1TEie/view?usp=sharing",
-        "url": "http://ambos.ca/nina/"
+        "url": "http://ambos.ca/nina/",
+        "image": "nina-patrice-lessard-ambos-quebec-literature-translation-cover2.jpg"
     },
     {
         "Title": "Spaces",
