@@ -416,7 +416,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1pUipKzb3KJ8hwMCN_BNC5BXFkDe3e93S/view?usp=sharing",
-        "url": "https://www.capnews.ca/news/climate-change-victoria-damage-class-action"
+        "url": "https://www.capnews.ca/news/climate-change-victoria-damage-class-action",
+        "image": "5dcd056d137dcb35aa26897e_MainImageCook.jpg"
     },
     {
         "Title": "Our Favourite Hotel Stays of 2018",
@@ -555,8 +556,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1w5qbD7OYmiC6fLJ4_jeaua3RJqvjsdXw/view?usp=sharing",
-        "url": "http://ambos.ca/album/",
-        "image": "album-multicolore-louise-dupre-ambos-quebec-literature-translation-cover.jpg"
+        "url": "http://ambos.ca/album/"
     },
     {
         "Title": "Nina",
