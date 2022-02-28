@@ -106,7 +106,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/14chtEYgggQjvXQLSgmqew_iRhQJqCIhm/view?usp=sharing",
-        "url": "https://www.ellecanada.com/culture/society/a-new-ice-age"
+        "url": "https://www.ellecanada.com/culture/society/a-new-ice-age",
+        "image": "Hockey.jpeg"
     },
     {
         "Title": "The Hidden Cost of Rechargeable Batteries",
@@ -475,7 +476,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1NY8nXy37jhseGz6l85IH_bmrj5GLIAwt/view?usp=sharing",
-        "url": "https://maisonneuve.org/article/2017/01/5/tour-de-babel/"
+        "url": "https://maisonneuve.org/article/2017/01/5/tour-de-babel/",
+        "image": "KarstonSmith-FINAL-500x0.jpg"
     },
     {
         "Title": "Bangers and Mash-up",
