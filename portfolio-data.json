@@ -286,8 +286,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1byUAH9kGAGWw5E0pVxunvhYL_aLIAgXR/view?usp=sharing",
-        "url": "https://www.dailyxtra.com/lgbt-family-aids-storycorps-lynch-174275",
-        "image": "My-Aunties.jpg"
+        "url": "https://www.dailyxtra.com/lgbt-family-aids-storycorps-lynch-174275"
     },
     {
         "Title": "Beware the better angels of electro-pop artist Scott Hardware",
@@ -576,7 +575,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1w5qbD7OYmiC6fLJ4_jeaua3RJqvjsdXw/view?usp=sharing",
-        "url": "http://ambos.ca/album/"
+        "url": "http://ambos.ca/album/",
+        "image": "album-multicolore-louise-dupre-ambos-quebec-literature-translation-cover.jpg"
     },
     {
         "Title": "Nina",
