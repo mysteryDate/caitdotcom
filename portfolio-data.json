@@ -126,7 +126,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/14chtEYgggQjvXQLSgmqew_iRhQJqCIhm/view?usp=sharing",
-        "url": "https://www.ellecanada.com/culture/society/a-new-ice-age"
+        "url": "https://www.ellecanada.com/culture/society/a-new-ice-age",
+        "image": "Hockey.jpeg"
     },
     {
         "Title": "The Hidden Cost of Rechargeable Batteries",
@@ -235,7 +236,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1vWYv25S6t6SKuTZAlSVLh3Qh3mdYZ6lb/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/citizen-science"
+        "url": "https://enroute.aircanada.com/en/article/citizen-science",
+        "image": "citizen science.png"
     },
     {
         "Title": "Frog Songs",
@@ -434,7 +436,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1pUipKzb3KJ8hwMCN_BNC5BXFkDe3e93S/view?usp=sharing",
-        "url": "https://www.capnews.ca/news/climate-change-victoria-damage-class-action"
+        "url": "https://www.capnews.ca/news/climate-change-victoria-damage-class-action",
+        "image": "5dcd056d137dcb35aa26897e_MainImageCook.jpg"
     },
     {
         "Title": "Our Favourite Hotel Stays of 2018",
