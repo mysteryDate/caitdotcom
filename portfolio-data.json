@@ -126,8 +126,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/14chtEYgggQjvXQLSgmqew_iRhQJqCIhm/view?usp=sharing",
-        "url": "https://www.ellecanada.com/culture/society/a-new-ice-age",
-        "image": "Hockey.jpeg"
+        "url": "https://www.ellecanada.com/culture/society/a-new-ice-age"
     },
     {
         "Title": "The Hidden Cost of Rechargeable Batteries",
@@ -236,8 +235,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1vWYv25S6t6SKuTZAlSVLh3Qh3mdYZ6lb/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/citizen-science",
-        "image": "citizen science.png"
+        "url": "https://enroute.aircanada.com/en/article/citizen-science"
     },
     {
         "Title": "Frog Songs",
@@ -436,8 +434,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1pUipKzb3KJ8hwMCN_BNC5BXFkDe3e93S/view?usp=sharing",
-        "url": "https://www.capnews.ca/news/climate-change-victoria-damage-class-action",
-        "image": "5dcd056d137dcb35aa26897e_MainImageCook.jpg"
+        "url": "https://www.capnews.ca/news/climate-change-victoria-damage-class-action"
     },
     {
         "Title": "Our Favourite Hotel Stays of 2018",
@@ -536,7 +533,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1dD281mJObzadBdp4q_-rtZAdLwnLYAb4/view?usp=sharing",
-        "url": "https://www.vice.com/en_us/article/9agzb7/this-montreal-jewish-bakery-doesnt-want-to-be-called-modern"
+        "url": "https://www.vice.com/en_us/article/9agzb7/this-montreal-jewish-bakery-doesnt-want-to-be-called-modern",
+        "image": "hofkelsten_IMG_2040_featured.webp"
     },
     {
         "Title": "D\u00eda de los Muertos",
