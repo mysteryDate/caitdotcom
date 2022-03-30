@@ -256,7 +256,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1MEzz_60-GhTOARjFbFFvLfej-0HL8Ssa/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/montreal-food-halls"
+        "url": "https://enroute.aircanada.com/en/article/montreal-food-halls",
+        "image": "foodhall.webp"
     },
     {
         "Title": "Be a tourist in your own city with this Canadian summer staycation guide",
@@ -565,7 +566,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/14_jr4lprLKHxegqHobLWk6rOwvwrbJbI/view?usp=sharing",
-        "url": "http://ambos.ca/fish/"
+        "url": "http://ambos.ca/fish/",
+        "image": "Serment-poissons-Patrice-Lessard-ambos-Quebec-literature-translation-cover.jpg"
     },
     {
         "Title": "The Multicoloured Album",
