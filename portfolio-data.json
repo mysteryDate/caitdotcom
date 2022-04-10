@@ -166,7 +166,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/12b7Xy15ezIUGNZTzldgP0zo5o7OnyiBz/view?usp=sharing",
-        "url": "https://www.ellecanada.com/beauty/health-and-fitness/go-with-the-flow"
+        "url": "https://www.ellecanada.com/beauty/health-and-fitness/go-with-the-flow",
+        "image": "flow.jpg"
     },
     {
         "Title": "Making tech queer-and-trans friendly is about much more than hiring",
@@ -475,7 +476,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1injcTd1-dLUcl3We4bGrKGNqsyqr-OTy/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1OfY6kKZJKiAYyNX7n0miVdjtv__E51u6/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1OfY6kKZJKiAYyNX7n0miVdjtv__E51u6/view?usp=sharing",
+        "image": "Screen Shot 2019-12-01 at 9.21.24 PM.png"
     },
     {
         "Title": "The Bells That Still Can Ring",
@@ -584,7 +586,8 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1OMpXDH3-mtlcl-iKkljKyb61uXA1TEie/view?usp=sharing",
-        "url": "http://ambos.ca/nina/"
+        "url": "http://ambos.ca/nina/",
+        "image": "nina-patrice-lessard-ambos-quebec-literature-translation-cover2.jpg"
     },
     {
         "Title": "Spaces",
