@@ -166,8 +166,7 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/12b7Xy15ezIUGNZTzldgP0zo5o7OnyiBz/view?usp=sharing",
-        "url": "https://www.ellecanada.com/beauty/health-and-fitness/go-with-the-flow",
-        "image": "flow.jpg"
+        "url": "https://www.ellecanada.com/beauty/health-and-fitness/go-with-the-flow"
     },
     {
         "Title": "Making tech queer-and-trans friendly is about much more than hiring",
@@ -206,7 +205,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1oqpreLK6s1EDAqBH2X20uOPsBF6NA24f/view?usp=sharing",
-        "url": "https://www.dailyxtra.com/craft-legacy-lacks-female-rage-184300"
+        "url": "https://www.dailyxtra.com/craft-legacy-lacks-female-rage-184300",
+        "image": "Legacy.jpg"
     },
     {
         "Title": "Cheesy Kind of Love",
@@ -315,7 +315,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1lu2tsgN44zqNKF0z7RT1Gnu8GdAvSO9d/view?usp=sharing",
-        "url": "https://www.ellecanada.com/culture/society/the-women-pledging-not-to-have-kids-until-meaningful-action-on-climate-change-is-made"
+        "url": "https://www.ellecanada.com/culture/society/the-women-pledging-not-to-have-kids-until-meaningful-action-on-climate-change-is-made",
+        "image": "ELLE-CLIMATE2.jpg"
     },
     {
         "Title": "Montreal is waging a war on waste. Here\u2019s how visitors can do their part",
@@ -424,7 +425,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1Xlt2j-4lDcj1WEhWHDO1l4aPc4tcZc5O/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/chef-marcus-samuelsson-on-the-lack-of-diversity-in-the-restaurant-industry"
+        "url": "https://enroute.aircanada.com/en/article/chef-marcus-samuelsson-on-the-lack-of-diversity-in-the-restaurant-industry",
+        "image": "Screen Shot 2019-12-01 at 9.14.19 PM.png"
     },
     {
         "Title": "What Climate Change is Expected to Do to Victoria",
@@ -473,8 +475,7 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1injcTd1-dLUcl3We4bGrKGNqsyqr-OTy/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1OfY6kKZJKiAYyNX7n0miVdjtv__E51u6/view?usp=sharing",
-        "image": "Screen Shot 2019-12-01 at 9.21.24 PM.png"
+        "url": "https://drive.google.com/file/d/1OfY6kKZJKiAYyNX7n0miVdjtv__E51u6/view?usp=sharing"
     },
     {
         "Title": "The Bells That Still Can Ring",
@@ -533,7 +534,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1dD281mJObzadBdp4q_-rtZAdLwnLYAb4/view?usp=sharing",
-        "url": "https://www.vice.com/en_us/article/9agzb7/this-montreal-jewish-bakery-doesnt-want-to-be-called-modern"
+        "url": "https://www.vice.com/en_us/article/9agzb7/this-montreal-jewish-bakery-doesnt-want-to-be-called-modern",
+        "image": "hofkelsten_IMG_2040_featured.webp"
     },
     {
         "Title": "D\u00eda de los Muertos",
@@ -582,8 +584,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1OMpXDH3-mtlcl-iKkljKyb61uXA1TEie/view?usp=sharing",
-        "url": "http://ambos.ca/nina/",
-        "image": "nina-patrice-lessard-ambos-quebec-literature-translation-cover2.jpg"
+        "url": "http://ambos.ca/nina/"
     },
     {
         "Title": "Spaces",
