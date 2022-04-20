@@ -4,6 +4,7 @@ import os.path
 from googleapiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
+from google.oauth2.credentials import Credentials
 from googleapiclient.http import MediaIoBaseDownload
 import io
 import json
@@ -28,9 +29,8 @@ def main():
     # The file token.pickle stores the user's access and refresh tokens, and is
     # created automatically when the authorization flow completes for the first
     # time.
-    if os.path.exists('token.pickle'):
-        with open('token.pickle', 'rb') as token:
-            creds = pickle.load(token)
+    if os.path.exists('token.json'):
+            creds = Credentials.from_authorized_user_file('token.json', SCOPES)
     # If there are no (valid) credentials available, let the user log in.
     if not creds or not creds.valid:
         if creds and creds.expired and creds.refresh_token:
@@ -40,8 +40,9 @@ def main():
                 'credentials.json', SCOPES)
             creds = flow.run_local_server(port=0)
         # Save the credentials for the next run
-        with open('token.pickle', 'wb') as token:
-            pickle.dump(creds, token)
+        with open('token.json', 'w') as token:
+            token.write(creds.to_json())
+
 
     service = build('sheets', 'v4', credentials=creds)
 
@@ -61,9 +62,8 @@ def main():
 
     # Authenticate with drive
     drive_creds = None
-    if os.path.exists('token-drive.pickle'):
-        with open('token-drive.pickle', 'rb') as token:
-            drive_creds = pickle.load(token)
+    if os.path.exists('token-drive.json'):
+        drive_creds = Credentials.from_authorized_user_file('token-drive.json', SCOPES)
     # If there are no (valid) credentials available, let the user log in.
     if not drive_creds or not drive_creds.valid:
         if drive_creds and drive_creds.expired and drive_creds.refresh_token:
@@ -73,8 +73,8 @@ def main():
                 'credentials.json', DRIVE_SCOPES)
             drive_creds = flow.run_local_server(port=0)
         # Save the credentials for the next run
-        with open('token-drive.pickle', 'wb') as token:
-            pickle.dump(drive_creds, token)
+        with open('token-drive.json', 'w') as token:
+            token.write(drive_creds.to_json())
 
     service = build('drive', 'v3', credentials=drive_creds)
     for entry in portfolio_data:
