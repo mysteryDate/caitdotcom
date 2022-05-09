@@ -8,24 +8,20 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
-# If modifying these scopes, delete the file token.json.
-SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
-
-# The ID and range of a sample spreadsheet.
-SAMPLE_SPREADSHEET_ID = '1dlaWXhgQ1O1Mc9qkUiRA0OfEgT-OsqrYatltgypJJvU'
-# SAMPLE_RANGE_NAME = 'Class Data!A2:E'
+# If modifying these scopes, delete the file token-drive.json.
+SCOPES = ['https://www.googleapis.com/auth/drive']
 
 
 def main():
-    """Shows basic usage of the Sheets API.
-    Prints values from a sample spreadsheet.
+    """Shows basic usage of the Drive v3 API.
+    Prints the names and ids of the first 10 files the user has access to.
     """
     creds = None
     # The file token.json stores the user's access and refresh tokens, and is
     # created automatically when the authorization flow completes for the first
     # time.
-    if os.path.exists('token.json'):
-        creds = Credentials.from_authorized_user_file('token.json', SCOPES)
+    if os.path.exists('token-drive.json'):
+        creds = Credentials.from_authorized_user_file('token-drive.json', SCOPES)
     # If there are no (valid) credentials available, let the user log in.
     if not creds or not creds.valid:
         if creds and creds.expired and creds.refresh_token:
@@ -35,27 +31,26 @@ def main():
                 'credentials.json', SCOPES)
             creds = flow.run_local_server(port=0)
         # Save the credentials for the next run
-        with open('token.json', 'w') as token:
+        with open('token-drive.json', 'w') as token:
             token.write(creds.to_json())
 
     try:
-        service = build('sheets', 'v4', credentials=creds)
+        service = build('drive', 'v3', credentials=creds)
 
-        # Call the Sheets API
-        sheet = service.spreadsheets()
-        result = sheet.values().get(spreadsheetId=SAMPLE_SPREADSHEET_ID).execute()
-        values = result.get('values', [])
+        # Call the Drive v3 API
+        results = service.files().list(
+            pageSize=10, fields="nextPageToken, files(id, name)").execute()
+        items = results.get('files', [])
 
-        if not values:
-            print('No data found.')
+        if not items:
+            print('No files found.')
             return
-
-        print('Name, Major:')
-        for row in values:
-            # Print columns A and E, which correspond to indices 0 and 4.
-            print('%s, %s' % (row[0], row[4]))
-    except HttpError as err:
-        print(err)
+        print('Files:')
+        for item in items:
+            print(u'{0} ({1})'.format(item['name'], item['id']))
+    except HttpError as error:
+        # TODO(developer) - Handle errors from drive API.
+        print(f'An error occurred: {error}')
 
 
 if __name__ == '__main__':
