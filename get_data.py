@@ -60,6 +60,7 @@ def main():
             entry = {headers[x]: row[x] for x in range(len(row))}
             portfolio_data.append(entry)
 
+            """
     # Authenticate with drive
     drive_creds = None
     if os.path.exists('token-drive.json'):
@@ -107,6 +108,7 @@ def main():
 
     with open("portfolio-data.json", "w") as portfolio_data_file:
         portfolio_data_file.write(json.dumps(portfolio_data, indent=4))
+        """
 
 if __name__ == '__main__':
     main()
