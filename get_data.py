@@ -12,7 +12,7 @@ import json
 # If modifying these scopes, delete the file token.pickle.
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
 # For the drive auth, delete token-drive.pickle if changing
-DRIVE_SCOPES = ['https://www.googleapis.com/auth/drive']
+DRIVE_SCOPES = ['https://www.googleapis.com/auth/drive.readonly']
 
 # The ID and range of a sample spreadsheet.
 SAMPLE_SPREADSHEET_ID = '1dlaWXhgQ1O1Mc9qkUiRA0OfEgT-OsqrYatltgypJJvU'
@@ -63,7 +63,7 @@ def main():
     # Authenticate with drive
     drive_creds = None
     if os.path.exists('token-drive.json'):
-        drive_creds = Credentials.from_authorized_user_file('token-drive.json', SCOPES)
+        drive_creds = Credentials.from_authorized_user_file('token-drive.json', DRIVE_SCOPES)
     # If there are no (valid) credentials available, let the user log in.
     if not drive_creds or not drive_creds.valid:
         if drive_creds and drive_creds.expired and drive_creds.refresh_token:
