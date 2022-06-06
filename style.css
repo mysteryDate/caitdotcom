@@ -1,10 +1,10 @@
 * {
   transition-property: color, background-color, height, width, margin, padding, left, top;
-  transition-duration: 1s;
+  transition-duration: 0.5s;
   transition-timing-function: ease-in-out;
 }
 body {
-  font-family: futura, helvetica-neue;
+  font-family: courier, helvetica-neue;
   cursor: default;
   background-image: url('paper.jpg');
   margin: 0;
@@ -39,7 +39,7 @@ h2 {
   border-radius:  10px;
   color: hsl(316, 23%, 0%);
   font-weight: lighter;
-  background-color: hsla(0, 0%, 100%, 100%);
+  /*background-color: hsla(0, 0%, 100%, 100%);*/
 }
 #navBar {
   text-align: center;
@@ -68,7 +68,6 @@ h2 {
   border-radius: 10px;
 }
 .entry {
-  background-color:  white;
   position: absolute;
   left: 0px;
   top: 0px;
@@ -112,12 +111,21 @@ h2 {
   padding: 3vw;
 }
 .entry:hover {
-  color: hsl(316, 23%, 40%);
+  /*color: hsl(316, 23%, 40%);*/
   background-color: hsla(0, 0%, 0%, 10%);
 }
 .entry h3 {
   margin: 0.8vw 0px;
   font-size: calc(0.5vw + 25px);
+}
+.entry h3.longtitle {
+  margin: 0.8vw 0px;
+  font-size: calc(0.4vw + 20px);
+}
+.entry h3.verylongtitle {
+  color: pink;
+  margin: 0.8vw 0px;
+  font-size: calc(0.4vw + 20px);
 }
 .entry p {
   margin: 0px 0px;

@@ -10,9 +10,6 @@ window.mobileCheck = function() {
   return check;
 };
 
-
-
-
 function changeSectionWithText(newSectionTitle) {
   if (!sectionTitles.includes(newSectionTitle))
     return;
@@ -55,6 +52,7 @@ function positionTiles() {
 }
 
 let positionTilesTimeout;
+const positionTilesDelay = 300;
 document.body.onresize = function(e) {
   entries = document.getElementsByClassName("entry");
   var width = window.innerWidth;
@@ -91,7 +89,7 @@ document.body.onresize = function(e) {
   window.clearTimeout(positionTilesTimeout);
   positionTilesTimeout = window.setTimeout(() => {
     positionTiles();
-  }, 1000);
+  }, 300);
 }
 
 function changeSection(e) {
@@ -116,6 +114,12 @@ function init(data) {
         var txt = "url('small-images/" + entry[x] + ".jpg')";
         htmlEntry.children[0].style.backgroundImage = txt;
       } else if (htmlEntry.children[1].children[x.toLowerCase()]) {
+        if (x.toLowerCase() === 'title') {
+          const titleLength = entry[x].length;
+          if (titleLength > 50) {
+            htmlEntry.children[1].children[x.toLowerCase()].classList.add("longtitle");
+          }
+        }
         htmlEntry.children[1].children[x.toLowerCase()].innerText = entry[x];
       }
     }
