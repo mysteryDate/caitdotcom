@@ -3,3 +3,4 @@ credentials*.json
 autoupdate_results.txt
 token.json
 token-drive.json
+.DS_Store
