@@ -3,6 +3,10 @@
   transition-duration: 0.5s;
   transition-timing-function: ease-in-out;
 }
+@font-face {
+  font-family: curls;
+  src: url(Curlz.otf);
+}
 body {
   font-family: futura, Helvetica, sans-serif;
   cursor: default;

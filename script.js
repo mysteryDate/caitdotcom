@@ -137,6 +137,8 @@ function init(data) {
     }
     changeSectionWithText(destination);
   });
+  if (window.location.hash)
+    document.body.style.fontFamily = "curls";
 }
 
 fetch("portfolio-data.json")
