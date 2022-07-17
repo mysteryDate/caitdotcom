@@ -126,7 +126,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1GrC_ATCkHrv3YwmvRuX05buk-kM1xZ9V/view?usp=sharing",
-        "url": "https://thenarwhal.ca/federal-environment-minister-steven-guilbeault/?fbclid=IwAR1D4_CUFsAbCVfLCpE0eaJJ50Iw8zEvDa_HJNolxK67_PVJyxfRWQdzWnE"
+        "url": "https://thenarwhal.ca/federal-environment-minister-steven-guilbeault/?fbclid=IwAR1D4_CUFsAbCVfLCpE0eaJJ50Iw8zEvDa_HJNolxK67_PVJyxfRWQdzWnE",
+        "image": "Guilbeault.png"
     },
     {
         "Title": "Cosy cabins, lakeside saunas and award-winning brews: The insider\u2019s guide to Brome-Missisquoi, an easy drive from Montreal",
@@ -234,7 +235,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/14chtEYgggQjvXQLSgmqew_iRhQJqCIhm/view?usp=sharing",
-        "url": "https://www.ellecanada.com/culture/society/a-new-ice-age"
+        "url": "https://www.ellecanada.com/culture/society/a-new-ice-age",
+        "image": "Hockey.jpeg"
     },
     {
         "Title": "The Hidden Cost of Rechargeable Batteries",
