@@ -225,7 +225,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1JUA5TOEuH4uJzqVGZ886WZ-PAiL8CVVs/view?usp=sharing",
-        "url": "https://www.theglobeandmail.com/life/travel/article-hidden-canada-the-2021-travel-guide-to-undiscovered-gems-and/?fbclid=IwAR13-aniu3RnMfS39tieXfxwNwSZcKnsHcRsxObvjwO0KhXltqzTYvjmH50"
+        "url": "https://www.theglobeandmail.com/life/travel/article-hidden-canada-the-2021-travel-guide-to-undiscovered-gems-and/?fbclid=IwAR13-aniu3RnMfS39tieXfxwNwSZcKnsHcRsxObvjwO0KhXltqzTYvjmH50",
+        "image": "Hidden Gem.jpeg"
     },
     {
         "Title": "A New Ice Age",
@@ -234,7 +235,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/14chtEYgggQjvXQLSgmqew_iRhQJqCIhm/view?usp=sharing",
-        "url": "https://www.ellecanada.com/culture/society/a-new-ice-age"
+        "url": "https://www.ellecanada.com/culture/society/a-new-ice-age",
+        "image": "Hockey.jpeg"
     },
     {
         "Title": "The Hidden Cost of Rechargeable Batteries",
@@ -703,8 +705,7 @@
         "category": "translation",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1gG2WYnKHLCgCpWL8hVTWxH0ns7mqyFiS/view?usp=sharing",
-        "url": "http://ambos.ca/spaces/",
-        "image": "Espaces-cover1.jpg"
+        "url": "http://ambos.ca/spaces/"
     },
     {
         "Title": "The Hush",
@@ -713,6 +714,7 @@
         "category": "fiction",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/11T5kztiakTiwSchbIwFRtBd_W9GX7RSt/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/11snVZ_jrn07GdCMGgEWbhpczGJPWFKFI/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/11snVZ_jrn07GdCMGgEWbhpczGJPWFKFI/view?usp=sharing",
+        "image": "TheHush-image.png"
     }
 ]
