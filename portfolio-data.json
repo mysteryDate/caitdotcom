@@ -255,7 +255,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1QHBnyPCGm9wtsY4sIUQwMCSw-t8P2fUg/view?usp=sharing",
-        "url": "https://www.cbc.ca/news/canada/montreal/the-measure-of-things-1.5973375?fbclid=IwAR2hKx0QkOCdEKGrbLEKGAcxQk8qKsV-Ei2muiuIMzqF2ZzLGDfSEQ9pEMs"
+        "url": "https://www.cbc.ca/news/canada/montreal/the-measure-of-things-1.5973375?fbclid=IwAR2hKx0QkOCdEKGrbLEKGAcxQk8qKsV-Ei2muiuIMzqF2ZzLGDfSEQ9pEMs",
+        "image": "papa measure.webp"
     },
     {
         "Title": "Making Maple Syrup, And A One-Of-A-Kind Spring Cocktail",
@@ -364,7 +365,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1MEzz_60-GhTOARjFbFFvLfej-0HL8Ssa/view?usp=sharing",
-        "url": "https://enroute.aircanada.com/en/article/montreal-food-halls"
+        "url": "https://enroute.aircanada.com/en/article/montreal-food-halls",
+        "image": "foodhall.webp"
     },
     {
         "Title": "Be a tourist in your own city with this Canadian summer staycation guide",
@@ -373,7 +375,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1iLfLW7H4vAPJPQTVQCASkgDPiiQXjyfZ/view?usp=sharing",
-        "url": "https://www.theglobeandmail.com/life/travel/article-learn-how-to-be-a-tourist-in-your-own-city-with-the-help-of-this/"
+        "url": "https://www.theglobeandmail.com/life/travel/article-learn-how-to-be-a-tourist-in-your-own-city-with-the-help-of-this/",
+        "image": "Staycation.jpg"
     },
     {
         "Title": "Your Money's Worth",
@@ -582,7 +585,8 @@
         "category": "articles",
         "type": "pdf",
         "photo-link": "https://drive.google.com/file/d/1injcTd1-dLUcl3We4bGrKGNqsyqr-OTy/view?usp=sharing",
-        "url": "https://drive.google.com/file/d/1OfY6kKZJKiAYyNX7n0miVdjtv__E51u6/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/1OfY6kKZJKiAYyNX7n0miVdjtv__E51u6/view?usp=sharing",
+        "image": "Screen Shot 2019-12-01 at 9.21.24 PM.png"
     },
     {
         "Title": "The Bells That Still Can Ring",
@@ -591,7 +595,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1DW-votvitRk_H8UhXdQSggcCDkUPq7Oy/view?usp=sharing",
-        "url": "https://hazlitt.net/feature/bells-still-can-ring"
+        "url": "https://hazlitt.net/feature/bells-still-can-ring",
+        "image": "montreal-cohen-main.jpg"
     },
     {
         "Title": "Tour de Babel",
