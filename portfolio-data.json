@@ -1,5 +1,24 @@
 [
     {
+        "Title": "These ever-changing art exhibits live in a Quebec garden",
+        "date": "2022-09-13",
+        "publication": "CBC Arts",
+        "category": "articles",
+        "type": "website",
+        "photo-link": "https://www.cbc.ca/arts/these-ever-changing-art-exhibits-live-in-a-quebec-garden-1.6578038?__vfz=medium%3Dsharebar",
+        "url": "https://www.cbc.ca/arts/these-ever-changing-art-exhibits-live-in-a-quebec-garden-1.6578038?__vfz=medium%3Dsharebar"
+    },
+    {
+        "Title": "In Quebec\u2019s Bas-Saint-Laurent region, I found a delicious dreamland with a local flavour all its own",
+        "date": "2022-09-09",
+        "publication": "The Toronto Star",
+        "category": "articles",
+        "type": "website",
+        "photo-link": "https://drive.google.com/file/d/1xiBhMBw7k7sldL2rYgn0CYEudmFhNT-I/view?usp=sharing",
+        "url": "https://www.thestar.com/life/travel/2022/09/09/in-quebecs-bas-saint-laurent-region-i-found-a-delicious-dreamland-with-a-local-flavour-all-its-own.html?fbclid=IwAR0uMTwaRzaRN4rWJ6nQm4R_DoV9sOt-2Sl-NPNyPg1SNPDTGdee3HbsGOY",
+        "image": "Bas-St-Lau.webp"
+    },
+    {
         "Title": "The New Hollywood North",
         "date": "2022-08-18",
         "publication": "Toronto Life",

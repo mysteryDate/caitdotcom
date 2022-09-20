@@ -80,7 +80,12 @@ def main():
     for entry in portfolio_data:
         if "photo-link" in entry.keys() and entry["photo-link"]:
             photo_link = entry["photo-link"]
-            file_id = photo_link.split('/d/')[1].split('/')[0]
+            try:
+              file_id = photo_link.split('/d/')[1].split('/')[0]
+            except Exception as e:
+              print(e)
+              print(entry)
+              continue
             photo_file = {}
             try:
                 photo_file = service.files().get(fileId=file_id).execute()
