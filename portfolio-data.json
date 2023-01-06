@@ -1,5 +1,15 @@
 [
     {
+        "Title": "I'm an undersea explorer from Toronto. My work inspired blockbusters like Titanic and Avatar.",
+        "date": "2023-01-06",
+        "publication": "Toronto Life",
+        "category": "articles",
+        "type": "website",
+        "photo-link": "https://drive.google.com/file/d/1qq3HEtNfEbxuu1vEClnSyk7lVrIktMI9/view?usp=sharing",
+        "url": "https://torontolife.com/city/im-an-undersea-explorer-from-toronto-my-work-inspired-blockbusters-like-titanic-and-avatar/",
+        "image": "Joe MacInnis.jpeg"
+    },
+    {
         "Title": "The State of Abortion Access in Canada",
         "date": "2022-12-08",
         "publication": "ELLE Canada",
