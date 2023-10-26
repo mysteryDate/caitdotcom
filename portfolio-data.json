@@ -1,5 +1,15 @@
 [
     {
+        "Title": "The Waiting Room",
+        "date": "2023-10-25",
+        "publication": "Yolk ",
+        "category": "articles",
+        "type": "website",
+        "photo-link": "https://drive.google.com/file/d/1TbhIAxgumI2x8S2_hUJxKyFUabT-C0Yd/view?usp=sharing",
+        "url": "https://www.yolkliterary.ca/articles/the-waiting-room",
+        "image": "waiting room.jpeg"
+    },
+    {
         "Title": "The Sea Canaries",
         "date": "2023-10-05",
         "publication": "carte blanche",
