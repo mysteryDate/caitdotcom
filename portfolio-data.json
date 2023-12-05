@@ -1,5 +1,15 @@
 [
     {
+        "Title": "An Insider's Guide to Queens, New York",
+        "date": "2023-11-01",
+        "publication": "enRoute",
+        "category": "articles",
+        "type": "website",
+        "photo-link": "https://drive.google.com/file/d/10hbqzByL4peF0B06iK6SGcdu04S-sHTK/view?usp=sharing",
+        "url": "https://enroute.aircanada.com/en/food-and-drink/best-restaurants-in-queens-new-york-2023/",
+        "image": "Queens.webp"
+    },
+    {
         "Title": "The Future of Mining Might Be Smaller than You Think",
         "date": "2023-10-30",
         "publication": "The Walrus",
