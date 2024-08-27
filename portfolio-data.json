@@ -1,5 +1,45 @@
 [
     {
+        "Title": "Air Inuit Magazine - Summer 2024",
+        "date": "2024-06-01",
+        "publication": "Air Inuit",
+        "category": "articles",
+        "type": "website",
+        "photo-link": "https://drive.google.com/file/d/1TQ0WzioMt93qa8V2uxnS5tom-f51lgS3/view?usp=sharing",
+        "url": "https://www.flipsnack.com/tvapublicationssurmesure/air-inuit-summer-2024-vol-10-4/full-view.html",
+        "image": "Niivi.png"
+    },
+    {
+        "Title": "How to address the climate crisis \u2014 one tonne of carbon at a time",
+        "date": "2024-05-31",
+        "publication": "MaRS",
+        "category": "articles",
+        "type": "website",
+        "photo-link": "https://drive.google.com/file/d/1FLb0HiVo6z2UKES95hi_v791sbQ3S9RU/view?usp=sharing",
+        "url": "https://missionfrommars.ca/news/how-to-address-the-climate-crisis-one-tonne-of-carbon-at-a-time/",
+        "image": "CDR.jpg"
+    },
+    {
+        "Title": "A Food Guide to Charlevoix Through its Unique Geology",
+        "date": "2024-05-29",
+        "publication": "enRoute",
+        "category": "articles",
+        "type": "website",
+        "photo-link": "https://drive.google.com/file/d/1H9_0BWmyzPSEwv4l3Q1HFT1rrHtLf5XQ/view?usp=sharing",
+        "url": "https://enroute.aircanada.com/en/food-and-drink/where-to-eat-in-charlevoix-quebec/",
+        "image": "charlevoix geo.png"
+    },
+    {
+        "Title": "Turning pollution into products",
+        "date": "2024-05-23",
+        "publication": "Toronto Star",
+        "category": "articles",
+        "type": "website",
+        "photo-link": "https://drive.google.com/file/d/13evKizRtpasInJyaWGkubNQVXNBbbP5S/view?usp=sharing",
+        "url": "https://www.thestar.com/business/mars/turning-pollution-into-products/article_adaf65ee-1796-11ef-8a0a-ffa88e505be1.html",
+        "image": "Hyperion.png"
+    },
+    {
         "Title": "How I Got to the Bottom of My Back Pain",
         "date": "2024-03-13",
         "publication": "Best Health",
