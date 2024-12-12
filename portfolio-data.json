@@ -1,5 +1,25 @@
 [
     {
+        "Title": "Call Me Maybe",
+        "date": "2024-11-28",
+        "publication": "ELLE Canada",
+        "category": "articles",
+        "type": "website",
+        "photo-link": "https://drive.google.com/file/d/1EWcaNrJqTd9w4ZXeL4ER7FdQTkQzRUHi/view?usp=sharing",
+        "url": "https://www.ellecanada.com/culture/tech/dumphones-tech-trend-how-to-be-offline",
+        "image": "dumbphone.png"
+    },
+    {
+        "Title": "Scientist Alison Criscitiello Gets To The Core Of Things",
+        "date": "2024-11-26",
+        "publication": "ELLE Canada",
+        "category": "articles",
+        "type": "website",
+        "photo-link": "https://drive.google.com/file/d/1ouuh0wIzVxq9RO1FiFO8xZTOZy1AtRYD/view?usp=sharing",
+        "url": "https://www.ellecanada.com/culture/movies-and-tv/alison-criscitiello-for-winter-documentary-interview",
+        "image": "allison cristicello.jpg"
+    },
+    {
         "Title": "Architect Omar Gandhi Shows Us Where to Eat in Halifax",
         "date": "2024-11-01",
         "publication": "enRoute",
@@ -8,6 +28,16 @@
         "photo-link": "https://drive.google.com/file/d/1RLqTy2LFez7Q_qZII5b9bRiOlm_gMtFc/view?usp=sharing",
         "url": "https://enroute.aircanada.com/en/food-and-drink/architect-omar-gandhi-shows-us-where-to-eat-in-halifax/?fbclid=PAZXh0bgNhZW0CMTEAAaa8OcEg-QcIZzp-HzNqXkdABPtoeGgjCO41rwJbev07SUmXpjg_MJ2aQ_s_aem_JKMUj-tJADLdywwtCuUaRA",
         "image": "Halifax enroute.webp"
+    },
+    {
+        "Title": "How Women Are Blazing Their Way Into The Male-Dominated World Of Firefighting",
+        "date": "2024-09-18",
+        "publication": "ELLE Canada",
+        "category": "articles",
+        "type": "website",
+        "photo-link": "https://drive.google.com/file/d/1f616VKnCSpZ5chFVSFFkIDcwkCWtQYop/view?usp=sharing",
+        "url": "https://www.ellecanada.com/culture/society/women-in-firefighting",
+        "image": "Women-Firefighters.png"
     },
     {
         "Title": "Air Inuit Magazine - Summer 2024",
