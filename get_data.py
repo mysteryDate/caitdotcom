@@ -4,52 +4,30 @@ import os.path
 from googleapiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
-from google.oauth2.credentials import Credentials
+from google.oauth2.service_account import Credentials
 from googleapiclient.http import MediaIoBaseDownload
 import io
 import json
 
-# If modifying these scopes, delete the file token.pickle.
-SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
-# For the drive auth, delete token-drive.pickle if changing
-DRIVE_SCOPES = ['https://www.googleapis.com/auth/drive.readonly']
-
 # The ID and range of a sample spreadsheet.
-SAMPLE_SPREADSHEET_ID = '1dlaWXhgQ1O1Mc9qkUiRA0OfEgT-OsqrYatltgypJJvU'
-SAMPLE_RANGE_NAME = 'Sheet1!A1:G'
+CREDENTIALS_FILE = "caitdotcom-06c816441973.json"
+SPREADSHEET_ID = '1dlaWXhgQ1O1Mc9qkUiRA0OfEgT-OsqrYatltgypJJvU'
+RANGE_NAME = 'Sheet1!A1:G'
 
 # An array of dicts that we will output to json
 portfolio_data = []
 
 def main():
-    """Shows basic usage of the Sheets API.
-    Prints values from a sample spreadsheet.
-    """
     creds = None
-    # The file token.pickle stores the user's access and refresh tokens, and is
-    # created automatically when the authorization flow completes for the first
-    # time.
-    if os.path.exists('token.json'):
-            creds = Credentials.from_authorized_user_file('token.json', SCOPES)
-    # If there are no (valid) credentials available, let the user log in.
-    if not creds or not creds.valid:
-        if creds and creds.expired and creds.refresh_token:
-            creds.refresh(Request())
-        else:
-            flow = InstalledAppFlow.from_client_secrets_file(
-                'credentials.json', SCOPES)
-            creds = flow.run_local_server(port=0)
-        # Save the credentials for the next run
-        with open('token.json', 'w') as token:
-            token.write(creds.to_json())
-
-
+    creds = Credentials.from_service_account_file(CREDENTIALS_FILE,
+                                                      scopes=['https://www.googleapis.com/auth/spreadsheets.readonly',
+                                                                  'https://www.googleapis.com/auth/drive.readonly'])
     service = build('sheets', 'v4', credentials=creds)
 
     # Call the Sheets API
     sheet = service.spreadsheets()
-    result = sheet.values().get(spreadsheetId=SAMPLE_SPREADSHEET_ID,
-                                range=SAMPLE_RANGE_NAME).execute()
+    result = sheet.values().get(spreadsheetId=SPREADSHEET_ID,
+                                range=RANGE_NAME).execute()
     values = result.get('values', [])
 
     if not values:
@@ -60,23 +38,7 @@ def main():
             entry = {headers[x]: row[x] for x in range(len(row))}
             portfolio_data.append(entry)
 
-    # Authenticate with drive
-    drive_creds = None
-    if os.path.exists('token-drive.json'):
-        drive_creds = Credentials.from_authorized_user_file('token-drive.json', DRIVE_SCOPES)
-    # If there are no (valid) credentials available, let the user log in.
-    if not drive_creds or not drive_creds.valid:
-        if drive_creds and drive_creds.expired and drive_creds.refresh_token:
-            drive_creds.refresh(Request())
-        else:
-            flow = InstalledAppFlow.from_client_secrets_file(
-                'credentials.json', DRIVE_SCOPES)
-            drive_creds = flow.run_local_server(port=0)
-        # Save the credentials for the next run
-        with open('token-drive.json', 'w') as token:
-            token.write(drive_creds.to_json())
-
-    service = build('drive', 'v3', credentials=drive_creds)
+    drive_service = build('drive', 'v3', credentials=creds)
     for entry in portfolio_data:
         if "photo-link" in entry.keys() and entry["photo-link"]:
             photo_link = entry["photo-link"]
@@ -88,13 +50,13 @@ def main():
               continue
             photo_file = {}
             try:
-                photo_file = service.files().get(fileId=file_id).execute()
+                photo_file = drive_service.files().get(fileId=file_id).execute()
             except Exception as e:
                 print(e)
                 print(entry)
                 continue
             photo_name = photo_file['name']
-            request = service.files().get_media(fileId=file_id)
+            request = drive_service.files().get_media(fileId=file_id)
             fh = io.BytesIO()
             downloader = MediaIoBaseDownload(fh, request)
             done = False
