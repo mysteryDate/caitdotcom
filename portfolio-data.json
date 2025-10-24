@@ -1,5 +1,45 @@
 [
     {
+        "Title": "The Leftovers",
+        "date": "2025-11-05",
+        "publication": "Serviette",
+        "category": "articles",
+        "type": "pdf",
+        "photo-link": "https://drive.google.com/file/d/1iShgbYPZLTv-A20Txne1oqEuFO1ZHPmT/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/11Th2xX4rgKX9DZnFPuJ1tWDZRWGCmO-V/view?usp=sharing",
+        "image": "hosts.png"
+    },
+    {
+        "Title": "Port of Montreal expansion plans put endangered fish found only in Quebec at risk",
+        "date": "2025-10-09",
+        "publication": "The Narwwhal",
+        "category": "articles",
+        "type": "website",
+        "photo-link": "https://drive.google.com/file/d/1e2QQC_V69zm8SfzI9DYVLpFIJ0kQx5JA/view?usp=sharing",
+        "url": "https://thenarwhal.ca/copper-redhorse-port-of-montreal-expansion/",
+        "image": "MTL port expansion.png"
+    },
+    {
+        "Title": "Le pole dancing sort de l\u2019ombre",
+        "date": "2025-07-31",
+        "publication": "Elle Qu\u00e9bec",
+        "category": "articles",
+        "type": "website",
+        "photo-link": "https://drive.google.com/file/d/1MCsV9AddE5sJZ4EzoLoJrTQqbVt1wv0E/view?usp=sharing",
+        "url": "https://www.ellequebec.com/sport/le-pole-dancing-sort-de-lombre",
+        "image": "pole dancing.jpg"
+    },
+    {
+        "Title": "Breaking Bread",
+        "date": "2025-06-01",
+        "publication": "Serviette",
+        "category": "articles",
+        "type": "pdf",
+        "photo-link": "https://drive.google.com/file/d/1kvm51eeU6-ac0om7JmSnPmcAH5JFAOdy/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/1qtAdAPhXDVdhr56nUplYWuiVPjAdX55L/view?usp=sharing",
+        "image": "breaking bread.png"
+    },
+    {
         "Title": "How Organizations Are Adapting To Rising Food Insecurity Across Canada",
         "date": "2025-04-18",
         "publication": "ELLE Canada",
