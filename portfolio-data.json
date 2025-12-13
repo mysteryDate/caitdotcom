@@ -6,7 +6,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1ZCl5nz8TP9QLyv4uMFrGVptmam9qpx2h/view?usp=sharing",
-        "url": "https://www.theglobeandmail.com/opinion/article-why-its-important-to-mitigate-the-spread-of-invasive-species/?intcmp=gift_share"
+        "url": "https://www.theglobeandmail.com/opinion/article-why-its-important-to-mitigate-the-spread-of-invasive-species/?intcmp=gift_share",
+        "image": "invasives.avif"
     },
     {
         "Title": "These diseases don\u2019t need visas",
@@ -15,7 +16,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1vOb_hebEnTbmQscfzeoqs75VmTLgIeQ2/view?usp=sharing",
-        "url": "https://www.marsdd.com/our-story/these-diseases-dont-need-visas/"
+        "url": "https://www.marsdd.com/our-story/these-diseases-dont-need-visas/",
+        "image": "malaria.webp"
     },
     {
         "Title": "The Leftovers",
@@ -34,7 +36,8 @@
         "category": "articles",
         "type": "website",
         "photo-link": "https://drive.google.com/file/d/1u5SuzTxU_HHXcsAMDmv-svtZSzoUiRnp/view?usp=sharing",
-        "url": "https://theampersandreview.ca/caitlin-stall"
+        "url": "https://theampersandreview.ca/caitlin-stall",
+        "image": "Ampersand.png"
     },
     {
         "Title": "Port of Montreal expansion plans put endangered fish found only in Quebec at risk",
