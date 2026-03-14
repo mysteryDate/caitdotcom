@@ -1,0 +1,55 @@
+name: Resize Images
+
+on:
+  push:
+    branches: [gh-pages]
+    paths: ['images/**']
+
+jobs:
+  resize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: pip install Pillow
+
+      - name: Resize new images
+        run: |
+          python3 -c "
+          from PIL import Image
+          import os, math
+
+          IMAGE_FOLDER = 'images'
+          OUTPUT_FOLDER = 'small-images'
+          MAX_OUTPUT_DIMENSION = 600
+
+          os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+          input_images = os.listdir(IMAGE_FOLDER)
+          output_images = os.listdir(OUTPUT_FOLDER)
+
+          for image_file_name in input_images:
+              if '.'.join([image_file_name, 'jpg']) in output_images:
+                  continue
+              try:
+                  img = Image.open(os.path.join(IMAGE_FOLDER, image_file_name)).convert('RGB')
+              except Exception:
+                  print(f'Cannot read {image_file_name}')
+                  continue
+              width, height = img.size
+              h_ratio = MAX_OUTPUT_DIMENSION / height
+              w_ratio = MAX_OUTPUT_DIMENSION / width
+              min_ratio = min(1, min(h_ratio, w_ratio))
+              newsize = (math.floor(min_ratio * width), math.floor(min_ratio * height))
+              small_image = img.resize(newsize)
+              output_filename = os.path.join(OUTPUT_FOLDER, '.'.join([image_file_name, 'jpg']))
+              small_image.save(output_filename, format='jpeg')
+              print(f'Resized {image_file_name}')
+          "
+
+      - name: Commit resized images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add small-images/
+          git diff --staged --quiet || (git commit -m "Auto-resize images" && git push)

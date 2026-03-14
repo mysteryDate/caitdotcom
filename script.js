@@ -146,7 +146,7 @@ fetch("portfolio-data.json")
     return response.json();
   })
   .then(function(json) {
-    data = json;
+    data = json.items;
     init(data);
   });
 

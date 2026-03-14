@@ -1,0 +1,31 @@
+local_backend: true
+backend:
+  name: github
+  repo: mysteryDate/caitdotcom
+  branch: gh-pages
+  base_url: https://sveltia-cms-auth.caitdotcom-auth.workers.dev
+
+media_folder: "images"
+public_folder: "images"
+
+collections:
+  - name: "portfolio"
+    label: "Portfolio"
+    files:
+      - name: "portfolio-data"
+        label: "Portfolio Data"
+        file: "portfolio-data.json"
+        format: "json"
+        description: "Portfolio entries"
+        fields:
+          - name: "items"
+            label: "Items"
+            widget: "list"
+            fields:
+              - { name: "Title", label: "Title", widget: "string" }
+              - { name: "date", label: "Date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+              - { name: "publication", label: "Publication", widget: "string" }
+              - { name: "category", label: "Category", widget: "select", options: ["articles", "fiction", "translation"] }
+              - { name: "type", label: "Type", widget: "select", options: ["website", "pdf"] }
+              - { name: "url", label: "URL", widget: "string" }
+              - { name: "image", label: "Image", widget: "image", required: false }
