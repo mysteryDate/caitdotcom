@@ -2,7 +2,7 @@ var data;
 let numColumns;
 const columnWidthsDesktop = [600, 900, 1200];
 const columnWidthsMobile = [300, 800, 3000];
-const sectionTitles = ["articles", "fiction", "contact", "translation"];
+const sectionTitles = ["articles", "fiction", "contact", "translation", "awards"];
 
 window.mobileCheck = function() {
   let check = false;
@@ -141,14 +141,40 @@ function init(data) {
     document.body.style.fontFamily = "curls";
 }
 
-fetch("portfolio-data.json")
-  .then(function(response) {
-    return response.json();
-  })
-  .then(function(json) {
-    data = json.items;
-    init(data);
+function initAwards(items) {
+  var section = document.getElementById("awards");
+  items.forEach(function(award) {
+    var el = document.createElement("a");
+    el.className = "award-entry";
+    if (award.url) {
+      el.href = award.url;
+      el.target = "_blank";
+    }
+    var html = "";
+    if (award.image) {
+      var imageName = award.image.replace(/^images\//, '');
+      html += '<div class="award-image" style="background-image: url(\'small-images/' + imageName + '.jpg\')"></div>';
+    }
+    html += '<h3>' + award.name + '</h3>';
+    if (award.date) {
+      html += '<p class="award-date">' + award.date + '</p>';
+    }
+    if (award.description) {
+      html += '<p class="award-description">' + award.description + '</p>';
+    }
+    el.innerHTML = html;
+    section.appendChild(el);
   });
+}
+
+Promise.all([
+  fetch("portfolio-data.json").then(function(r) { return r.json(); }),
+  fetch("awards-data.json").then(function(r) { return r.json(); })
+]).then(function(results) {
+  data = results[0].items;
+  init(data);
+  initAwards(results[1].items);
+});
 
 
 

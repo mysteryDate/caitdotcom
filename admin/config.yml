@@ -1,4 +1,4 @@
-local_backend: true
+# local_backend: true
 backend:
   name: github
   repo: mysteryDate/caitdotcom
@@ -28,4 +28,22 @@ collections:
               - { name: "category", label: "Category", widget: "select", options: ["articles", "fiction", "translation"] }
               - { name: "type", label: "Type", widget: "select", options: ["website", "pdf"] }
               - { name: "url", label: "URL", widget: "string" }
+              - { name: "image", label: "Image", widget: "image", required: false }
+  - name: "awards"
+    label: "Awards"
+    files:
+      - name: "awards-data"
+        label: "Awards Data"
+        file: "awards-data.json"
+        format: "json"
+        description: "Awards and honors"
+        fields:
+          - name: "items"
+            label: "Items"
+            widget: "list"
+            fields:
+              - { name: "name", label: "Name", widget: "string" }
+              - { name: "date", label: "Date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+              - { name: "description", label: "Description", widget: "text" }
+              - { name: "url", label: "URL", widget: "string", required: false }
               - { name: "image", label: "Image", widget: "image", required: false }

@@ -135,3 +135,43 @@ h2 {
   margin: 0px 0px;
   font-size: calc(0.5vw + 15px);
 }
+
+/* Awards */
+#awards.active {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+  position: relative;
+}
+.award-entry {
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  width: 350px;
+  max-width: 90vw;
+  color: inherit;
+  text-decoration: none;
+  display: block;
+}
+.award-entry .award-image {
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.award-entry h3 {
+  margin: 5px 0;
+  font-size: 22px;
+}
+.award-entry .award-date {
+  margin: 0;
+  font-size: 14px;
+  color: hsl(316, 23%, 40%);
+}
+.award-entry .award-description {
+  margin: 10px 0 0;
+  font-size: 16px;
+}
