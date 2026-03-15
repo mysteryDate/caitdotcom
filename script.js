@@ -174,7 +174,22 @@ Promise.all([
   data = results[0].items;
   init(data);
   initAwards(results[1].items);
+  hideEmptySections(data, results[1].items);
 });
+
+function hideEmptySections(portfolioItems, awardsItems) {
+  var categories = new Set(portfolioItems.map(function(item) { return item.category; }));
+  if (awardsItems.length > 0) categories.add("awards");
+  categories.add("contact");
+
+  var navItems = document.getElementById("navBarWrapper").children;
+  Array.from(navItems).forEach(function(header) {
+    var name = header.innerText.toLowerCase();
+    if (!categories.has(name)) {
+      header.style.display = "none";
+    }
+  });
+}
 
 
 
