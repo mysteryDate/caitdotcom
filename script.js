@@ -30,9 +30,8 @@ function changeSectionWithText(newSectionTitle) {
   positionTiles();
 }
 
-function positionTiles() {
+function layoutTiles(entries) {
   let columnNumber = 0;
-  entries = document.getElementsByClassName("entry");
   const columnPositions = Array(numColumns).fill(0);
   Array.from(entries).forEach((entry) => {
     if (entry.parentElement.classList.contains("active")) {
@@ -49,6 +48,37 @@ function positionTiles() {
       entry.style.top = `${Math.random() * 2000}px`;
     }
   });
+}
+
+function positionTiles() {
+  entries = document.getElementsByClassName("entry");
+
+  // Phase 1: collapse text, lay out as compact image grid
+  Array.from(entries).forEach((entry) => {
+    var info = entry.querySelector(".entry-info");
+    if (info) info.classList.remove("revealed");
+  });
+
+  layoutTiles(entries);
+
+  // Phase 2: after grid animation, reveal text and reposition with stagger
+  // Derive delay from CSS transition-duration and transition-delay for 'top' (4th property)
+  var entryStyle = getComputedStyle(entries[0]);
+  var durations = entryStyle.transitionDuration.split(', ');
+  var delays = entryStyle.transitionDelay.split(', ');
+  var topDuration = parseFloat(durations[3] || durations[0]) * 1000;
+  var topDelay = parseFloat(delays[3] || delays[0]) * 1000;
+
+  setTimeout(() => {
+    Array.from(entries).forEach((entry) => {
+      var info = entry.querySelector(".entry-info");
+      if (info) info.classList.add("revealed");
+    });
+    // Reposition now that text takes up space
+    requestAnimationFrame(() => {
+      layoutTiles(entries);
+    });
+  }, topDuration + topDelay);
 }
 
 let positionTilesTimeout;

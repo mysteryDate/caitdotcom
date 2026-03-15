@@ -1,5 +1,16 @@
 * {
-  transition-property: color, background-color, height, width, margin, padding, left, top;
+  transition-property: color, background-color;
+  transition-duration: 0.3s;
+  transition-timing-function: ease-in-out;
+}
+.entry {
+  transition-property: color, background-color, left, top;
+  transition-duration: 0.3s, 0.3s, 1.0s, 1.0s;
+  transition-delay: 0s, 0s, 0s, 0.5s;
+  transition-timing-function: ease-in-out;
+}
+.section {
+  transition-property: left;
   transition-duration: 0.5s;
   transition-timing-function: ease-in-out;
 }
@@ -65,11 +76,22 @@ h2 {
 
 /* Entry stuff */
 .entry .image-container {
-  background-color:  black;
+  background-color:  rgba(0, 0, 0, 0.5);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
   border-radius: 10px;
+}
+.entry .entry-info {
+  transition: opacity 1.5s ease-in-out 0.3s;
+  opacity: 0;
+  height: 0;
+  overflow: hidden;
+}
+.entry .entry-info.revealed {
+  opacity: 1;
+  height: auto;
+  overflow: visible;
 }
 .entry {
   position: absolute;
