@@ -3,7 +3,7 @@ backend:
   name: github
   repo: mysteryDate/caitdotcom
   branch: gh-pages
-  base_url: https://sveltia-cms-auth.caitdotcom-auth.workers.dev
+  base_url: https://sveltia-cms-auth.aaronk-a88.workers.dev
 
 media_folder: "images"
 public_folder: "images"
