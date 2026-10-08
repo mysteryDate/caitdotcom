@@ -141,7 +141,8 @@ function init(data) {
       if (x === "url") {
         htmlEntry.href = entry[x];
       } else if (x === "image") {
-        var txt = `url("small-images/${entry[x]}.jpg")`;
+        var imageName = entry[x].replace(/^images\//, '');
+        var txt = `url("small-images/${imageName}.jpg")`;
         htmlEntry.children[0].style.backgroundImage = txt;
       } else if (htmlEntry.children[1].children[x.toLowerCase()]) {
         if (x.toLowerCase() === 'title') {
@@ -197,11 +198,15 @@ function initAwards(items) {
   });
 }
 
+function byDateNewestFirst(a, b) {
+  return (b.date || "").localeCompare(a.date || "");
+}
+
 Promise.all([
   fetch("portfolio-data.json").then(function(r) { return r.json(); }),
   fetch("awards-data.json").then(function(r) { return r.json(); })
 ]).then(function(results) {
-  data = results[0].items;
+  data = results[0].items.sort(byDateNewestFirst);
   init(data);
   initAwards(results[1].items);
   hideEmptySections(data, results[1].items);
