@@ -57,6 +57,7 @@ function positionTiles() {
     if (info) info.classList.add("revealed");
   });
   layoutTiles(entries);
+  loadVisibleThumbnails();
 }
 
 let positionTilesTimeout;
@@ -105,6 +106,24 @@ function changeSection(e) {
   changeSectionWithText(newSectionTitle);
 }
 
+const thumbnailPreloadDistance = 600;
+
+// Uses each tile's target top, not its rendered position, so tiles mid-slide don't count as visible.
+function loadVisibleThumbnails() {
+  var activeSection = document.querySelector(".section.active");
+  if (!activeSection) return;
+  var sectionTop = activeSection.getBoundingClientRect().top + window.scrollY;
+  var loadUntil = window.scrollY + window.innerHeight + thumbnailPreloadDistance;
+  activeSection.querySelectorAll("[data-image]").forEach((thumbnail) => {
+    var tileTop = sectionTop + parseFloat(thumbnail.parentElement.style.top);
+    if (tileTop < loadUntil) {
+      thumbnail.style.backgroundImage = thumbnail.dataset.image;
+      delete thumbnail.dataset.image;
+    }
+  });
+}
+window.addEventListener("scroll", loadVisibleThumbnails, { passive: true });
+
 function init(data) {
   var defaultEntry = document.getElementById("defaultEntry");
   var sections = {};
@@ -120,8 +139,7 @@ function init(data) {
         htmlEntry.href = entry[x];
       } else if (x === "image") {
         var imageName = entry[x].replace(/^images\//, '');
-        var txt = `url("small-images/${imageName}.jpg")`;
-        htmlEntry.children[0].style.backgroundImage = txt;
+        htmlEntry.children[0].dataset.image = `url("small-images/${imageName}.jpg")`;
       } else if (htmlEntry.children[1].children[x.toLowerCase()]) {
         if (x.toLowerCase() === 'title') {
           const titleLength = entry[x].length;
