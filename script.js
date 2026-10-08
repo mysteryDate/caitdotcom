@@ -135,6 +135,7 @@ function init(data) {
     htmlEntry.id = "";
     htmlEntry.style.display = "";
     for (var x in entry) {
+      if (!entry[x]) continue;
       if (x === "url") {
         htmlEntry.href = entry[x];
       } else if (x === "image") {
@@ -168,32 +169,6 @@ function init(data) {
     document.body.style.fontFamily = "curls";
 }
 
-function initAwards(items) {
-  var section = document.getElementById("awards");
-  items.forEach(function(award) {
-    var el = document.createElement("a");
-    el.className = "award-entry";
-    if (award.url) {
-      el.href = award.url;
-      el.target = "_blank";
-    }
-    var html = "";
-    if (award.image) {
-      var imageName = award.image.replace(/^images\//, '');
-      html += '<div class="award-image" style="background-image: url(\'small-images/' + imageName + '.jpg\')"></div>';
-    }
-    html += '<h3>' + award.name + '</h3>';
-    if (award.date) {
-      html += '<p class="award-date">' + award.date + '</p>';
-    }
-    if (award.description) {
-      html += '<p class="award-description">' + award.description + '</p>';
-    }
-    el.innerHTML = html;
-    section.appendChild(el);
-  });
-}
-
 function byDateNewestFirst(a, b) {
   return (b.date || "").localeCompare(a.date || "");
 }
@@ -212,16 +187,25 @@ function fetchPortfolioItems() {
   })).then(function(lists) { return lists.flat(); });
 }
 
+function awardAsEntry(award) {
+  return {
+    category: "awards",
+    Title: award.name,
+    publication: award.description,
+    date: award.date,
+    url: award.url,
+    image: award.image,
+  };
+}
+
 Promise.all([fetchPortfolioItems(), fetchItems("awards-data.json")]).then(function(results) {
-  data = results[0].sort(byDateNewestFirst);
+  data = results[0].concat(results[1].map(awardAsEntry)).sort(byDateNewestFirst);
   init(data);
-  initAwards(results[1]);
-  hideEmptySections(data, results[1]);
+  hideEmptySections(data);
 });
 
-function hideEmptySections(portfolioItems, awardsItems) {
-  var categories = new Set(portfolioItems.map(function(item) { return item.category; }));
-  if (awardsItems.length > 0) categories.add("awards");
+function hideEmptySections(items) {
+  var categories = new Set(items.map(function(item) { return item.category; }));
   categories.add("contact");
 
   var navItems = document.getElementById("navBarWrapper").children;
