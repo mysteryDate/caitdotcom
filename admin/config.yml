@@ -11,6 +11,7 @@ public_folder: "images"
 collections:
   - name: "portfolio"
     label: "Portfolio"
+    editor: { preview: false }
     files:
       - name: "portfolio-data"
         label: "Portfolio Data"
@@ -32,6 +33,7 @@ collections:
               - { name: "image", label: "Image", widget: "image", required: false }
   - name: "awards"
     label: "Awards"
+    editor: { preview: false }
     files:
       - name: "awards-data"
         label: "Awards Data"
