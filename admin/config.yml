@@ -21,6 +21,7 @@ collections:
           - name: "items"
             label: "Items"
             widget: "list"
+            add_to_top: true
             fields:
               - { name: "Title", label: "Title", widget: "string" }
               - { name: "date", label: "Date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }

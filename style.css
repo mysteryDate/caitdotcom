@@ -6,7 +6,7 @@
 .entry {
   transition-property: color, background-color, left, top;
   transition-duration: 0.3s, 0.3s, 1.0s, 1.0s;
-  transition-delay: 0s, 0s, 0s, 0.5s;
+  transition-delay: 0s;
   transition-timing-function: ease-in-out;
 }
 .section {
@@ -83,7 +83,7 @@ h2 {
   border-radius: 10px;
 }
 .entry .entry-info {
-  transition: opacity 1.5s ease-in-out 0.3s;
+  transition: opacity 1.0s ease-in-out;
   opacity: 0;
   height: 0;
   overflow: hidden;
