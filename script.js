@@ -198,14 +198,25 @@ function byDateNewestFirst(a, b) {
   return (b.date || "").localeCompare(a.date || "");
 }
 
-Promise.all([
-  fetch("portfolio-data.json").then(function(r) { return r.json(); }),
-  fetch("awards-data.json").then(function(r) { return r.json(); })
-]).then(function(results) {
-  data = results[0].items.sort(byDateNewestFirst);
+const portfolioCategories = ["articles", "fiction", "translation"];
+
+function fetchItems(fileName) {
+  return fetch(fileName).then(function(r) { return r.json(); }).then(function(d) { return d.items; });
+}
+
+function fetchPortfolioItems() {
+  return Promise.all(portfolioCategories.map(function(category) {
+    return fetchItems(category + "-data.json").then(function(items) {
+      return items.map(function(item) { return Object.assign({ category: category }, item); });
+    });
+  })).then(function(lists) { return lists.flat(); });
+}
+
+Promise.all([fetchPortfolioItems(), fetchItems("awards-data.json")]).then(function(results) {
+  data = results[0].sort(byDateNewestFirst);
   init(data);
-  initAwards(results[1].items);
-  hideEmptySections(data, results[1].items);
+  initAwards(results[1]);
+  hideEmptySections(data, results[1]);
 });
 
 function hideEmptySections(portfolioItems, awardsItems) {

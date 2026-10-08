@@ -13,13 +13,13 @@ collections:
     label: "Portfolio"
     editor: { preview: false }
     files:
-      - name: "portfolio-data"
-        label: "Portfolio Data"
-        file: "portfolio-data.json"
+      - name: "articles-data"
+        label: "Articles"
+        file: "articles-data.json"
         format: "json"
-        description: "Portfolio entries"
         fields:
-          - name: "items"
+          - &portfolio_items
+            name: "items"
             label: "Items"
             widget: "list"
             add_to_top: true
@@ -27,10 +27,19 @@ collections:
               - { name: "Title", label: "Title", widget: "string" }
               - { name: "date", label: "Date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
               - { name: "publication", label: "Publication", widget: "string" }
-              - { name: "category", label: "Category", widget: "select", options: ["articles", "fiction", "translation"] }
               - { name: "type", label: "Type", widget: "select", options: ["website", "pdf"] }
               - { name: "url", label: "URL", widget: "string" }
               - { name: "image", label: "Image", widget: "image", required: false }
+      - name: "fiction-data"
+        label: "Fiction"
+        file: "fiction-data.json"
+        format: "json"
+        fields: [*portfolio_items]
+      - name: "translation-data"
+        label: "Translation"
+        file: "translation-data.json"
+        format: "json"
+        fields: [*portfolio_items]
   - name: "awards"
     label: "Awards"
     editor: { preview: false }

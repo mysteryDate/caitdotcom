@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "Title": "Montrealers",
+      "date": "2016-03-01",
+      "publication": "Simon & Schuster",
+      "type": "website",
+      "url": "https://www.simonandschuster.ca/books/Montrealers/Jean-Francois-Nadeau/9781988002194",
+      "image": "Montrealers.png"
+    },
+    {
+      "Title": "300 raisons d'aimer New York",
+      "date": "2016-02-01",
+      "publication": "Les Éditions de L'Homme",
+      "type": "website",
+      "url": "http://www.editions-homme.com/300-raisons-aimer-new-york/droits/9782761941587",
+      "image": "300NY.png"
+    },
+    {
+      "Title": "Death in the Midden",
+      "date": "2013-04-01",
+      "publication": "carte blanche",
+      "type": "website",
+      "url": "http://carte-blanche.org/articles/death-in-the-midden-chalifour/",
+      "image": "Screen Shot 2019-12-01 at 9.31.51 PM.png"
+    },
+    {
+      "Title": "Preaching to the Fish",
+      "date": "2011-01-01",
+      "publication": "Ambos",
+      "type": "website",
+      "url": "http://ambos.ca/fish/",
+      "image": "Serment-poissons-Patrice-Lessard-ambos-Quebec-literature-translation-cover.jpg"
+    },
+    {
+      "Title": "The Multicoloured Album",
+      "date": "2014-01-01",
+      "publication": "Ambos",
+      "type": "website",
+      "url": "http://ambos.ca/album/",
+      "image": "album-multicolore-louise-dupre-ambos-quebec-literature-translation-cover.jpg"
+    },
+    {
+      "Title": "Nina",
+      "date": "2012-01-01",
+      "publication": "Ambos",
+      "type": "website",
+      "url": "http://ambos.ca/nina/",
+      "image": "nina-patrice-lessard-ambos-quebec-literature-translation-cover2.jpg"
+    },
+    {
+      "Title": "Spaces",
+      "date": "2012-01-01",
+      "publication": "Ambos",
+      "type": "website",
+      "url": "http://ambos.ca/spaces/",
+      "image": "Espaces-cover1.jpg"
+    }
+  ]
+}
