@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "Title": "Canada’s Coolest Neighbourhoods",
+      "date": "2026-07-15",
+      "publication": "Maclean's",
+      "type": "website",
+      "url": "https://macleans.ca/culture/canadas-coolest-neighbourhoods/"
+    },
+    {
       "url": "https://thenarwhal.ca/lac-simon-anishnabe-nation-caribou-quebec/",
       "Title": "Frustrated with government inaction, Quebec First Nation takes caribou conservation fight to court",
       "date": "2026-10-14",
