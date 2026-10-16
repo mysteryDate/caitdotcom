@@ -33,15 +33,15 @@ function changeSectionWithText(newSectionTitle) {
 function layoutTiles(entries) {
   let columnNumber = 0;
   const columnPositions = Array(numColumns).fill(0);
+  const activeSection = document.querySelector(".section.active");
+  const tileGap = activeSection ? parseFloat(getComputedStyle(activeSection).rowGap) : 0;
   Array.from(entries).forEach((entry) => {
     if (entry.parentElement.classList.contains("active")) {
       if (columnNumber == numColumns)
         columnNumber = 0;
       entry.style.left = `${columnNumber * window.innerWidth/numColumns}px`;
       entry.style.top = `${columnPositions[columnNumber]}px`;
-      const style = getComputedStyle(entry);
-      columnPositions[columnNumber] += entry.offsetHeight +
-        parseInt(style.marginTop) + parseInt(style.marginBottom);
+      columnPositions[columnNumber] += entry.offsetHeight + tileGap;
       columnNumber += 1;
     } else {
       entry.style.left = `0px`;
@@ -124,7 +124,13 @@ function loadVisibleThumbnails() {
 }
 window.addEventListener("scroll", loadVisibleThumbnails, { passive: true });
 
-function init(data) {
+// Portrait images stay square-capped; contain-fit leaves transparent side bars.
+function thumbnailAspectRatio(dimensions) {
+  var width = dimensions[0], height = dimensions[1];
+  return `${width} / ${Math.min(width, height)}`;
+}
+
+function init(data, thumbnailDimensions) {
   var defaultEntry = document.getElementById("defaultEntry");
   var sections = {};
   Array.from(document.getElementsByClassName("section")).forEach((s) => {
@@ -140,7 +146,10 @@ function init(data) {
         htmlEntry.href = entry[x];
       } else if (x === "image") {
         var imageName = entry[x].replace(/^\/?images\//, '');
-        htmlEntry.children[0].dataset.image = `url("small-images/${imageName}.jpg")`;
+        var smallImageName = `${imageName}.jpg`;
+        htmlEntry.children[0].dataset.image = `url("small-images/${smallImageName}")`;
+        if (thumbnailDimensions[smallImageName])
+          htmlEntry.children[0].style.aspectRatio = thumbnailAspectRatio(thumbnailDimensions[smallImageName]);
       } else if (htmlEntry.children[1].children[x.toLowerCase()]) {
         if (x.toLowerCase() === 'title') {
           const titleLength = entry[x].length;
@@ -198,9 +207,15 @@ function awardAsEntry(award) {
   };
 }
 
-Promise.all([fetchPortfolioItems(), fetchItems("awards-data.json")]).then(function(results) {
+function fetchThumbnailDimensions() {
+  return fetch("small-images/dimensions.json")
+    .then(function(r) { return r.json(); })
+    .catch(function() { return {}; });
+}
+
+Promise.all([fetchPortfolioItems(), fetchItems("awards-data.json"), fetchThumbnailDimensions()]).then(function(results) {
   data = results[0].concat(results[1].map(awardAsEntry)).sort(byDateNewestFirst);
-  init(data);
+  init(data, results[2]);
   hideEmptySections(data);
 });
 

@@ -1,9 +1,10 @@
 from PIL import Image
-import os, math
+import os, math, json
 
 IMAGE_FOLDER = "images"
 OUTPUT_FOLDER = "small-images"
 MAX_OUTPUT_DIMENSION = 600
+DIMENSIONS_FILE = "dimensions.json"
 
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 input_images = os.listdir(IMAGE_FOLDER)
@@ -26,3 +27,12 @@ for image_file_name in input_images:
     output_filename = os.path.join(OUTPUT_FOLDER, ".".join([image_file_name, "jpg"]))
     small_image.save(output_filename, format="jpeg")
     print(f"Resized {image_file_name}")
+
+dimensions = {}
+for small_image_name in sorted(os.listdir(OUTPUT_FOLDER)):
+    if small_image_name == DIMENSIONS_FILE:
+        continue
+    with Image.open(os.path.join(OUTPUT_FOLDER, small_image_name)) as small_image:
+        dimensions[small_image_name] = small_image.size
+with open(os.path.join(OUTPUT_FOLDER, DIMENSIONS_FILE), "w", encoding="utf-8") as dimensions_file:
+    json.dump(dimensions, dimensions_file, ensure_ascii=False, indent=0)
