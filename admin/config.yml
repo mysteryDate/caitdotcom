@@ -48,7 +48,6 @@ collections:
         label: "Awards Data"
         file: "awards-data.json"
         format: "json"
-        description: "Awards and honors"
         fields:
           - name: "items"
             label: "Items"

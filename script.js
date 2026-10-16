@@ -139,7 +139,7 @@ function init(data) {
       if (x === "url") {
         htmlEntry.href = entry[x];
       } else if (x === "image") {
-        var imageName = entry[x].replace(/^images\//, '');
+        var imageName = entry[x].replace(/^\/?images\//, '');
         htmlEntry.children[0].dataset.image = `url("small-images/${imageName}.jpg")`;
       } else if (htmlEntry.children[1].children[x.toLowerCase()]) {
         if (x.toLowerCase() === 'title') {
