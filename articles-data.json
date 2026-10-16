@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "Title": "Kitchen Confidential",
+      "date": "2025-07-16",
+      "publication": "Scribe",
+      "type": "website",
+      "url": "https://scribequarterly.ca/kitchen-confidential/",
+      "image": "/images/fish cakes.webp"
+    },
+    {
       "Title": "Canada’s Coolest Neighbourhoods",
       "date": "2026-07-15",
       "publication": "Maclean's",
@@ -9,11 +17,11 @@
       "image": "images/screenshot-2026-10-15-at-5.13.32 pm.png"
     },
     {
-      "url": "https://thenarwhal.ca/lac-simon-anishnabe-nation-caribou-quebec/",
       "Title": "Frustrated with government inaction, Quebec First Nation takes caribou conservation fight to court",
       "date": "2026-10-14",
       "publication": "The Narwhal",
       "type": "website",
+      "url": "https://thenarwhal.ca/lac-simon-anishnabe-nation-caribou-quebec/",
       "image": "images/screenshot-2026-10-15-at-5.10.47 pm.png"
     },
     {
@@ -243,7 +251,7 @@
     {
       "Title": "The Waiting Room",
       "date": "2023-10-25",
-      "publication": "Yolk ",
+      "publication": "Yolk",
       "type": "website",
       "url": "https://www.yolkliterary.ca/articles/the-waiting-room",
       "image": "waiting room.jpeg"
@@ -539,7 +547,7 @@
     {
       "Title": "What Nick Cave's new Montreal exhibition revealed to me about grief and dreams",
       "date": "2022-04-20",
-      "publication": "CBC ",
+      "publication": "CBC",
       "type": "website",
       "url": "https://www.cbc.ca/arts/what-nick-cave-s-new-montreal-exhibition-revealed-to-me-about-grief-and-dreams-1.6418622?fbclid=IwAR3blBTklvUZnGxrbQPxjLPJaZ86LCejKHl3lXzWdvHOAzXgCFKZSNJzvLY",
       "image": "005-nick cave-photo susan moss.jpg"
@@ -595,7 +603,7 @@
     {
       "Title": "The case for remixing your latkes this Hanukkah",
       "date": "2021-11-27",
-      "publication": "CBC ",
+      "publication": "CBC",
       "type": "website",
       "url": "https://www.cbc.ca/life/food/the-case-for-remixing-your-latkes-this-hanukkah-1.6264463",
       "image": "latkes.webp"
@@ -811,7 +819,7 @@
     {
       "Title": "A Montreal Museum Café Digs Into the Foods of the Jewish Diaspora",
       "date": "2019-12-18",
-      "publication": "Atlas Obscura ",
+      "publication": "Atlas Obscura",
       "type": "website",
       "url": "https://www.atlasobscura.com/articles/jewish-food-in-montreal?fbclid=IwAR1xmqoKZC9rZGSZnZYdQ3I_LcGI847GaJ2ZmqlDR_G5SoduIlhp6aP7t4A",
       "image": "Fletchers.jpg"
@@ -970,11 +978,11 @@
     },
     {
       "Title": "Tariffs are Spurring Shipping Noise in the St. Lawrence Seaway",
-      "url": "https://www.biographic.com/tariffs-are-spurring-shipping-noise-in-the-st-lawrence-seaway/",
-      "type": "website",
+      "date": "2026-05-28",
       "publication": "bioGraphic",
-      "image": "images/screenshot-2026-06-14-at-9.41.10 am.png",
-      "date": "2026-05-28"
+      "type": "website",
+      "url": "https://www.biographic.com/tariffs-are-spurring-shipping-noise-in-the-st-lawrence-seaway/",
+      "image": "images/screenshot-2026-06-14-at-9.41.10 am.png"
     }
   ]
 }
